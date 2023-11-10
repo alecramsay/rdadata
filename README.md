@@ -20,6 +20,10 @@ These pages describe each dataset:
 - [Shapes](./docs/shapes.md): Shape properties by precinct.
 - [Graph](./docs/data.md): Precinct adjacency graph.
 
+Some helper scripts are described here:
+
+- [Scripts](./docs/scripts.md): Scripts to re-format the data for specific applications.
+
 ## Sources
 
 The data comes from the following sources:
