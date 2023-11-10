@@ -2,7 +2,7 @@
 #
 
 """
-Join the census & election data for a state.
+JOIN THE CENSUS & ELECTION DATA FOR A STATE
 
 For example:
 
