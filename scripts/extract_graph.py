@@ -2,7 +2,7 @@
 #
 
 """
-Extract a contiguity graph for a state & geographic unit.
+EXTRACT A CONTIGUITY GRAPH FOR A STATE & GEOGRAPHIC UNIT.
 
 For example:
 
@@ -20,12 +20,14 @@ For documentation, type:
 
 $ scripts/extract_graph.py -h
 
+TODO - Make this work again. Save to JSON instead of pickling.
+
 """
 
 import argparse
 from argparse import ArgumentParser, Namespace
 
-from baseline import *
+from rdadata import *
 
 
 def parse_args() -> Namespace:
@@ -40,13 +42,6 @@ def parse_args() -> Namespace:
         help="The two-character state code (e.g., NC)",
         type=str,
     )
-    # parser.add_argument(
-    #     "-u",
-    #     "--unit",
-    #     default="vtd",
-    #     help="The geographic unit (e.g., vtd)",
-    #     type=str,
-    # )
     parser.add_argument(
         "-w", "--water", dest="water", action="store_true", help="Water-only precincts"
     )
@@ -76,12 +71,6 @@ def main() -> None:
     args: Namespace = parse_args()
 
     xx: str = args.state
-    # unit: str = args.unit
-
-    # NOTE - This replaces the command-line argument.
-    unit = study_unit(xx)
-
-    unit_label: str = "vtd20" if unit == "vtd" else unit
     water: bool = args.water
     adds: bool = args.adds
     unpopulated: bool = args.unpopulated
@@ -89,8 +78,13 @@ def main() -> None:
 
     #
 
-    assert not water  # NOTE - Water-only precincts handled in baseline code.
-    assert not unpopulated  # NOTE - Unpopulated precincts handled in baseline code.
+    unit = study_unit(xx)
+    unit_label: str = "vtd20" if unit == "vtd" else unit
+
+    #
+
+    assert not water  # NOTE - Handle water-only precincts in the code.
+    assert not unpopulated  # NOTE - Handle unpopulated precincts in the code code.
 
     #
 
@@ -100,7 +94,7 @@ def main() -> None:
     id: str = unit_id(unit)
 
     shp_dir: str = file_name(["tl_2020", fips, unit_label], "_")
-    shp_path: str = path_to_file([rawdata_dir, xx, shp_dir]) + file_name(
+    shp_path: str = path_to_file([shapes_dir, xx, shp_dir]) + file_name(
         ["tl_2020", fips, unit_label], "_", "shp"
     )
 

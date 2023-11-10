@@ -1,4 +1,5 @@
 fiona==1.9.5
+geopandas==0.14.0
+libpysal==4.9.2
 pytest==7.4.2
-rdapy==1.4.0
 Shapely==2.0.2
