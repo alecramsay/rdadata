@@ -4,7 +4,20 @@ Census and election data by precinct are stored in the `data` directory by state
 They have the following columns:
 
 ```
-GEOID, TOTAL_POP, TOTAL_VAP, WHITE_VAP, HISPANIC_VAP, BLACK_VAP, NATIVE_VAP, ASIAN_VAP, PACIFIC_VAP, MINORITY_VAP, TOT_VOTES, REP_VOTES, DEM_VOTES, OTH_VOTES
+GEOID
+TOTAL_POP
+TOTAL_VAP
+WHITE_VAP
+HISPANIC_VAP
+BLACK_VAP
+NATIVE_VAP
+ASIAN_VAP
+PACIFIC_VAP
+MINORITY_VAP
+TOT_VOTES
+REP_VOTES
+DEM_VOTES
+OTH_VOTES
 ```
 
 `TOTAL_POP` is the total population of the precinct.
