@@ -18,7 +18,7 @@ These pages describe each dataset:
 
 - [Data](./docs/data.md): Census and election data by precinct.
 - [Shapes](./docs/shapes.md): Shape properties by precinct.
-- [Graph](./docs/data.md): Precinct adjacency graph.
+- [Graph](./docs/graph.md): Precinct adjacency graph.
 
 Some helper scripts are described here:
 
