@@ -1,0 +1,23 @@
+{
+    "census_suffix": "3",
+    "geoid": "GEOID20",
+    "total": "Tot_2020_tot",
+    "demos": [
+        "Tot_2020_vap",
+        "Wh_2020_vap",
+        "His_2020_vap",
+        "BlC_2020_vap",
+        "NatC_2020_vap",
+        "AsnC_2020_vap",
+        "PacC_2020_vap"
+    ],
+    "election_suffix": "",
+    "elections": [
+        "2020_pres",
+        "2020_ag",
+        "2018_gov",
+        "2018_sen",
+        "2016_pres",
+        "2016_sen"
+    ]
+}
