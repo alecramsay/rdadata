@@ -1,0 +1,4 @@
+fiona==1.9.5
+pytest==7.4.2
+rdapy==1.4.0
+Shapely==2.0.2
