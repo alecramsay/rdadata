@@ -13,7 +13,10 @@ import os
 from rdadata import *
 
 for xx in ENSEMBLE_STATES:
-    command: str = f"scripts/join_data.py -s {xx}"
+    if xx == "NC":
+        continue
+
+    command: str = f"scripts/extract_shape_data.py -s {xx}"
     command = command.format(xx=xx)
     print(command)
     os.system(command)
