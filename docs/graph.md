@@ -18,3 +18,5 @@ For example:
 ```
 
 The graph includes the virtual "OUT_OF_STATE" node, which is adjacent to all precincts on the border of the state.
+
+See the [helper scripts](./scripts.md) for how to convert the graph into pairs of adjacent precincts.
