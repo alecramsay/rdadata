@@ -16,6 +16,7 @@ block_data_dir: str = "../../../local/pg-rawdata"
 
 # Within a project
 data_dir: str = "data"
+temp_dir: str = "temp"
 testdata_dir: str = "testdata"
 intermediate_dir: str = "intermediate"
 maps_dir: str = "maps"
