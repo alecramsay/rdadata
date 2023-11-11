@@ -1,0 +1,1839 @@
+
+GEOID,NAME
+01001000001,Jones Community Ctr
+01001000002,Heritage Baptist Church
+01001000003,Billingsley Community Ctr
+01001000004,East Memorial Christian Academy
+01001000005,White City VF Station
+01001000006,Marbury Middle School
+01001000007,Boone's Chapel
+01001000008,Independence VFD
+01001000009,Booth VFD
+01001000010,Trinity Methodist Church
+01001000011,Central AL Electric Co-Op
+01001000012,Old Kingston VFD
+01001000013,Upper Kingston Community Ctr
+01001000014,Autaugaville VFD
+01001000015,Prattmont Baptist Church
+01001000016,Doster Community Ctr
+01001000017,Camellia Baptist Church
+01001000018,County Line Baptist Church
+01003000001,Little River VFD
+01003000002,Tensaw VFD
+01003000003,Old Vaughn School
+01003000004,Crossroads Durant Chapel Bapt Church
+01003000005,Douglasville Boykin Ctr
+01003000006,Bromley Substation-Crossroads VFD
+01003000007,Spanish Fort New Life Assembly of God Church
+01003000008,Loxley Ellisville Community Ctr
+01003000009,Loxley Civic Ctr
+01003000010,Point Clear St Francis Point Anglican Church
+01003000011,Lottie VFD
+01003000012,Stockton Civic Bldg
+01003000013,Rabun VFD
+01003000014,Peridido VFD Station #1
+01003000015,Bay Minette City Hall / Civic Ctr
+01003000016,Pine Grove VFD Station #1
+01003000017,White House Fork VFD
+01003000018,Stapleton VFD
+01003000019,Gateswood VFD
+01003000020,Daphne High School
+01003000021,Clear Springs UM Church
+01003000022,Rosinton UM Church
+01003000023,Belforest Community Ctr
+01003000024,Silverhill Community Ctr
+01003000025,PZK Hall
+01003000026,Bethel Bapt Church
+01003000027,Seminole Fire House
+01003000028,Lillian Community Club
+01003000029,Peridido Beach VFD
+01003000030,Marlow/Fish River VFD
+01003000031,Sumerdale Community Ctr
+01003000032,Elberta Civic Ctr
+01003000033,Graham Creek Interpretive Ctr
+01003000034,Josephine VFD
+01003000035,Daphne Civic Ctr
+01003000036,Magnolia Springs Wesleyan Church
+01003000037,Bon Secour Morgan's Chapel UM Church
+01003000038,Foley Civic Ctr
+01003000039,Gulf Shores Meyer Civic Ctr
+01003000040,Fort Morgan VFD #1
+01003000041,Orange Beach Community Ctr
+01003000042,Fairhope Civic Ctr
+01003000043,Fairhope 3 Circle Church
+01003000044,Barnwell VFD
+01003000045,Spanish Fort Community Ctr
+01003000046,Spanish Fort Church of Christ
+01003000047,Foley UM Church
+01003000048,Gulf Shores Cultural Ctr
+01003000049,Fairhope Avenue Bapt Church
+01005000001,Baker Hill Town Hall
+01005000002,Sutton/Elamville VFD
+01005000003,Clio City Hall
+01005000004,Bevill Ctr
+01005000005,McCoo/Eufaula WB/Fellowship BC/Sanford
+01005000006,Clayton Courthouse
+01005000007,Eufaula Comm Ctr
+01005000008,Mt. Andrew Comm Ctr.
+01005000009,Louisville City Hall
+01005000010,Texasville Comm Ctr
+01005000011,Springhill VFD
+0100500008A,Green's Cross VFD
+0100500010A,Blue Springs City Hall
+01007000001,Green Pond FD
+01007000003,Eoline FD
+01007000004,Brent City Hall
+01007000005,Centreville Rock Bdg
+01007000007,Lawley Comm Ctr
+01007000009,Brent NG Armory
+01007000020,Alternative School
+01007000060,Six Mile Comm Ctr
+01009000001,Mt. High
+01009000002,Smoke Rise
+01009000003,Blount Springs
+01009000004,Hayden
+01009000005,Sugar Creek
+01009000006,Nectar
+01009000007,Blountsville
+01009000008,Summitt
+01009000009,Royal
+01009000010,Brooksville
+01009000011,Snead Comm Ctr
+01009000012,Susan Moore
+01009000013,Murphree Valley
+01009000014,Straight Mountain
+01009000015,Holly Springs
+01009000016,Cleveland
+01009000017,Locust Fork
+01009000018,Dallas/Selfville
+01009000019,Remlap
+01009000020,Pine Mountain
+01009000021,All Good Town Hall
+01009000022,Oneonta
+01009000023,Rosa
+01009000024,Rock Springs
+01011000003,Union Springs Armory
+01011000005,Indian Creek
+01011000007,Inverness
+01011000009,Cornerstone
+01011000010,Post Oak
+010110001-1,Midway
+010110001-2,Three Notch
+010110002-1,Guerryton
+010110002-2,Peachburg
+010110004-1,Aberfoil
+010110004-2,Sardis
+010110006-1,Perote
+010110006-2,Corinth
+010110008-1,Fitzpatrick
+010110008-2,Thompson
+01013000001,PROVIDENCE
+01013000002,INDUSTRY SCHOOL HOUSE
+01013000005,STEINER'S STORE
+01013000006,MIDWAY
+01013000007,HARRISON'S
+01013000008,SEARCY VFD
+01013000009,MANNINGHAM
+01013000010,MONTEREY SCHOOL HOUSE
+01013000011,FOREST HOME
+01013000013,GARLAND
+01013000015,FRIENDSHIP SCHOOL HOUSE
+01013000016,ROCKY CREEK
+01013000017,CENTER HILL
+01013000018,MCLAIN'S
+01013000019,MCKENZIE CITY HALL
+01013000020,BOILING
+010130012.2,GREENVILLE POLICE DEPT
+010130012.3,BUTLER CO HEALTH DEPT
+010130014.1,CHAPMAN POST OFFICE
+010130014.5,SR MULTI-PURPOSE CTR
+01013012.4A,CENTRAL VFD
+01013012.4B,DUNBAR COMM CTR
+01015000001,Jacksonville
+01015000002,Alexandria Civitan Club
+01015000003,Hope Comm Ctr
+01015000004,Eulaton/Bynum/West Park Heights/Betta View
+01015000005,First UM Weaver/Angel Fire Station
+01015000006,Friendship Bapt Church
+01015000007,AP Hollingsworth Comm Ctr
+01015000008,Asberry Bapt Church
+01015000009,Piedmont
+01015000010,White Plains VFD
+01015000011,White Plains First Bapt
+01015000012,DeArmanville UM/Choccolocco
+01015000013,Oxford Civic Ctr/Cheaha Club
+01015000014,Boiling Springs Bapt
+01015000015,Anniston
+01015000016,Trinity Bapt Church
+01015000017,Ohatchee First Bapt Church
+01015000018,Oak Grove Bapt Church
+01015000019,Saks High/ Leatherwood Civil Def
+01015000020,Friendship Comm Ctr
+01015000021,Mt. View Bapt Church
+01015000022,1st Presby/Golden Springs/Donoho/Hwy Dept
+01017000001,Standing Rock
+01017000002,Mt Olive
+01017000003,Milltown
+01017000004,Union Hill
+01017000005,Five Points
+01017000006,Fredonia
+01017000007,Lanette
+01017000008,LaFayette
+01017000009,Ridge Grove
+01017000010,West Chambers
+01017000012,Cusseta
+01017000013,Huguley
+01017000014,Valley Sportsplex
+010170001-A,Stroud
+010170003-A,Sparkling Springs
+010170005-A,Buffalo
+010170005-B,Penton
+010170007-A,Lakeview
+010170010-A,Waverly
+01019000001,Friendship Church/Mt. Calvery Church
+01019000002,Broomtown VFD
+01019000003,Valley Church
+01019000004,Unity Bapt Church
+01019000005,Gaylesville City Hall
+01019000006,Tucker's Chapel VFW
+01019000007,Daniel's Chapel
+01019000008,Cedar Bluff Church
+01019000009,New Hope Church
+01019000010,Sand Rock Town Hall
+01019000011,Leesburg VFD
+01019000012,Rec Outreach Ctr
+01019000013,Ebenezer Church
+01019000014,Shady Grove Church
+01019000015,Mt. Weisner VFD/Mt Wesiner
+01019000016,Congregational Church
+01019000017,Spring Creek VFD
+01019000018,McCord's Crossroad VFD/ Rock Run Church
+01019000019,Goshen UM Church
+01019000020,Spring Garden VFD
+01021000020,Maplesville Fire St
+01021000030,So. Chilton Fire Station
+01021000050,Fairview Fire St
+01021000070,Enterprise Fire St
+01021000090,Verbena Fire Station
+01021000110,Providence , East Chilton Fire Station
+01021000120,Cane Creek Fire St
+01021000140,Union Grove Fire Station
+01021000160,City of Jemison
+01021000170,Providence, North Chilton Fire Station
+01021000180,Mars Hill Fire St
+01021000200,Thorsby Town Hall
+01021000210,Collins Chapel Fire St
+01021000220,Isabella Fire St
+01021000240,Douglas Glass Amer. Legion #6
+01021000250,Clanton Library
+01021000260,Clanton Rec Ctr
+01021000270,Chilton Courthouse
+01023000001,Pennington
+01023000003,Pelham
+01023000004,Crossroad
+01023000006,Halsell
+01023000007,Yantley
+01023000010,Lisman
+01023000012,Pushmataha
+01023000013,Butler
+01023000020,Hurricane
+01023000023,Mt. Sterling
+01023000024,Lavaca
+01023000025,Bogueloosa
+01023000027,Toxey
+01023000029,Gilbertown
+01023000031,Melvin
+01023000033,Barrytown
+01023000034,Womack Hill
+01023000035,Chappell Hill
+01023000036,Cullomburg
+01023000037,Bladon Springs
+01023000039,Silas
+01023000041,Souwilpa
+01023000042,Isney
+01023000043,Toomey
+01023000044,Lusk
+01023000045,Pleasant Hill
+01023000046,Ararat
+01023000047,Riderwood
+01023000048,Rock Springs
+01023000049,Branch
+01025000001,Goodhope/Choctaw Bluff
+01025000002,Saltworks/Rockville
+01025000003,Jackson City Hall
+01025000004,Walker Overstreet Groc
+01025000005,Morning Star Church
+01025000006,Gosport VFD
+01025000007,Skipper/Jackson
+01025000008,Salitpa FD
+01025000009,Winn VFD
+01025000010,Grove Hill
+01025000011,Nettlesboro VFD
+01025000012,Whatley
+01025000013,Coffeeville Town Hall
+01025000014,Thomasville NG Amory
+01025000015,Hopewell Bapt Church
+01025000016,Opine-Tallahatta VFD
+01025000018,Fulton Fire Station
+01025000019,Walnut Grove Church
+01025000020,Bashi Meth Church
+01025000021,Thomasville
+01025000022,Fulton City Hall
+01027000102,Shinbone VFD
+01027000201,Delta Comm Ctr
+01027000301,Barfield VFD
+01027000601,Highland-Coppermine FD
+01027000602,Idaho FD
+01027000701,Hipine FD
+01027000801,Millerville Fire Dept.
+01027000802,Coleta FD
+01027000901,Bibb Graves Comm Ctr
+01027001001,Hollins Comm Ctr
+01027001102,Mellow Valley H.S.
+01027001201,Cragford FD
+01027001401,Bluff Springs FD
+01027001801,Ashland Guard Armory
+01027002101,Lineville/Farmers Mrkt
+01027002201,Ashland National Guard
+01027002401,Tri-Community F.D.
+010290001-3,Muscadine VFD
+01029000101,Borden Springs
+01029000102,Piney Woods VFD
+01029000104,Fruithurst City Hall
+01029000105,Edwardsville Comm Ctr
+01029000106,Plainview VFD
+01029000201,Heflin Rec Ctr
+01029000301,Hopewell School
+01029000302,Ranburne FD
+01029000401,Abel
+01029000402,Chulafinnee Lodge
+01029000403,Greens Chapel
+01029000404,Micaville VFD
+01029000405,Turkey Heaven VFD
+01031000000,Unassigned
+01031000001,Kinston City Hall
+01031000002,Basin
+01031000003,Elba National Grd.
+01031000004,Pine Level Sr. Ctr.
+01031000005,Newbia
+01031000006,Bluff Springs
+01031000007,Zion Chapel Sr. Ctr.
+01031000008,Lee Community
+01031000009,Wise Mill
+01031000010,Victoria BC
+01031000011,New Brockton Farm Ctr
+01031000012,Chestnut Grove
+01031000013,Frisco
+01031000014,Eanon
+01031000015,Heritage UMC
+01031000016,Elba Rec. Ctr.
+01031000017,Damascus Sr. Ctr.
+01031000018,Pleasant Ridge
+01031000019,Ino Sr. Ctr.
+01031000020,Goodman
+01031000021,Holley's Store
+01031000022,Enterprise State Comm. College
+01031000023,Mt. Pleasant Sr. Ctr.
+01031000024,Cool Springs
+01031000025,Elba Zion Christian Comm. Ctr.
+01031000026,New Brocton Sr. Ctr.
+01031000027,Johns Chapel AME
+01031000028,YMCA
+01031000029,Enterprise Rec. Ctr.
+010330001-1,East Colbert Sr Ctr
+010330001-2,Hatton Bapt Church
+010330002-1,Tuscumbia Calvary Bapt
+010330002-2,Parkview Church
+010330002-3,Tuscumbia Multi-Purp Ctr
+010330002-4,Hope Haven
+010330002-5,Westside Church
+010330003-1,Barton First Bapt Church
+010330004-1,Cherokee Lions Den
+010330006-1,Margerum Comm Church
+010330007-1,Mynot Church
+010330008-1,Srygley Church of Christ
+010330009-1,New Bethel FD
+010330010-2,La Grange FD
+010330011-1,Leighton Civic Ctr
+010330011-2,Leighton City Hall
+010330012-1,Littleville City Hall
+010330013-1,Pride Bapt Church
+010330014-1,Spring Valley Church of God
+010330014-2,County Hwy Dept
+010330014-3,Cave Springs Bapt
+010330015-1,Allsboro Cumberland Church
+010330016-1,Sheffield Bd of Ed
+010330016-2,Sheffield FD 2nd St
+010330016-3,Sheffield Michael Ctr
+010330016-4,Sheffield Rec Ctr
+010330016-6,Sheffield COARMM
+010330016-7,Tree House School
+010330017-1,First Southern Bapt
+010330017-2,Gatman Park & Rec Ctr
+010330017-3,Woodward Ave Church
+010330017-4,Plumbers/Steamfitters Hall
+010330017-5,Grace Life Church
+010330017-6,Muscle Shoals City Hall
+010330018-1,Colbert Heights Church
+01035000011,Annex
+01035000021,Lyeffion Fire Dept.
+01035000022,Skinnerton FD
+01035000032,Robinson's Mill
+01035000041,Belleville Church
+01035000042,Old Field Church
+01035000043,China Rec & Ed Ctr
+01035000052,Lenox Comm House
+01035000053,Sandcutt Fire Dept.
+01035000061,Castleberry Nutrition Ctr
+01035000062,Castleberry Fire Dept.
+01035000071,Brooklyn Fire Dept.
+01035000072,Paul Fire Dept.
+01035000073,Johnsonville Fire Dept.
+01035000081,Antioch Fire Dept
+01035000092,Herbert FD
+01035000101,Brownville Fire Dept.
+01035000102,Flat Rock Fire Dept.
+01035000111,David Burt Building
+01035000113,Carver Rec Ctr
+01035000121,Nazarene Church
+01035000131,Repton City Hall
+01035000142,2nd Mt Zion Church
+01035000152,Bermuda Comm Ctr
+01035000161,Little Zion Church
+01035000511,Range Fire Dept.
+01035001141,Health Dept.
+01037000015,Community Life Ctr
+01037000108,Equality Church
+01037000302,Kellyton Civic
+01037000401,Goodwater Comm Ctr
+01037000420,Mt Olive Comm Ctr
+01037000603,Hanover FD
+01037000710,Courthouse
+01037001117,Weogufka
+01037001205,West Coosa Sr Ctr
+01037001318,Marble Valley FD
+01037001513,Richville Fire Dept
+01037001707,Ray Fire Dept
+01039000001,Andalusia Kiwanis
+01039000002,Hopewell
+01039000003,Opp Sr Center
+01039000004,Harmony Masonic
+01039000005,Marvin Adams
+01039000006,Loango
+01039000007,Lockhart City Hall
+01039000008,Babbie FD
+01039000009,Florala NG
+01039000010,Wing Fire Dept
+01039000011,Buck Creek
+01039000012,Red Level City Hall
+01039000013,Blue Springs
+01039000014,Union Grove FD
+01039000015,Gantt City Hall
+01039000016,Straughn-Heath CH
+01039000017,Rose Hill Comm Ctr
+01039000018,River Falls City Hall
+01039000019,Red Oak
+01039000020,Sanford City Hall
+01039000021,Carolina City Hall
+01039000022,Libertyville
+01039000023,Beulah BC
+01041000001,Panola Comm Ctr
+01041000002,Danielsville School
+01041000003,Petrey Comm Ctr
+01041000004,Honoraville VFD
+01041000005,Patsburg Depot Bldg
+01041000006,Rutledge Comm Ctr
+01041000007,Vidette Comm Ctr
+01041000008,Bush's Grocery
+01041000009,Brantley Comm Ctr
+01041000010,Glenwood City Hall
+01041000011,Weeds Store
+01041000012,Pleasant Home School
+01041000013,Highland Home VFD
+01041000014,County Courthouse
+01041000015,Dozier City Hall
+01041000016,Harbin Farm Ctr
+01041000017,Lillery Store
+01041000018,Chapel Hill Comm Ctr
+01043000010,Cullman (1-1,1-2,1-3,1-4,1-5,1-6,1-7)
+01043000021,Good Hope City Hall
+01043000022,Dodge City Town Hall
+01043000031,Hanceville City Hall
+01043000032,Hanceville Civic Ctr
+01043000040,Garden City Town Hall
+01043000050,Stouts Mountain Church
+01043000061,Moody Town Union Hill Church
+01043000062,Colony Town Hall
+01043000070,Arkedelphia FD
+01043000080,Beat 8 Comm Ctr
+01043000090,Cold Springs FD
+01043000100,Bremen FD
+01043000111,Trimble Fire Dept
+01043000112,Valley Grove Comm Ctr
+01043000120,Crane Hill FD
+01043000130,Bethsadia FD
+01043000141,Logan FD
+01043000142,Bethel Comm Ctr
+01043000150,Jones Chapel FD
+01043000160,Battleground FD
+01043000171,West Point Comm Ctr
+01043000172,Friendship Church
+01043000181,Vinemont Comm Ctr
+01043000182,Providence FD
+01043000190,Gold Ridge Comm Ctr
+01043000201,Baileyton Sr Ctr
+01043000202,Brooklyn Comm Ctr
+01043000211,Joppa VFD
+01043000212,New Canaan
+01043000220,Holly Pond FD
+01043000230,Berlin Comm Ctr
+01043000240,Walter Comm Ctr
+01043000250,Welti Mt Zion Church
+01043000260,Brushy Pond Comm Ctr
+01043000270,White City Comm Ctr
+01043000281,Fairview FD/Town Hall
+01043000290,Grandview Comm Ctr
+01043000300,Kelley Comm CTR
+01043000310,Center Hill Comm Ctr
+01043000320,Simcoe Comm Ctr
+01043000330,Baldwin Comm Ctr
+01043000340,Cullman Co Health Dept.
+01043000350,East Point Comm Ctr
+01043000360,Belle Vue Hall
+01045000001,Ozark Civic Ctr
+01045000002,Clayhatchee Comm
+01045000003,Daleville Cultural
+01045000004,Newton Town Hall
+01045000005,Arguta Comm Ctr
+01045000006,Pinckard Town Hall
+01045000007,Rocky Head
+01045000008,Midland City
+01045000009,Echo Fire
+01045000010,Clopton Comm
+01045000011,Skipperville Church
+01045000012,Ariton City Hall
+01045000013,Bertha Church
+01045000014,Ewell FD
+01045000015,Marley Mill
+01045000016,Level Plains
+010450007-1,Rocky Head Ft Rucker
+010450008-1,Sylvan Grove
+010450008-2,Grimes Comm Ctr
+01047000101,Plantersville VFD
+01047000201,Summerfield VFD
+01047000302,Valley Grande Comm Ctr
+01047000401,Orrville HS
+01047000402,Beloit Comm Ctr
+01047000501,Tipton School
+01047000502,Selmont Water Works
+01047000601,Tyler Comm Ctr
+01047000701,Good Hope Church
+01047000801,Mt. Zion Church
+01047000901,Union New NG Armory
+01047001001,YMCA
+01047001101,Safford Comm Ctr
+01047001201,Marion Jct Exp
+01047001301,Shiloh School Bldg
+01047001401,New St Johns Minist
+01047001501,Carlowville Minter VFD
+01047009131,Dallas Co Courthouse
+01047009182,East End Fire Station
+01047009183,GWC Homes Ctr
+01047009342,Selma Mall
+01047009343,Woodrow Ave FD
+01047009352,Rangedale Ctr
+01047009363,Broad Street Fire Station
+01047009372,Broad St Fire
+01047009512,Memorial Stadium
+01047009521,Barrett Rd Church
+01047009530,Christian Outaech Alliance
+01047009544,Queen of Peace School
+01049000001,District One
+01049000002,District Two
+01049000003,District Three
+01049000004,District Four
+01051000011,Tallaweka Church
+01051000021,God's Congreg Church
+01051000029,Wetumpka Civic Ctr
+01051000031,Friendship Comm Ctr
+01051000041,Asbury-Kent Comm Ctr
+01051000051,Kowaliga Fire Dept.
+01051000052,Redhill Comm Ctr
+01051000061,Eclectic Church
+01051000071,Seman Comm Ctr
+01051000081,Santuck Comm Ctr
+01051000101,Wallsboro Comm Ctr
+01051000111,Weoka Comm Ctr
+01051000121,Buyck FD
+01051000131,Titus Comm Ctr
+01051000141,New Hope Church
+01051000151,Cains Chapel Life Ctr
+01051000161,Deatsville VFD
+01051000171,Crenshaw Park
+01051000181,New Home Church
+01051000201,Coosada Town Hall
+01051000220,Grandview Pines Church
+01051000221,Nazarene
+01051000222,Victory Baptist
+01051000231,Millbrook Civic Ctr
+01051000261,Fain Sr Ctr
+01051000311,Rushenville Church
+01051000321,Blue Ridge Church
+01051000331,Mulder Church
+01051000341,Rock Springs
+01053000010,Alco-JD Museum
+01053000030,Brewton- Civic Ctr
+01053000040,Appleton VFD
+01053000050,East Brewton Sail Ctr
+01053000070,Riverview Town Hall
+01053000080,Rock Hill-Ridge VFD
+01053000090,Bethel-Roberts VFD
+01053000100,Bradley VFD
+01053000110,Dixie VFD
+01053000120,Damascus-Boykin School
+01053000140,Flomaton Comm House
+01053000150,Flomaton Town Hall
+01053000160,Little Escambia
+01053000170,Pineview
+01053000180,Barnett Crossroads VFD
+01053000190,Huxford Masonic Lodge
+01053000210,Wallace Church
+01053000220,1st United Methodist
+01053000230,Pollard Town Hall
+01053000240,County Hwy Dept
+01053000250,Catawba Springs
+01053000260,Atmore Public Library
+01053000270,Canoe Civic Club
+01053000280,Little Rock Store
+01053000290,Poarch Sail Center
+01053000300,McCullough VFD
+01053000310,Atmore City Hall
+01053000320,New Order Church
+01053000330,Nokomis VFD
+01055000008,Tabernacle Church Act. Ctr.
+01055000016,Fords Valley Wtr. CO-OP
+01055000101,Noccalula Kiwanis Pavilion
+01055000102,Elliott Comm. Ctr.
+01055000103,Carver Comm. Ctr.
+01055000104,N. Gadsden Rec. Ctr.
+01055000105,Old Gadsden High Sch.
+01055000106,Walnut Park Rec. Ctr.
+01055000107,Downtown Civic Ctr
+01055000109,Wallace Hall GSCC
+01055000110,Meadowbrook BC
+01055000111,E. Gadsden Rec. Ctr.
+01055000201,Southside Comm. Ctr.
+01055000301,Tillison Bend Water Auth.
+01055000401,George Wallace Sr. Ctr
+01055000501,Hokes Bluff Comm. Ctr.
+01055000801,N.E. Etowah Comm. Ctr.
+01055001001,Lookout Mtn. Comm. Ctr.
+01055001101,Reece City Town Hall
+01055001301,Cave Springs Comm. Ctr.
+01055001401,1st UMC
+01055001402,Attalla Rec. Ctr.
+01055001501,Mountainboro VFD
+01055001601,Sardis Comm. Ctr.
+01055001603,New Union Comm. Ctr.
+01055001701,Egypt Comm. Ctr.
+01055001901,Walnut Grove VFD
+01055002001,Altoona FD
+01055002201,Gallant Comm. Ctr.
+01055002301,Rainbow City Comm. Ctr.
+01055002401,Whorton Bend FS
+01055002501,Rainbow City Fd #2
+01055002601,Ivalee VFD
+01057000101,Fayette-Civic/Youth/Covin
+01057000201,Ridge-Concord
+01057000301,Studdard/Elm Grove
+01057000401,Stough Trinity Church
+01057000501,Russell-BoBo School
+01057000601,Cole-Killingswprth/Hubbert
+01057000701,Hico-Newtonville
+01057000801,Collins Mt Vernon
+01057000901,Berry Civic Ctr
+01057001001,Lee-Belk/Palestine
+01057001101,Browns-Glen Allen/White Chapel
+01057001201,Webster-Wayside
+01057001301,Boley Springs Church
+01057001401,Gilpin -Lawrence Mill
+01057001501,Clear Creek
+01057001601,Thompson-Kirkland
+01057001701,Stonewall_Cannon
+01057001801,Bylar Voting Ctr
+01057001901,Fords-Rehobeth Church
+01057002001,George's Creek
+01057002201,Sugar Creek
+01059000001,Union Comm Ctr
+01059000002,Russellville
+01059000003,Frankfort Comm Ctr
+01059000004,Pleasant Site VFD
+01059000005,Red Bay
+01059000006,Vina FD
+01059000007,Belgreen FD
+01059000008,Hodges Comm Ctr
+01059000009,Phil Campbell Sr Ctr
+01059000010,Rockwood
+01059000011,Mount Star Hills
+01059000012,Quinns/Sts Crossroads
+01059000013,Tharptown School
+01059000014,Halltown Comm Ctr
+01059000015,Lawlers Fire Dept
+01059000016,Waco Church
+01059000017,Jonesboro Comm Ctr
+01059000018,Spruce Pine
+01059000019,East Franklin
+01059000020,Newburg Masonic Ldg
+01061000003,Malvery Comm Ctr
+01061000004,Fadette Comm Ctr
+01061000005,Tate-Slocomb
+01061000006,Hughes Comm Ctr
+01061000007,Hughes Voting House
+01061000008,Black-Kelley Cross Roads
+01061000009,Bellwood-Chancellor
+01061000010,Geneva Courthouse
+01061000011,Coffee Springs
+01061000012,Lytle Comm Ctr
+01061000013,Piney Grove-Samson
+01061000014,Gilmore Comm Ctr
+01061000015,Lowery-Revels Store
+01061000016,Hacoda-Flat Creek
+01061000017,Devco Comm Ctr
+01063000101,Greene County Courthouse
+01063000102,Mantua Fire Dept.
+01063000103,Jena Fire Dept
+01063000104,Union City Hall
+01063000105,Knoxville Fire Dept
+01063000201,National Guard Armory
+01063000202,South Fork
+01063000301,Eutaw Activity Ctr
+01063000302,Brown-Morrow Branch
+01063000401,Forkland City Hall
+01063000402,Tishabee Rec Center
+01063000501,Boligee Fire Dept
+01063000502,Mt. Hebron Pre-School
+01063000503,Clinton Comm Ctr
+01065000001,Havanna
+01065000002,Akron City Hall
+01065000003,Bucksnort
+01065000004,Greensboro Armory
+01065000005,Newbern
+01065000006,Sawyerville
+01065000007,Lock 5 VFD
+01065000008,Gallion
+01065000009,Mt Horeb Bapt
+01065000010,Mount Herman
+01065000011,Valley
+01065000012,Moundville City Hall
+01065000013,Phipps Work Center
+01065000016,Stewart
+01067000001,Headland Armory
+01067000002,Tumbleton Vote Hse
+01067000003,Douglas Crossroads
+01067000004,Haleburg Hall
+01067000005,Union Voting House
+01067000006,Capps Post Office
+01067000007,Newville Vote Hse
+01067000008,Wills Cross Roads
+01067000009,Edwin Clubhouse
+01067000010,Abbevile Armory
+01067000011,Shorterville House
+01067000012,Judson Com.
+01067000013,Lawrenceville
+01069000101,Ashford Depot
+01069000111,Bay Springs VFD
+01069000121,Rossie Purcell Library
+01069000131,Cottonwood City Hall
+01069000141,Cowarts City Hall
+01069000152,Doug Tew Comm Ctr
+01069000171,Enterprise Church
+01069000181,Farm Center
+01069000191,Gordon City Hall
+01069000211,Hodgesville VFD
+01069000221,Walton Park
+01069000233,Kinsey Sr Ctr
+01069000241,Dothan Civic Ctr
+01069000251,Andrew Belle Comm Ctr
+01069000271,St Johns Pk
+01069000281,Madrid Sr Ctr
+01069000291,Pansey VFD
+01069000301,Rehobeth Complex
+01069000311,Taylor City Hall
+01069000323,Vaughn Blumberg Ctr
+01069000331,Water & Electric
+01069000341,Webb City Hall
+01069000352,Westgate Park
+01069000361,Wicksburg VFD
+01069000371,Wiregrass Park
+01069000410,Dothan 1st Assembly
+01069000501,Mt Gilead Church
+01071000001,Bridgeport Comm Ctr
+01071000002,Long Island Comm Ctr
+01071000003,Stevenson City Park
+01071000004,Bryant Comm Ctr
+01071000005,Flat Rock Ruritan Bldg.
+01071000006,Flackler Fire Hall
+01071000010,Hollywood City Hall
+01071000011,Pisgah City Hall
+01071000012,Langston City Hall
+01071000013,Tupelo-Pikeville Store
+01071000014,Larkinsville Stock Barn
+01071000015,New Hope Church
+01071000016,Woodville B Jones Ctr
+01071000017,Trenton Fire Hall
+01071000018,Estill Fork Store
+01071000019,Bishop-Hall's Store
+01071000020,Christain Home
+01071000021,Scottsboro Rec Comm Bldg
+01071000022,Skyline City Hall
+01071000023,Paint Rock Sr Citizen Ctr
+01071000024,Section New City Hall
+01071000025,Hytop Fire Hall
+01071000026,Garth Bapt Church
+01071000027,Hollytree Grocery
+01071000028,Dutton City Hall
+01071000029,Higdon N Sand Mt School
+01071000030,Macedonia School
+01071000031,Holly Spring Church
+01071000032,Limrock Fire Hall
+01071000033,Hambrick Comm Ctr
+01071000034,Pleasant Grove-Princeton Fire
+01071000035,Crow Fire Hall
+01071000036,Aspel Jackson Water Wks
+01071000037,Letcher Church of God
+01071000038,Rosalie Comm Ctr
+01071000039,Dean's Chapel Comm Ctr
+01073000000,St Peter Apostle Church
+01073000021,Glen Oaks Elem Sch
+01073001010,Our Lady of Lourdes Church
+01073001020,Tom Bradford Pk
+01073001030,LM Smith Mid Sch
+01073001040,Bethel Bapt Church
+01073001050,Midfield Comm Ctr
+01073001060,Sun Valley Elem Sch
+01073001070,Crestwood Ed Ctr
+01073001080,George French Student Ctr
+01073001090,Forestdale Square
+01073001100,South Hampton Elem Sch
+01073001110,Don Hawkins Pk & Rec
+01073001120,Robinson Elem Sch
+01073001130,Martha Gaskins Elem Sch
+01073001140,Birmingham FD #12
+01073001150,Adamsville Church of God
+01073001160,Faith Chapel Christian Ctr
+01073001170,Hudson Mid Sch
+01073001180,Barrett Elem Sch
+01073001190,Inglenook Elem Sch
+01073001210,Norwood Comm Ctr
+01073001220,Willow Wood Rec Ctr
+01073001230,New Rising Star Church
+01073001240,Mt Pilgrim Church
+01073001250,Hillview FD #1
+01073001260,Shepherd Ctr E
+01073001270,Hooper City Rec Ctr
+01073001280,Oliver Elem Sch
+01073001290,North Birmingham Rec
+01073001300,North Birmingham Library
+01073001310,Brownsville Comm Ctr
+01073001320,Sandusky Comm Ctr
+01073001330,Morton Simpson Comm Ctr
+01073001340,Mount Hebron Church
+01073001350,CJ Donald Elem Sch
+01073001360,North Avondale Public Library
+01073001370,McAlpine Rec Ctr
+01073001380,St Mary's Cath Church
+01073002010,Legion Field Gate 7
+01073002020,Homewood Sr Ctr
+01073002030,Highland Pk Golf Course
+01073002040,Ensley Pk Rec Ctr
+01073002050,Harrison Pk Rec Ctr
+01073002060,Charles Brown Elem Sch
+01073002070,Central Pk Rec Ctr
+01073002080,Ramsay Alt HS
+01073002090,Sixth Ave Church
+01073002100,Memorial Rec Ctr
+01073002110,Southside Homes Comm Ctr
+01073002120,Dunbar-Abrams Comm Ctr
+01073002130,Minor Elem Sch
+01073002140,New Beginning Church
+01073002150,Brighton Sr Citizen Bldg
+01073002160,Jefferson Courthouse
+01073002170,Hemphill Sch Bldg
+01073002180,Avondale Public Library
+01073002190,Wiggns Library
+01073002200,Central Pk Elem Sch
+01073002210,Jonesboro Elem Sch
+01073002220,Glen Iris Elem Sch
+01073002230,Avondale Elem Sch
+01073002240,Fire Dept Admin Bldg
+01073002250,More Than Conquerors Church
+01073002260,Wilkerson Mid Sch
+01073002270,Mt Zion Church
+01073002280,West End Academy
+01073002290,East Ensley Public Lib
+01073002300,Bush Hill Academy
+01073002310,Mt Zion Comm Church
+01073002320,Virginia College
+01073002330,Henry Crumpton Rec Ctr
+01073002340,Thompson Manor Comm Ctr
+01073002350,Oxmoor Valley Comm Ctr
+01073002360,Bessemer City Hall
+01073002370,New Bethal Church
+01073002380,Five Pts W Public Lib
+01073002390,Roosevelt City Comm Ctr
+01073002400,Wenonah HS
+01073002410,Bryant Chapel AME
+01073002420,Bell Wallace Bldg
+01073002430,Southside Branch Public Lib
+01073002440,Southtown Housing Comm Ctr
+01073003010,Hoover Met Stadium
+01073003015,Hoover Met Sports Complex
+01073003020,Pleasant Hill UM Church
+01073003025,Bapt Church of McAdory
+01073003030,Pleasant Grove Church
+01073003040,Prince of Peace Cath Church
+01073003050,Pleasant Rdg Family Life
+01073003060,Bessemer Civic Ctr
+01073003070,Mt Olive Comm Ctr
+01073003080,Morgan Rd UM Church
+01073003090,Brooklane Comm Church
+01073003100,Bagley Jr HS
+01073003110,Oakmont Presb Church
+01073003120,Adamsville Bapt Church
+01073003130,Shades Crest Bapt Church
+01073003140,Valley Creek Bapt Church
+01073003150,Union Hill Bapt Church
+01073003160,Ross Bridge Welcome Ctr
+01073003170,Alliance Comm Ctr
+01073003180,Corner Sch
+01073003190,Dolomite W Field Comm Ctr
+01073003200,Maurice West Comm Ctr
+01073003210,Minor FD
+01073003220,Oak Grove 1st Bapt Church
+01073003230,Grant St Bapt Church
+01073003240,Sylvan Springs !st UM Church
+01073003250,Bessemer FD #5
+01073003260,West Jeff Rec Ctr
+01073003270,Muscoda Comm Ctr
+01073003280,Brookside Comm Ctr
+01073003290,Mulga Town Hall
+01073003300,Johns Comm Ctr
+01073003310,Parkwood Church of God
+01073003320,Maytown Bapt Church
+01073003330,First Bapt Booker Heights
+01073004010,Gardendale Civic Ctr
+01073004015,Gardendale Mt Vernon UM
+01073004020,Trussville !st Bapt
+01073004030,Center Pt 1st Bapt
+01073004040,Trussville City Hall
+01073004050,Clay Comm Ctr
+01073004060,East Pinson Valley Ctr
+01073004070,Tarrant City Hall
+01073004080,Trussville/North Park
+01073004090,Fultondale 1st Bapt
+01073004100,Mountain View Bapt
+01073004110,Rock School Ctr
+01073004120,Life Church
+01073004130,Warrior City Hall
+01073004140,Leeds Civic Ctr
+01073004150,Palmerdale UM Church
+01073004160,Center Pt Comm Ctr
+01073004170,Kimberly UM church
+01073004180,Bradford Sanctuary of Praise
+01073004190,Church at Grants Mill
+01073004200,Fultondale Sr Citizens Bldg
+01073004210,Morris Sr Citizens Bldg
+01073004220,Irondale Sr Citizens Bldg
+01073004230,Guiding Light Church
+01073004240,Irondale City Hall
+01073004250,Trafford City Hall
+01073005010,Hoover Pk & Rec Ctr
+01073005020,Vestavia Hills UM
+01073005030,Shades Mtn Comm Church
+01073005035,Fullness Christian Fellowship
+01073005040,Metropolitan/Rocky Rdg
+01073005050,Homewood Public Lib
+01073005070,New Merkel Cahaba Hts Ctr
+01073005080,Brookwood Bapt Church
+01073005090,Leeds 1st UM Church
+01073005100,Bluff Pk UM Church
+01073005110,Mountain Brook City Hall
+01073005120,Horizon Church
+01073005130,Mountain Brook Comm Church
+01073005140,Liberty Pk Bapt Church
+01073005150,McElwain Bapt Church
+01073005160,Saint Thomas Church
+01073005170,Edgewood Elem Sch
+01073005180,Saint Lukes Church
+01073005190,Cherokee Bend Elem Sch
+01073005200,Mountaintop Comm Church
+01073005210,Homewood Excpt Foundation
+01073005220,Town Village Vestavia
+01073005230,Hoover Public Library
+01073005240,Shades Cahaba Elem Sch
+01073005250,Church of the Highlands
+01073005260,Mountain Brook Elem Sch
+01073005280,Birmingham Botanical Gardens
+01073005290,Afton Lee Comm Ctr
+01075000101,Vernon Armory East
+01075000102,Vernon Armory West
+01075000201,Crossville Lawrence
+01075000301,Fairview Sizemore
+01075000401,Beaverton City Hall North
+01075000402,Beaverton City Hall South
+01075000501,Crews Meth Church
+01075000601,Henson Springs FS
+01075000701,Detroit City Hall
+01075000801,Pine Springs
+01075000901,Sulligent City Hall North
+01075000902,Sulligent City Hall South
+01075001001,Bedford-Military
+01075001101,Molloy Betts
+01075001201,Trull
+01075001301,Vails
+01075001401,Millport Library
+01075001501,Kennedy Comm Ctr
+01075001601,Strickland-Kingville
+01075001701,Fernbank Comm Ctr
+01075001801,Hightogy Ridge
+01075002001,Mt. Pleasant-Curry
+01075002101,Guin Mt. Olive
+01075002201,Blooming Grove
+01075002301,Star Comm Ctr
+01077000001,Anderson Town Hall
+01077000002,Rogersville Sr Ctr
+01077000003,Lexington Sr Ctr
+01077000004,Elgin Senior Ctr
+01077000005,Atlas Ch of Christ
+01077000006,Center Star 1st Bapt
+01077000007,Killen Ch Christ Annex
+01077000008,Zip City Comm Ctr
+01077000009,St Florian Sr Ctr
+01077000011,Lauderdale Co Bd
+01077000012,Underwood Comm Ctr
+01077000013,Cloverdale Comm Ctr
+01077000014,Central Comm Ctr
+01077000015,Oakland Fire St
+01077000016,Stewartville Ch Christ
+01077000017,Waterloo Sr Bldg
+01077000100,Grady Richards Ctr
+01077000101,1st Presbyterian Church
+01077000102,Handy Rec Ctr
+01077000103,Sherrod Ave Ch Christ
+01077000104,Florence first Bapt
+01077000106,Central Bapt Church
+01077000107,Hibbett School
+01077000108,Fairgrounds Rd Senior Ctr
+01077000109,Florence Blvd Ch of Christ
+01077000110,Broadway Rec Ctr
+01077000111,Highland Bapt Church
+01077000112,Christ Chapel Ch Annex
+01077000113,E Campus Woodmont BC
+01077000114,Florence High School
+01077000115,St James UM
+01079000101,Hillsboro City Hall
+01079000201,N. Courtland Sr Ctr
+01079000301,Red Bank Fire Station
+01079000401,Hillsboro VFD
+01079000501,Town Creek Comm Ctr
+01079000601,McCarley Ctr
+01079000701,Donald Bapt Church
+01079000901,Mt. Hope Bapt Church
+01079001001,Wolf Springs Church
+01079001101,New Zion Baptist
+01079001201,Landersville Church
+01079001301,Hattan Church
+01079001401,Pleasant Grove Church
+01079001601,Loosier Church of Christ
+01079001701,Chaleybeate FD
+01079001801,Pilgram Bapt Church
+01079001901,Lawrence Health Dept.
+01079002101,Mt Moriah Methodist
+01079002201,Fairfield Church
+01079002401,Moulton City Hall
+01079002501,Board of Education
+01079002601,Freeman Tabernacle Church
+01079002801,Speake VFD
+01079002901,Kitchens Mill
+01079003101,Lindsay Hall Church
+01079003201,Piney Grove Church
+01079003301,Caddo Fire Station
+01079003401,Caddo Sr. Ctr
+01079003601,Pine Grove Church
+01081000001,Beulah High School
+01081000002,Covington Park Ctr
+01081000003,Opelika Learning Ctr
+01081000004,Opelika Rec Ctr
+01081000005,EAMC Health Ctr
+01081000006,Opelika Sportsplex
+01081000007,Farmville VFD
+01081000008,Uptown Waverly
+01081000009,Loachapoka Comm Ctr
+01081000010,Boykin Comm Ctr
+01081000012,Frank Brown Ctr
+01081000013,Dean Road Rec Ctr
+01081000014,Clarion Inn
+01081000015,Providence Church
+01081000016,Wacoochee Jr High
+01081000017,Crawford VFD
+01081000018,Downtown Marvyn
+01081000019,Beulah Fire Dept
+01081000020,Senior Ctr Smith Station
+01081000021,Pine Grove Church
+01081000022,Smiths Station Auditorum
+01081000023,Glenwood School
+01083000101,Athens Rec/Sr Ctr/Linsay/Friendship/Elkton
+01083000201,Isom's/Copeland/Bethel/Capshaw
+01083000301,Ardmore/Mays/Woodley
+01083000401,Elkmont FD
+01083000501,Pinchan-Lincoln
+01083000601,Goodsprings/Limestone/Lester
+01083000701,Pleasant Grove FD
+01083000801,Westside Comm Ctr
+01083000901,Clements/Riddles
+01083001001,Round Island Church
+01083001101,Belmore Church
+01083001301,Lamb of God Luth Church
+01083001401,First Bapt Church Tanner
+01085000011,White Hall Town Hall
+01085000021,Lowndesboro CME Ch
+01085000031,Bethel Church
+01085000041,Mosses Town Hall
+01085000051,New Salem Church
+01085000061,Hayneville Courthouse
+01085000071,Burkville VFD
+01085000081,Lily Baptist Church
+01085000111,New Hope Church
+01085000131,Fort Deposit Armory
+01085000141,Sandy Ridge Comm Ctr
+01085000151,Lowndes City Dev Office
+01087000101,National Guard Armory
+01087000102,Chisholm Comm Ctr
+01087000105,Margaret Murray Wash Hall
+01087000203,Brownville VFD
+01087000204,Warrior Dist 2 Rec Ctr
+01087000205,Cotton Valley Rec Ctr
+01087000211,Tuskegee Municipal Complex
+01087000306,Volunteer Fire Station
+01087000307,Prairie Farms Center
+01087000312,Sojourner Comm Ctr
+01087000408,Franklin Town Hall
+01087000409,District 4 Comm Ctr
+01087000410,Notasulga Town Hall
+01087000413,District 4 Rec Ctr
+01089000001,A&M Univ Gym
+01089000002,Charles Stone Ag Ctr
+01089000003,Jackson Way Bapt Church
+01089000004,1st Bapt Church
+01089000005,Optimist Park
+01089000006,Northeast Huntsville
+01089000007,Cove Church at Chase
+01089000008,Clements Bapt Church
+01089000009,Trinity Presb Church
+01089000010,Monte Sano Fire Station
+01089000011,Cove UM Church
+01089000012,Hampton Cove Church
+01089000013,Covenant Presbyterian Church
+01089000014,Southwood Presb Church
+01089000015,Willowbrook Bapt Church
+01089000016,Westside Comm Ctr
+01089000017,Trinity UM Church
+01089000018,Whitesburg Ctr
+01089000019,Weatherly Hgts Bapt Church
+01089000020,Aldersgate UM Church
+01089000021,The Dwelling Place
+01089000023,Hillwood Bapt Church
+01089000026,Community Fellowship
+01089000027,Oakwood Univ Church
+01089000029,Madison Co Nature Trail
+01089000031,Fire & Rescue Training
+01089000035,First Miss Bapt Church
+01089000036,Dr Richard Showers Ctr
+01089000037,New Shiloh Church
+01089000038,Bob Harrison Sr Ctr
+01089000039,Calvary Hill Friendship Ctr
+01089000040,Lewis Chapel CP Church
+01089000044,Pleasant Springs Bapt Church
+01089000045,Lakewood Comm Ctr
+01089000046,West Huntsville Bapt Church
+01089000049,All Nations Church
+01089000050,St Luke Christian Church
+01089000051,Grace UM Church
+01089000053,Intergraph Corp
+01089000054,Sherwood Bapt Church
+01089000055,New Market Fire Station
+01089000056,Maysville Church Christ
+01089000058,Little Indian Creek Church
+01089000060,Triana City Hall
+01089000061,Rivertree Church
+01089000062,Gurley Senior Ctr
+01089000063,Madison Mission 7th Day Church
+01089000064,Pineview Bapt Church
+01089000065,Toney UM Church
+01089000066,Mary Kelly Johnston Gym
+01089000067,Plainview Church Christ
+01089000068,New Hope City Hall
+01089000069,Madison Church Of Christ
+01089000070,First Church of God - Madison
+01089000071,Madison City Hall
+01089000072,Locust Grove Bapt Church
+01089000073,Plevna /New Market FD
+01089000075,Owens Cross Rd City Hall
+01089000076,First Bapt Meridianville
+01089000077,Brownsboro Bapt Church
+01089000078,Monrovia Church Christ
+01089000080,Co Commission Dist 1
+01089000081,Bobo VFD
+01089000083,Meridianville Church of Christ
+01089000084,Mt Zion Bapt Church
+01089000085,Harold Harbin Gym
+01089000088,Faith Lutheran Church
+01089000089,Madison Bapt Church
+01089000090,St John's Catholic School
+01089000091,Restoration Church
+01089000092,Monrovia Comm Ctr
+01089000093,Harvest Bapt Church
+01091000101,Demopolis Civic Ctr
+01091000102,Demopolis Nat'l Guard
+01091000201,AFLAME Church
+01091000301,Providence Town Hall
+01091000302,Faunsdale Town Office
+01091000305,Linden Armory
+01091000306,Rageline Bapt Ch
+01091000401,Thomaston
+01091000402,Flatwoods Comm Ctr
+01091000405,Magnolia Comm Ctr
+01091000407,Surginer Comm Ctr
+01091000408,Dixon Mill VFD
+01091000501,Jefferson VFD
+01091000502,Linden Hwy 43
+01091000504,Sweet Water Town
+01091000505,Nicholsville Bapt
+01091000507,Putnam Vote
+01091000508,Nanafalia
+01091000511,Myrtlewood Comm
+01093000001,Hamilton Police Dept
+01093000002,Rye Byrd FD
+01093000003,Kemp Pleasent Site Ch
+01093000004,Bexar Behind Old Post
+01093000005,Shottsville Fire Dept
+01093000006,Shiloh Comm Ctr
+01093000007,Hackleburg City Hall
+01093000008,Bear Creek City Hall
+01093000009,Kimbrough Craft Bldg N
+01093000010,Howell Sullins Church
+01093000011,Pearces Mill Pea Ridge
+01093000012,Kimbrough Craft Comm Bldg S
+01093000013,Baccus Union Hall
+01093000014,Winfield Comm Ctr
+01093000015,Guin City Hall
+01093000016,Pikeville Trailor
+01093000017,Barnsville Trailor
+01093000018,Brilliant Comm Ctr
+01093000019,Wiginton Comm Bldg
+01093000020,Clark Bldg Off
+01095000001,Guntersville Rec Center
+01095000002,Boaz Rec Center
+01095000003,Sanctuary on the Mt
+01095000004,1st Baptist Church
+01095000005,Dist. 4 County Shop
+01095000007,Henryvill Methodist Church
+01095000008,Boshart Prospect Cemetery
+01095000009,Alder Springs Comm Ctr
+01095000010,Albertville Rec Ctr
+01095000011,Hebron Comm Ctr
+01095000012,Honeycomb Bapt
+01095000014,Midway Comm Ctr
+01095000015,Georgia Mtn Rec
+01095000016,Pleasant Grove VFD
+01095000017,Wakefield Comm Ctr
+01095000018,Asbury Fire Dept
+01095000019,Bucksnort Comm Ctr
+01095000020,Liberty Hill Church
+01095000021,Cranford Ruth VFD
+01095000022,Douglas City Hall
+01095000023,Swearengin Comm Center
+01095000024,Dist 1 County Shop
+01095000025,Friendship Pine Grove
+01095000026,Arab Comm Center
+01095000027,Union Grove Comm Ctr
+01095000028,Lattiwood Comm Ctr
+01095000030,Grant City Hall
+01095000031,Mt Hebron Fire Dept
+01097000001,Fellowship Bapt Church
+01097000002,Citronelle Rec Ctr
+01097000003,Mt. Vernon Civic Ctr
+01097000004,Mt Vernon Comm Ctr
+01097000005,Chunchula Bapt Ch
+01097000006,Turnerville Church
+01097000007,1st Bapt Ch of Wilmer
+01097000008,Georgetown Bapt Church
+01097000009,Creola Sr. Citizens Ctr
+01097000010,Havenwood Bapt Church
+01097000011,Lafitte Bapt Church
+01097000012,Satsuma High Sch.
+01097000013,The River
+01097000014,Indian Springs Church
+01097000015,Shelton Beach Rd Bapt. Ch
+01097000016,Collins Rhodes Elem Sch
+01097000017,Saraland Civic Ctr
+01097000018,Semmes Comm Ctr
+01097000019,Greater Allenville Ch God
+01097000020,J C Davis Audit
+01097000021,Tanner Williams Hist Soc
+01097000022,Holy Name of Jesus Church
+01097000023,Semmes First Bapt Ch
+01097000024,Azalea City Ch Christ
+01097000026,Vigor High School
+01097000027,Bishop State Comm. College
+01097000028,Moffett Rd Assembly God
+01097000029,Forrest Hill Elem Sch
+01097000030,Prichard Comm Ctr
+01097000031,Robert L Hope Comm Ctr
+01097000032,Joseph Dotch Comm Ctr
+01097000033,Sunlight Auditorium
+01097000034,Toulminville Library
+01097000035,Michael Figures Comm Ctr
+01097000036,Thomas Sullivan Comm Ctr
+01097000037,Friendship Miss Bapt Church
+01097000038,University Ch Christ
+01097000039,Mobile Museum of Art
+01097000040,St. Ignatius Marion Ctr
+01097000041,Boys & Girls Club
+01097000042,Carver Campus Bishop St
+01097000043,Three Circles Ch Midtown
+01097000044,New Shiloh Miss Bapt
+01097000045,Via! Senior Ctr
+01097000046,Sonrise Bapt Church
+01097000047,St. Joan of Arc Catholic
+01097000048,James Seals Jr. Rec. Ctr
+01097000049,Gracepoint Church of God
+01097000050,E. R. Dickson Elem
+01097000051,Seven Hills Church
+01097000052,Dayspring Bapt Church
+01097000053,Volunteers of America
+01097000054,City Church Mobile
+01097000055,Westminster Presbyterian
+01097000056,St. John's Episcopal Ch
+01097000057,Rock of Faith Bapt Ch
+01097000058,Seven Hills Ctr Fire
+01097000059,Our Savior Catholic
+01097000060,Regency Ch of Christ
+01097000061,Apostolic Ch of God
+01097000062,Ebenezer Bapt Church
+01097000063,Eichold-Mertz Elem
+01097000064,Revelation Miss Bapt Ch
+01097000065,Living Word Church
+01097000066,Creekwood Ch of Christ
+01097000067,Mobile Regional Sr Ctr.
+01097000068,Dodge Elem
+01097000069,Tree of Life Christ
+01097000070,Christ Anglican Church
+01097000071,Palmer Pillans Mid Sch
+01097000072,Riverside Bapt Church
+01097000073,Union Bapt Church
+01097000074,Meadowlake Elem
+01097000075,Travis Rd. Bapt Ch
+01097000076,Tillmans Corner Comm
+01097000077,Cypress Shores Bapt Church
+01097000078,Hollingers Island Elem
+01097000079,Magnolia Springs Church
+01097000080,Grand Bay Middle Sch
+01097000081,1st Bapt Ch St Elmo
+01097000082,Mt. Ararat Bapt Church
+01097000083,1st Bapt Ch Irvington
+01097000084,St. Phillip Neri Catholic Ch
+01097000085,Friendship Bapt Church
+01097000086,Bayou La Batre Comm Ctr
+01097000087,St. Michael Catholic
+01097000088,Dauphin Island UM Church
+0109700VP25,Hope Chapel A.M.E.
+01099000001,Chrysler/Eliska
+01099000002,Perdue Hill Masonic Lodge
+01099000004,Excel/Coleman
+01099000005,Philadelphia Ch/Peterman Water Dept
+01099000007,Franklin Fire/Wainwright Finch
+01099000008,Lower Peach Tree
+01099000009,Buena Vista Vren
+01099000010,Beatrice T Hall
+01099000011,Old Texas Comm Ctr
+01099000013,Goodway FD
+01099000301,Mexia Fire Station
+01099000302,Church of Christ
+01099000303,Monroeville Comm Ctr
+01099000304,Bethel Bapt House
+01099000306,Monroeville Fire Station
+01099000307,Monroeville Housing Auth
+01099000401,Burnt Corn FD
+01099000601,Antioch Bapt. Church
+01099001201,Limestone Faulk
+01099001202,Mineola Church
+01099001301,Uriah FD
+01099001302,Shiloh Miss Church
+01099001402,Frisco Bapt Church
+01099001403,Megargel Assembly of God
+01099001404,Oak Grove Bapt
+01099001405,St John AME Church
+01101000101,Drum Theater/Huntingdon College
+01101000102,Vaughn Park Church of Christ
+01101000103,Montgomery Museum of Fine Arts
+01101000104,Whitfield UM Church
+01101000105,Aldersgate UM Church
+01101000106,Peter Crump Elem School
+01101000107,Trenholm State (Patterson Campus)
+01101000201,St Paul AME Church
+01101000202,Beulah Baptist Church
+01101000203,Hayneville Rd Comm Ctr
+01101000204,Fresh Anointing House of Worship
+01101000205,Southlawn Elem School
+01101000206,Fire Station #14
+01101000207,Hunter Station Comm Ctr
+01101000208,Catoma Elem School
+01101000209,First Southern Bapt Church
+01101000210,Pintlala VFD
+01101000211,Rufus Lewis Library
+01101000301,Dalraida Church of Christ
+01101000302,Flowers Elem School
+01101000303,Eastmont Bapt Church
+01101000304,Lagoon Park Fire Station
+01101000305,Frazer UM Church
+01101000306,Eastdale Bapt Church
+01101000401,St James Bapt Church
+01101000402,McIntyre Comm Ctr
+01101000403,Cleveland Ave YMCA
+01101000404,Al State Univ / Acadome
+01101000405,Houston Hills Comm Ctr
+01101000406,Newton Comm Ctr
+01101000407,King Hill Comm Ctr
+01101000408,Highland Gardens Comm Ctr
+01101000409,Chisholm Comm Ctr
+01101000410,Sheridan Heights Comm Ctr
+01101000411,Union Academy Bapt Church
+01101000412,Union Chapel AME Church
+01101000413,Wares Ferry Rd Elem School
+01101000501,Landmark Church of Christ
+01101000502,Snowdoun Women's Club
+01101000503,Lapine Bapt Church
+01101000504,Ramer Library
+01101000505,Fitzpatrick Elem School
+01101000506,Davis Crossroads Fire Station
+01101000507,Dublin Fire Station
+01101000508,Pine Level Fire Station
+01101000509,Woodland UM Church
+01101000510,Georgia Washingtn Mid School
+01101000511,Arrowhead Country Club
+01101000512,St James UM Church
+01103000101,Macedonia C P Church
+01103000201,Decatur Fire (old Flint)
+01103000301,Morgan Co Courthouse
+01103000303,Aquadome Rec Ctr
+01103000304,Ft Decatur Rec
+01103000306,Westrmeade Bapt Church
+01103000307,Decatur Utilities
+01103000308,First Bapt Austinville
+01103000309,American Legion Bldg
+01103000401,Decatur Fire & Rescue #8
+01103000402,Epic Church
+01103000403,T.C. Almon Rec Ctr
+01103000501,Priceville Municipal Bldg
+01103000601,Center Springs Methodist
+01103000701,Cotaco Fire Station
+01103000801,Lacy's Spring Sr Ctr
+01103000901,Union Hill Sr Ctr
+01103001001,Tri County VFD
+01103001301,SAVES Fire Dept
+01103001401,New Center Bapt Church
+01103001501,John J Sparkman Civic Ctr
+01103001502,First Bapt Church
+01103001601,Trinity Municipal Bldg
+01103001701,W Morgan/E Lawrence WS
+01103001801,Neel VFD
+01103001901,Danville VF Station
+01103002001,Massey Fire Station
+01103002101,Falkville Municipal Bldg
+01103002201,Morgan Co Dist 3
+01103002301,Oden Ridge VFD
+01103002401,Florette VFD
+01103002501,Eva VFD
+01103002701,Gum Pond Fire Dept
+01103002801,Lebanon Bapt Church
+01103003010,Decatur Bapt Church
+01103003011,Carrie Matthews Rec Ctr
+01103003012,Turner Surles Comm Ctr
+01103003014,Austinville Ch of Christ
+01103003015,First Bible Church
+01105000001,Armory
+01105000002,Uniontown City Hall
+01105000003,Community Life Bldg
+01105000004,OFS Fire St
+01105000006,North Perry Fire St
+01105000007,Heiberger-W Perry
+01105000008,Severe
+01105000009,Hinton Hall-East Perry
+01105000011,Hamburg VFD
+01105000013,Radforville
+01107001100,Liberty School
+01107001200,Bethlehem
+01107001300,Forest Comm Center
+01107001400,McShan Comm Center
+01107001500,Reform Bill Dollar Store
+01107001800,Ethelsville City Hall
+01107002100,Cochrane-Dancy
+01107002200,Aliceville Armory
+01107003100,Palmetto Comm Ctr
+01107003200,Fairview-Zion
+01107004100,Macedonia Masonic
+01107004200,Carrollton-Speedsmill
+01107004300,Pine Grove Comm Center
+01107004400,Spring Hill Comm Ctr
+01107004500,Pickensville City Hall
+01107004600,Sapps Comm Ctr
+01107005105,Gordo City Hall
+01107005300,Kirk Fire Dept
+01107005400,Benevola Comm Ctr
+01109000001,Troy Public Library
+01109000002,Meeksville VFD
+01109000003,China Grove Co Bldg
+01109000004,Hamilton Cross Rds
+01109000005,Dunns Voting Ctr 1
+01109000006,Troy Adams Armory
+01109000007,Saco VFD
+01109000008,Ebenezer Voting Ctr 1
+01109000009,Josie Co Bldg
+01109000010,Enon Co Bldg
+01109000011,Sweet Pilgram Church
+01109000012,Banks Voting Ctr 1
+01109000013,Troy Rec Dept
+01109000014,Brundidge-Haisten Bldg
+01109000015,Tennille Meth Ch
+01109000016,Tarentum Comm Club
+01109000017,Springhill VFD
+01109000018,Little Oak Co Bldg
+01109000019,Galloway Rd Comm Ctr
+01109000020,Springhill Hse Auth
+01109000021,Pike Co Courthouse
+01109000022,First Bapt Church
+01109000023,Henderson Voting Ctr 1
+01109000024,Goshen Town Hall
+01109000025,Rural Home Co Bldg
+01109000026,Antioch Church
+01109000027,Oak Bowery Church
+01109000028,Dunns Voting Ctr 2
+01109000030,Banks Voting Ctr 2
+01109000031,Golden/Satelllite Bldg
+01109000032,Ebenezer Voting Ctr 2
+01109000033,Henderson Voting Ctr 2
+01109000034,Saco Voting Ctr 2
+01111000001,Graham
+01111000002,Corinth-Tin Shop
+01111000003,Cavers Grove-Swagg
+01111000004,Bethel Moores Store Woodland
+01111000005,Omaha-Wehadkee
+01111000006,Midway-Morison-Wedowee
+01111000007,Ophelia
+01111000008,Wadley
+01111000009,Level Road
+01111000010,National Guard Armory
+01111000011,Rock Mills-Wilson's Store
+01111000012,Bacon Level
+01111000013,Wesley Chapel
+01111000014,Pine Hill
+01113000001,Roy Martin Ctr
+01113000002,Ladonia Fire Dept
+01113000301,Central Activities Ctr
+01113000402,Claude Parkman Bdg
+01113000405,Russell Co Courthouse
+01113000501,Spencer Rec Ctr
+01113000502,Fort Mitchell Comm Ctr
+01113000601,CVCC
+01113000603,Dixie VFD
+01113000701,Cottonton Fire St
+01113000702,Pittsview Fire Dept
+01113000703,Old Seale Courthouse
+01113000704,Hatchechubbee Fire Dept
+01113000705,Fire Dept Hurtsboro
+01113000706,Austin Sumbry Park
+01113000707,Golden Acres Bapt
+01115000001,Ashville City Hall
+01115000002,Shoal Creek Comm Ctr
+01115000003,Odenville Civic Ctr
+01115000004,1st United Meth Church
+01115000005,Friendship VFD
+01115000006,Steele Comm Ctr
+01115000007,Branchville Church
+01115000009,Ragland Town Hall
+01115000010,Wattsville VFD
+01115000011,Poplar Springs Church
+01115000012,Celebrations
+01115000013,New London VFD
+01115000014,Wolf Creek VFD
+01115000015,Pell City Comm Ctr
+01115000016,Cook Springs VFD
+01115000017,Moody Civic Center
+01115000018,Pinedale VFD
+01115000019,Pell City Civic Ctr
+01115000020,Riverside Town Hall
+01115000021,Fairview Church
+01115000022,Gum Springs Church
+01115000023,Prescott Comm Ctr
+01115000024,New Hope Church
+01115000025,North Valley Church
+01115000026,Whites Chapel Town Hall
+01115000027,Chandler Mt.Comm Ctr
+01115000028,Gallant VFD
+01115000029,Slate Union Church
+01115000030,Cedar Grove Church
+01115000031,Argo Town Hall
+01117000001,Dunnavant Comm Ctr
+01117000002,Vandier-Sterrett Sr Ctr
+01117000003,Turner-Hollis Legion #195
+01117000004,Vincent Revival Ctr
+01117000005,Harpersville Town Hall
+01117000006,New Life Assembly of God
+01117000007,Chelsea Church of God
+01117000008,North Shelby Bapt
+01117000009,Asbury United Meth
+01117000010,Blackwatch Sports
+01117000011,Shoal Creek Town Hall
+01117000012,Greystone Farms CH
+01117000013,Hoover Fire #8
+01117000014,The Church at Brook Hills
+01117000015,MeadowBrook Bapt
+01117000016,New Hope Cumberland Presby
+01117000017,1st Christian Church
+01117000018,Valleydale Bapt Church
+01117000019,Riverchase Church Christ
+01117000020,Pelham Civic Complex
+01117000021,Helena Comm Ctr
+01117000022,Southcrest Bapt Church
+01117000023,Church of Jesus Christ
+01117000024,Restore-1st UM
+01117000025,Alabaster Liberty Bapt
+01117000026,Evangel Presby Church
+01117000027,1st Pres Church
+01117000028,Chelsea Comm Ctr
+01117000029,Pelham Park Rec Ctr
+01117000030,Stewart Student Retreat
+01117000031,Pea Ridge Comm Ctr
+01117000032,Riverchase Bapt
+01117000033,Montevallo Prk & Rec
+01117000034,Roy Downs Memorial Library
+01117000035,Concord Bapt Church
+01117000036,Camp Branch Civic Ctr
+01117000037,Columbiana Rec Bldg
+01117000038,Fourmile VFD
+01117000039,Wilsonville UM Church
+01117000040,Shelby Iron Wrks Prk
+01117000041,Bay Springs Bapt
+01117000042,Christ United Meth
+01117000043,Faith Presby Church
+01119000003,Cuba City Hall
+01119000007,Livingston Civic Ctr
+01119000105,Whitfield Comm Ctr
+01119000213,Ward Fire Station
+01119000413,York Sumter Rescue
+01119000512,Bellamy Comm Ctr
+01119000802,Boyd Trailer
+01119000911,Emelle Town Hall
+01119001011,Epes Comm Ctr
+01119001101,Gainesville Comm Ctr
+01119001201,Geiger City Hall
+01119001301,Panola Comm Ctr
+01119006012,Coatopa Fire Dept
+01121000001,Eastaboga/Lincoln
+01121000002,Antioch Bapt Church
+01121000003,Ironaton
+01121000004,Brecon/Spring St.
+01121000005,Mabra/Kingston/TC
+01121000006,Bethel Bapt Church
+01121000007,Winterboro/Berney St.
+01121000008,Lay Lake/St. Andrews
+01121000009,J. Craig Smith
+01121000010,Limbaugh/Bon Air/Oak Grove
+01121000011,Sycamore Nutr Ctr
+01121000012,Waldo City Hall
+01121000013,Fayetteville/County Line
+01121000014,Stemley/Renfroe
+01121000015,Munford
+01123000101,A/C Hous Auth Y&A
+01123000102,Cooper Comm Ctr
+01123000201,Ourtown VFD
+01123000202,Alex City Natl Guard
+01123000203,Alex City Fire Lakehill
+01123000301,Hillabee Bapt Church
+01123000303,Hackneyville Comm Ctr
+01123000401,Rocky Creek Bapt
+01123000501,New Site Town Hall
+01123000601,Eagle Creek VH
+01123000701,Dadeville Rec Ctr
+01123000801,Manoy Voting House
+01123000901,New Paces Pt VFD
+01123000902,Moncrief
+01123001001,Union Comm Bldg
+01123001101,Sardis Comm Bldg
+01123001201,Reeltown VFD
+01123001203,Tallassee City Hall
+01123001204,Wall Street Comm Ctr
+01123001301,Pentecost UM Church
+01123001401,Mary's Cross Road VH
+01123001501,Mt. Lovely Bapt Church
+01123001601,Fellowship Bapt Church
+01123001701,Daviston Comm Ctr
+01123001801,Jackson's Gap VFD
+01125000001,Whitson Place Church
+01125000002,Windham Springs Church
+01125000003,Sheriffs Firing Range
+01125000004,Mayfield VFD
+01125000005,Montgomery VFD
+01125000006,Northside Lions Club
+01125000007,County Rd Camp #3
+01125000008,Station #2 Carroll Creek
+01125000009,Yellow Creek Church
+01125000010,Kellerman Antioch Church
+01125000011,Tannehill Valley Church
+01125000012,Lakeview Church
+01125000013,Abernant Bapt Church
+01125000014,G G Hardin Comm Ctr
+01125000015,Mary Phelps Ctr
+01125000016,Carroll Creek Church
+01125000017,Chapel Hill Church
+01125000018,Echola FD
+01125000019,Mt Olive Church
+01125000020,Flatwoods Church
+01125000021,Northport City Hall
+01125000022,Vestavia Hills Elem School
+01125000023,Church of Highlands
+01125000024,Holt Elem School
+01125000025,Peterson Church
+01125000026,Alberta Bapt Church
+01125000027,UA Rec Ctr
+01125000028,Tuscaloosa Courthouse
+01125000029,New Zion Church
+01125000030,Northport Comm Ctr
+01125000031,Coker VFD
+01125000032,Buhl VFD
+01125000033,Elrod VFD
+01125000034,Romulus VFD
+01125000035,Unity Bapt Church
+01125000036,Stillman College
+01125000037,McDonald Hughes Ctr
+01125000038,Cornerstone Church
+01125000039,Forrest Lake Church
+01125000040,University Mall
+01125000041,McAbee Ctr
+01125000042,Cottondale Comm Church
+01125000043,Cottondale Meth Church
+01125000044,Belk Activity Ctr
+01125000045,Mt Pilgram Church
+01125000046,New Life Church
+01125000047,Bobby Miller Activity Ctr
+01125000048,Duncanville School
+01125000049,Coaling Town Hall
+01125000050,Vance Town Hall
+01125000051,Hagler VFD
+01125000052,Big Sandy Church
+01125000053,Fosters VFD
+01125000054,Ralph VFD
+01127000001,Jasper Mall
+01127000002,Farmstead Bapt Ch
+01127000003,Bethel Assembly
+01127000004,Meadow Smith Library/Frisco
+01127000005,Carbon Hill Comm Ctr
+01127000006,Townley Comm Ctr
+01127000007,Memorial Park
+01127000008,Westside Bapt Church
+01127000009,Oakman Comm Ctr
+01127000010,Tutwiler Fire Dept
+01127000011,Union Chapel Comm Ctr
+01127000012,Cordova VFW
+01127000013,Dora Civic Ctr
+01127000014,Union Hall Goodsprings
+01127000015,Sipsey School
+01127000016,Empire Union Bldg
+01127000017,Curry Comm Ctr
+01127000018,Corona Baptist Ch
+01127000019,Copeland Ferry Ch God
+01127000020,Liberty Hill Church
+01127000021,Twilly Town Church
+01127000022,Parrish HS Gym
+01127000023,Saragoosa Comm Ctr
+01127000024,Pocahontas Church
+01127000025,Eldridge City Hall
+01127000026,Kansas City Hall
+01127000027,Rices Chapel Ch
+01127000028,Boldo Comm Bldg
+01127000029,Townley VFD
+01127000030,Abundant Life Church
+01127000031,Thach School
+01127000032,Prospect Meth Ch
+01127000033,Crossroads Ch Christ
+01127000034,Nauvoo City Hall
+01127000035,New Bethany Ch God
+01127000036,McCollum NG Armory
+01127000037,Bevill St Comm College
+01127000038,Dillworth Comm Bldg
+01127000039,New Hope Missionary Ch
+01127000040,McCollum Midway Fire
+01127000041,Pleasant Field Comm Ctr
+01127000042,Argo Fire Depart
+01127000043,Pineywoods Fire Dept
+01127000044,Manchester Comm Bldg
+01127000045,Old Herman Church
+01129000001,Hobson Fire House
+01129000003,Frankville Fire Hse
+01129000004,Millry Fire Hse
+01129000005,Red Creek Fire Hse
+01129000006,Copeland Assembly God
+01129000007,Yarbo Fire Hse
+01129000008,Laton Hill Fire Hse
+01129000010,Fruitdale Fire Hse
+01129000011,Deer Park Fire Hse
+01129000012,Charity Chapel Fire Hse
+01129000013,Tibbie Fire Hse
+01129000014,Fairford Fire Hse
+01129000015,Malcolm Ctr
+01129000016,McIntosh Comm Ctr
+01129000018,Wagarville Fire Hse
+01129000019,MOWA Choctaw Comm Ctr
+01129000020,Leroy Fire Hse
+01129000022,St. Stephens Fire Hse
+01129000025,Chatom Courthouse
+01131001001,Natl Guard Armory Camden
+01131001004,Furman Tates Chapel D1
+01131001005,Clifton Voc Bdg
+01131001006,Hwy 10/8 D1
+01131002001,Pine Apple AWIN D1 D2
+01131002002,Furman Tates Chapel D2
+01131002003,St Paul AME D2
+01131002004,Hwy /28 D2
+01131002007,National Guard Bridgeport
+01131003001,Holy Cross D3
+01131003002,Pine Apple Comm D1 D2
+01131003003,Coy Public Sch
+01131003004,Sedan Port_Bldg
+01131003005,Caldonia
+01131004001,Gees Bend Ferry
+01131004002,Faith Fellowship
+01131004003,Prairie Bluff Cathrine
+01131004006,Millers Ferry
+01131005001,Voc Bldg Annemanie
+01131005002,Pine Hill Mid Sch
+01131005003,Yellow Bluff
+01131005004,St Wisdom
+01131005005,Lower Peachtree D5
+01131005006,Holy Cross D5
+01131006001,Arlington Comm Ctr
+01131006002,Pine Hill City Hall
+01131006004,Lower Peachtree D6
+01131006005,Sunny Side Bapt
+01133000001,Double Springs Mun bldg
+01133000002,Haleyville Sr Ctr
+01133000003,Lynn City Hall
+01133000004,Black Pond Fire
+01133000005,Arley Fire Dept
+01133000006,Houston Fire Dept
+01133000007,Addison Comm Ctr
+01133000008,Moreland Fire Dep
+01133000009,Helicon Fire Station
+01133000010,Delmar-Natural Bridge
+01133000011,Ashridge Fire Dept

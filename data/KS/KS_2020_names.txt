@@ -1,0 +1,4242 @@
+
+GEOID,NAME
+20001000010,Carlyle Township
+20001000020,Cottage Grove Township
+20001000030,Deer Creek Township
+20001000040,East Elm
+20001000050,Geneva Township
+2000100006A,Humboldt Township
+2000100006B,Humboldt Township Rural Enclave
+2000100006C,Humboldt Township Split
+2000100006D,Humboldt Township Rural Enclave 2
+20001000070,Humboldt Ward 1
+20001000080,Humboldt Ward 2
+20001000130,Logan Township
+20001000140,Marmaton Township
+20001000150,North Elmsmore
+2000100016A,North Iola Part A
+2000100016C,North Iola Part B
+20001000170,Osage Township
+20001000180,Salem Township
+20001000190,South Elmsmore
+2000100020A,South Iola
+2000100020B,South Iola Enclave
+2000100020C,Bassett City Enclave
+20001000210,West Elm
+20001170010,Iola Ward 1
+20001170020,Iola Ward 2
+20001170030,Iola Ward 3
+2000117003B,Iola Ward 3 Enclave
+2000117003C,Iola Ward 3 Exclave
+20001170040,Iola Ward 4
+20001190010,Humboldt Ward 2 Exclave
+20001190020,Humboldt Township Rural Enclave 2
+20003000010,Colony
+2000300002A,Garnett Precinct 1
+2000300002B,Garnett Precinct 1 Exclave
+2000300002C,Garnett Precinct 1 Exclave 2
+20003000030,Garnett Precinct 2
+20003000040,Garnett Precinct 3
+20003000050,Garnett Precinct 4
+20003000060,Greeley
+20003000080,Indian Creek Township
+20003000100,Kincaid
+20003000110,Lincoln Township
+20003000120,Lone Elm City
+20003000130,Lone Elm Township
+2000300014A,Monroe Township
+20003000160,Ozark Township
+20003000170,Putnam Township
+20003000180,Reeder Township
+20003000190,Rich Township
+20003000200,Walker Township
+20003000210,Washington Township
+20003000220,Welda Township
+20003000230,Westphalia City
+20003000240,Westphalia Township
+20003200010,Jackson Township H5
+20003200020,Jackson Township H9
+20005000010,Atchison Precinct 1
+20005000020,Atchison Precinct 2 East
+20005000030,Atchison Precinct 2 West
+20005000040,Atchison Precinct 3 East
+2000500005A,Atchison Precinct 3 West
+2000500006A,Atchison Precinct 4
+2000500006B,Atchison Precinct 4 Exclave A
+2000500006C,Atchison Precinct 4 Exclave B
+2000500007A,Atchison Precinct 5 North
+2000500007B,Atchison Precinct 5 North Exclave A
+2000500007C,Atchison Precinct 5 North Exclave B
+2000500008A,Atchison Precinct 5 South
+2000500008B,Atchison Precinct 5 South Exclave A
+2000500008D,Atchison Precinct 5 South Exclave C
+20005000090,Benton Township
+20005000100,Center Township
+20005000110,Grasshopper Township
+20005000120,Huron Township
+20005000130,Kapioma Township
+20005000140,Lancaster Township
+2000500016A,Shannon Township
+2000500017A,Walnut Township
+2000500017B,Walnut Township Enclave
+20005100050,Mount Pleasant Voting District Township
+20005120030,Benton Township H63
+20005180010,Atchison Precinct 5 South Exclave B
+20005180020,Atchison Precinct 5 South Exclave D
+20007000010,Aetna Township
+20007000020,Deerhead Township
+20007000030,Eagle Township
+20007000040,Elm Mills Township
+20007000050,Elwood Township
+20007000060,Hazelton Township
+20007000070,Kiowa East Township
+20007000080,Kiowa West Township
+20007000090,Lake City Township
+20007000100,McAdoo Township
+20007000110,Medicine Lodge Precinct 1
+2000700012A,Medicine Lodge Precinct 2
+2000700012B,Medicine Lodge Precinct 2 Exclave
+20007000130,Medicine Lodge Precinct 3
+20007000140,Medicine Lodge Precinct 4
+20007000150,Medicine Lodge Precinct 5
+20007000160,Mingona Township
+20007000170,Moore Township
+20007000180,Nippawalla Township
+20007000190,Ridge Township
+20007000200,Sharon Township
+20007000210,Sun City Township
+20007000220,Turkey Creek Township
+20007000230,Valley Township
+20009000010,Albion Township
+20009000020,Beaver Township
+20009000030,Buffalo Township
+20009000040,Cheyenne Township
+20009000050,Clarence Township
+20009000060,Cleveland Township
+20009000070,Comanche Township
+20009000080,Eureka Township
+20009000090,Fairview Township
+20009000100,Grant Township
+2000900011A,Great Bend City Ward 1 Precinct 1
+2000900011B,Great Bend City Ward 1 Precinct 1 Courthouse
+20009000120,Great Bend City Ward 1 Precinct 2
+20009000130,Great Bend City Ward 1 Precinct 3
+20009000140,Great Bend City Ward 2 Precinct 1
+20009000150,Great Bend City Ward 2 Precinct 2
+20009000160,Great Bend City Ward 2 Precinct 3
+20009000170,Great Bend City Ward 3 Precinct 1
+20009000180,Great Bend City Ward 3 Precinct 2
+2000900019A,Great Bend City Ward 3 Precinct 3
+2000900019B,Great Bend City Ward 3 Precinct 3 Exclave
+20009000200,Great Bend City Ward 4 Precinct 1
+20009000210,Great Bend City Ward 4 Precinct 2
+2000900022A,Great Bend City Ward 4 Precinct 3
+2000900022B,Great Bend City Ward 4 Precinct 3 Exclave A
+2000900022C,Great Bend City Ward 4 Precinct 3 Exclave B
+2000900022E,Great Bend City Ward 4 Precinct 3 Exclave D1
+2000900022F,Great Bend City Ward 4 Precinct 3 Exclave D2
+2000900023A,Great Bend Township Part A
+2000900023B,Great Bend Township Part B
+2000900023C,Great Bend Township
+20009000240,Hoisington Ward 1
+20009000250,Hoisington Ward 2
+20009000260,Hoisington Ward 3
+2000900027A,Hoisington Ward 4
+2000900027B,Hoisington Ward 4 Exclave
+20009000280,Independent Township
+20009000290,Lakin Township
+20009000300,Liberty Township
+20009000310,Logan Township
+20009000320,North Homestead Township
+20009000330,Pawnee Rock Township
+20009000340,South Bend Township
+20009000350,South Homestead Township
+20009000360,Union Township
+20009000370,Walnut Township Albert
+20009000380,Walnut Township Olmitz
+20009000390,Wheatland Township
+20009900010,Hoisington Landfill
+20011000010,Drywood Township
+2001100002A,Fort Scott Ward 1
+2001100002B,Fort Scott Ward 1 Exclave Colonial
+2001100002C,Fort Scott Ward 1 Exclave Halls
+2001100002D,Fort Scott Ward 1 Exclave Red Barn
+2001100002E,Fort Scott Ward 1 Exclave Red Ram A
+2001100002F,Fort Scott Ward 1 Exclave Red Ram B
+2001100002G,Fort Scott Ward 1 Exclave Red Ram C
+2001100002H,Fort Scott Ward 1 Exclave Red Barn 2
+2001100003A,Fort Scott Ward 2
+20011000040,Fort Scott Ward 3
+2001100005A,Fort Scott Ward 4
+2001100005B,Fort Scott Ward 4 Exclave A
+2001100005C,Fort Scott Ward 4 Exclave B
+2001100005D,Fort Scott Ward 4 Exclave C
+20011000060,Fort Scott Ward 5
+20011000070,Fort Scott Ward 6
+20011000080,Fort Scott Ward 7
+20011000090,Franklin Township
+20011000100,Freedom Township
+20011000110,Marion Township
+20011000120,Marmaton Township
+20011000130,Mill Creek Township
+20011000140,North Scott Township
+20011000150,Osage Township
+20011000160,Pawnee Township
+20011000170,South Scott Township
+20011000180,Timberhill Township
+20011000190,Walnut Township
+20011900020,Fort Scott Ward 4 Exclave C
+20011900030,Fort Scott Ward 4 Exclave D
+20013000010,Hamlin Township
+20013000020,Hiawatha City Ward 1
+20013000030,Hiawatha City Ward 2
+2001300004A,Hiawatha City Ward 3
+2001300004B,Hiawatha City Ward 3 Exclave
+2001300005A,Hiawatha City Ward 4
+2001300005B,Hiawatha City Ward 4 Exclave Club
+20013000060,Hiawatha Township
+20013000070,Horton Ward 1
+20013000080,Horton Ward 2
+2001300009A,Horton Ward 3
+2001300009B,Horton Ward Exclave A
+2001300009C,Horton Ward 3 Exclave B
+20013000100,Irving Township
+20013000110,Mission Township
+20013000120,Morrill Township
+2001300012A,Morril Township Enclave
+20013000130,Padonia Township
+20013000140,Powhattan Township
+20013000150,Reserve Township
+20013000160,Robinson Township
+2001300017A,Sabetha Ward 1 Part A
+2001300017B,Sabetha Ward 1 Part B
+2001300018A,Sabetha Ward 4 Part A
+20013000190,Sabetha Ward 5
+20013000200,Walnut Township
+20013000210,Washington Township
+20013900010,Sabetha Ward 1 Part 1 Exclave
+2001500001A,Andover City Ward 1
+2001500001L,Andover City Ward 1 Exclave A
+2001500001N,Andover City Ward 3 Exclave C
+2001500001O,Andover City Ward 3 Exclave D Sewage Plant
+2001500002A,Augusta City Ward 1
+2001500002B,Augusta City Ward 1 Exclave A
+2001500002C,Augusta City Ward 1 Exclave B
+20015000030,Augusta City Ward 2
+2001500004A,Augusta City Ward 3
+2001500004B,Augusta City Ward 3 Exclave
+20015000050,Augusta City Ward 4
+20015000070,Benton Township/City
+20015000080,Bloomington Township
+2001500009C,Bruno Township Enclave B
+2001500009F,Bruno Township Enclave D Part B
+2001500009G,Bruno Township Enclave D Part C
+2001500009H,Bruno Township Enclave D Part D
+20015000100,Sycamore/Cassoday
+20015000110,Clay Township
+20015000120,Clifford Township
+20015000130,Douglass Township/City
+2001500014A,El Dorado City Ward 1
+2001500016A,El Dorado City Ward 2
+2001500016B,El Dorado City Ward 1 Exclave A
+2001500016C,El Dorado City Ward 1 Exclave C
+20015000190,El Dorado City Ward 3
+20015000220,El Dorado City Ward 4
+20015000240,Fairmount Township/Elbing
+20015000250,Fairview Township
+20015000260,Glencoe Township
+20015000270,Hickory Township
+20015000280,Lincoln Township
+20015000290,Little Walnut Township/Leon
+20015000300,Logan Township
+20015000320,Murdock Township
+20015000330,El Dorado Township West
+20015000340,Pleasant Township
+20015000350,Plum Grove Township/Potwin
+20015000360,Prospect Township
+20015000380,Rock Creek Township
+20015000390,Rosalia Township
+20015000410,Spring Township
+20015000430,Towanda Township/City
+20015000440,Union Township/Latham
+20015000450,Walnut Township
+20015120040,Augusta Township North
+20015120050,Augusta Township
+20015120080,Whitewater City
+20015120090,Milton Township
+20015140010,Andover City Ward 2
+20015140020,Andover City Ward 3
+20015140030,Andover City Ward 4
+20015140040,Bruno Township 385 77
+20015140050,Bruno Township 385 99
+20015140060,Bruno Township 402 77
+20015140070,Bruno Township 402 99
+20015140080,El Dorado Township East
+20015140090,El Dorado City W1 490 Exclave J
+20015200010,Rose Hill City
+20015200020,Richland Township H78
+20015800050,Chelsea Township
+20015800060,Andover City Ward 3 Exclave E
+2001580010A,Augusta City Ward 1 Exclave C
+2001580010B,Augusta City Ward 1 Exclave D
+2001580030A,El Dorado City Ward 3 Exclave A
+2001580040B,Richland Township H77 Exclave B
+2001580070A,Rose Hill City Exclave A
+2001580070B,Rose Hill City Exclave B
+2001580070C,Rose Hill City Exclave C
+2001580070D,Rose Hill City Exclave D
+2001580070E,Rose Hill City Exclave E
+2001580070F,Rose Hill City Exclave F
+20017000010,Bazaar Township
+20017000020,Cedar Township
+20017000030,Cottonwood Township
+20017000040,Diamond Township
+20017000050,East Falls Township
+20017000060,East Strong Township
+20017000070,Homestead Township
+20017000080,Matfield Township
+20017000090,Toledo Township
+20017000100,West Falls Township
+20017000110,West Strong Township
+20019000010,Caneyville Township
+20019000020,Center Township
+20019000030,Chautauqua
+20019000040,Harrison Township
+20019000050,Hendricks Township
+20019000060,Jefferson Township
+20019000070,Lafayette Township
+20019000080,Little Caney Township
+20019000090,North Sedan
+20019000100,Peru
+20019000110,Salt Creek Township
+20019000120,South Sedan
+20019000130,Summit Township
+20019000140,Washington Township
+20021000010,Baxter Springs Ward 1
+20021000020,Baxter Springs Ward 2
+2002100002A,Baxter Springs Ward 2 Exclave
+20021000030,Baxter Springs Ward 3
+2002100004A,Baxter Springs Ward 4
+2002100004B,Baxter Springs Ward 4 Exclave
+20021000050,Cherokee Township
+20021000060,Columbus Ward 1
+20021000070,Columbus Ward 2
+2002100007A,Columbus Ward 2 Exclave
+20021000080,Columbus Ward 3
+20021000090,Columbus Ward 4
+2002100010A,Columbus Ward 5
+2002100010B,Columbus Ward 5 Exclave
+20021000110,Crawford Township
+20021000120,Galena Ward 1
+2002100012A,Galena Ward 1 Exclave
+2002100013A,Galena Ward 2
+2002100013B,Galena Ward 2 Exclave A City Park
+2002100013C,Galena Ward 2 Exclave B
+2002100013D,Galena Ward 2 Exclave C
+20021000140,Galena Ward 3
+2002100015A,Galena Ward 4
+20021000170,Garden Township Lowell
+2002100018A,Garden Township Stanley Mine
+20021000190,Lola Township
+20021000200,Lowell Township
+20021000210,Lyon Township
+20021000220,Mineral Township
+20021000230,Neosho Township Faulkner
+20021000240,Neosho Township Melrose
+20021000250,Pleasant View Township
+20021000260,Roseland City
+20021000270,Ross Township Belleview
+20021000280,Ross Township Roseland
+20021000290,Ross Township West Mineral
+2002100030A,Salamanca Township
+2002100030B,Salamanca Township Enclave
+2002100030C,Salamanca Township Enclave 2
+20021000310,Scammon Ward 1
+20021000320,Scammon Ward 2
+20021000330,Scammon Ward 3
+20021000340,Shawnee Township
+20021000350,Sheridan Township
+20021000360,Spring Valley Township Neutral
+2002100037A,Spring Valley Township Spring Valley
+2002100037B,Spring Valley Township Spring Valley Enclave A
+2002100037C,Spring Valley Township Spring Valley Enclave B
+2002100037D,Spring Valley Township Spring Valley Enclave
+20021000380,Treece City
+2002100042A,West Mineral City
+2002100042B,West Mineral City Exclave Big Brutus
+20021000999,Weir City
+20023000010,Benkelman Township
+20023000020,Bird City Township
+20023000030,Calhoun Township
+20023000040,Cleveland Run Township
+20023000050,Jaqua Township
+20023000060,Orlando Township
+20023000070,Wano 1 Township
+20023000080,Wano 2 Township
+20025000010,Appleton Township
+20025000020,Center 1
+20025000030,Center 2
+20025000040,Englewood Township
+20025000050,Lexington Township
+20025000060,Liberty Township
+20025000070,Sitka Township
+20027000010,Athelstane Township
+20027000020,Blaine Township
+20027000030,Bloom Township
+20027000040,Chapman Township
+2002700005A,Clay Center Township
+2002700005B,Clay Center Township Enclave
+2002700006A,Clay Center Ward 1
+2002700006B,Clay Center Ward 1 Exclave
+20027000070,Clay Center Ward 2
+20027000080,Clay Center Ward 3
+20027000090,Clay Center Ward 4
+20027000100,Exeter Township
+20027000110,Five Creeks Township
+20027000120,Garfield Township
+20027000130,Gill Township
+20027000140,Goshen Township
+20027000150,Grant Township
+20027000160,Hayes Township
+20027000170,Highland Township
+20027000180,Mulberry Township
+20027000190,Oakland Township
+20027000200,Republican Township
+20027000210,Sherman Township
+20027000220,Union Township
+20027180010,Clsy Center Township Enclave
+20027180020,Clay Center Ward 3 Exclave
+20027900230,Clay Center Ward 4 Exclave
+20029000010,Arion Township
+20029000020,Aurora Township
+20029000030,Buffalo Township
+20029000040,Center Township
+20029000050,Colfax Township
+2002900006A,Concordia Ward 1
+2002900006B,Concordia Ward 1 Exclave A
+2002900006C,Concordia Ward 1 Exclave Praireland transfer station
+20029000070,Concordia Ward 2 Precinct 1
+2002900008A,Concordia Ward 2 Precinct 2
+2002900008B,Concordia Ward 2 Precinct 2 Exclave
+20029000090,Concordia Ward 3
+20029000100,Concordia Ward 4
+2002900011A,East Lincoln
+2002900011B,East Lincoln Enclave
+20029000120,East Meredith
+20029000130,Elk Township
+20029000140,Grant Township
+20029000150,Lyon Township
+20029000160,Nelson Township
+20029000170,North Lawrence
+20029000180,Oakland Township
+20029000190,Shirley Township
+20029000200,Sibley Township
+20029000210,Solomon Township
+20029000220,South Lawrence
+20029000230,Starr Township
+20029000240,Summit Township
+20029000250,West Lincoln
+20029000260,West Meredith
+20029000270,Concordia Ward 1 Exclave B
+20029000280,Concordia Ward 4 Exclave A
+20031000010,Avon Township
+20031000020,Burlington Township
+20031000030,Burlington Ward 1
+2003100004A,Burlington Ward 2
+2003100004B,Burlington Ward 2 Country Club Heights
+2003100005A,Burlington Ward 3
+2003100005B,Burlington Ward 3 Exclave Caldwell's Add.
+2003100005C,Burlington Ward 3 Exclave Indust. Park #2 & 3
+20031000060,Hampden Township
+20031000070,Key West Township
+20031000080,Leroy Township
+20031000090,Liberty Township
+20031000100,Lincoln Township
+20031000110,Neosho Township
+20031000120,Ottumwa Township
+20031000130,Pleasant Township
+20031000140,Pottawatomie Township
+20031000150,Rock Creek Township
+20031000160,Spring Creek Township
+20031000170,Star Township
+20031900010,Burlington Ward 2 Exclave 2
+20031900020,Burlington Township Enclave 1
+20031900030,Burlington Township Enclave 2
+20033000010,Avilla Township
+20033000020,Coldwater Township
+20033000030,Powell Township
+20033120020,Protection Township H115
+20033120030,Protection Township H116
+20033190010,Coldwater Township II
+2003500001A,Arkansas City Ward 1 A
+2003500001B,Arkansas City Ward 1 A Exclave A
+2003500001C,Arkansas City Ward 1 A Exclave B
+20035000020,Arkansas City Ward 1 B
+20035000030,Arkansas City Ward 1 C
+20035000040,Arkansas City Ward 1 D
+20035000050,Arkansas City Ward 2 A
+2003500005A,Arkansas City Ward 2 A Exclave
+2003500006A,Arkansas City Ward 2 B - 1
+2003500006B,Arkansas City Ward 2 B - 2
+20035000070,Arkansas City Ward 2 C
+20035000080,Arkansas City Ward 2 D
+20035000090,Arkansas City Ward 3 A
+20035000100,Arkansas City Ward 3 B
+20035000110,Arkansas City Ward 3 C
+20035000120,Arkansas City Ward 4 A
+2003500013A,Arkansas City Ward 4 B
+20035000140,Arkansas City Ward 4 C
+20035000150,Arkansas City Ward 4 D
+20035000170,Beaver Township
+20035000180,Cedar Township
+20035000190,Dexter Township
+20035000200,East Bolton
+20035000210,East Creswell
+20035000220,Fairview Township
+20035000230,Grant Township
+20035000240,Harvey Township
+20035000250,Liberty Township
+20035000260,Maple Township
+20035000270,Ninnescah Township
+20035000280,Omnia Township
+20035000290,Otter Township
+20035000300,Pleasant Valley Township
+20035000310,Richland Township
+20035000320,Rock Township
+20035000330,Salem Township
+20035000340,Sheridan Township
+20035000350,Silver Creek Township
+20035000360,Silverdale Township
+20035000370,Spring Creek Township
+20035000380,Tisdale Township
+20035000390,Vernon Township
+20035000400,Walnut Township
+2003500041A,West Bolton
+2003500041B,West Bolton Enclave A
+2003500042A,West Creswell
+20035000430,Windsor Township
+20035000440,Winfield Ward 1 East
+20035000450,Winfield Ward 1 West
+20035000460,Winfield Ward 2 Central
+20035000470,Winfield Ward 2 East
+20035000480,Winfield Ward 2 South
+20035000490,Winfield Ward 2 West
+20035000500,Winfield Ward 3
+2003500051A,Winfield Ward 3 South
+2003500051B,Winfield Ward 8
+20035000520,Winfield Ward 4
+2003500053A,Winfield Ward 5 East
+2003500053B,Winfield Ward 5 East Exclave Lake
+20035000540,Winfield Ward 5 West
+20035000550,Winfield Ward 6
+2003500055B,Winfield Ward 6 B
+20035000560,Winfield Ward 6 A
+20035000570,Winfield Ward 7
+2003500057A,Winfield Ward 7 A
+20035900010,Arkansas City Ward 5
+20035900020,West Creswell Enclave A
+20035900030,West Creswell Enclave B
+20035900040,West Creswell Enclave C
+20035900050,Arkansas City Ward 2 D Exclave 1
+20035900060,Arkansas City Ward 1 D Exclave A
+20035900070,Winfield Ward 9
+20037000010,Arcadia
+20037000020,Baker
+20037000030,Beulah
+20037000033,Sheridan-Cherokee City
+20037000040,Brazilton
+20037000050,Capaldo
+2003700005A,Capaldo Enclave
+20037000060,Cherokee
+20037000070,Chicopee
+20037000080,Crawford
+20037000090,Crowe
+20037000100,Franklin
+20037000110,Frontenac Ward 1
+2003700012A,Frontenac Ward 2
+2003700013A,Frontenac Ward 3
+2003700013B,Frontenac Ward 3 Industrial Park
+2003700014A,Frontenac Ward 4
+20037000150,Girard Ward 1
+2003700016A,Girard Ward 2
+2003700017A,Girard Ward 3
+2003700017B,Girard Ward 3 Exclave Golf Course
+20037000180,Girard Ward 4
+20037000190,Grant
+20037000200,Hepler
+20037000210,Lincoln
+2003700022A,Lone Star
+20037000230,McCune
+20037000240,Mulberry Ward 1
+20037000250,Mulberry Ward 2
+20037000260,North Arma
+20037000270,Opolis
+20037000280,Parkview
+20037000290,Pittsburg Ward 1 Precinct 1
+20037000300,Pittsburg Ward 1 Precinct 2
+20037000310,Pittsburg Ward 1 Precinct 3
+20037000320,Pittsburg Ward 2 Precinct 1
+20037000330,Pittsburg Ward 2 Precinct 2
+20037000340,Pittsburg Ward 2 Precinct 3
+20037000350,Pittsburg Ward 2 Precinct 4
+20037000360,Pittsburg Ward 2 Precinct 5
+20037000370,Pittsburg Ward 3 Precinct 1
+2003700038A,Pittsburg Ward 3 Precinct 2
+20037000390,Pittsburg Ward 4 Precinct 1
+20037000400,Pittsburg Ward 4 Precinct 2
+20037000410,Pittsburg Ward 4 Precinct 3
+2003700042A,Pittsburg Ward 4 Precinct 4
+20037000430,Pittsburg Ward 4 Precinct 5
+2003700044A,Pittsburg Ward 4 Precinct 6
+20037000450,Raymond
+20037000460,Sheridan
+20037000470,Sherman
+20037000480,Smelter
+20037000490,South Arma
+20037000500,Walnut
+20037000A41,Lincoln-Arcadia
+20037000A51,Osage-McCune
+20037000A62,Cherokee-Sheridan
+20037000A82,Walnut-Helper
+20037000A83,Walnut Township
+20037190010,Girard Ward 4 Exclave
+20037190020,Girard Ward 1 Exclave
+20037190030,Frontenac Ward 2 West
+20037900010,Baker Enclave
+2003790001A,Baker Enclave 2
+20037900020,Parkview Enclave
+20037900040,Pittsburg Ward 2 Precinct 5 Exclave B
+20037900050,Pittsburg Ward 2 Precinct 5 Exclave C
+20039000010,Allison Township
+20039000020,Altory Township
+20039000030,Bassettville Township
+20039000040,Beaver Township
+20039000050,Center Township
+20039000060,Cook Township
+20039000070,Custer Township
+20039000080,Dresden Township
+20039000090,Finley Township
+20039000100,Garfield Township
+20039000110,Grant Township
+20039000120,Harlan Township
+20039000130,Jennings Township
+20039000140,Liberty Township
+20039000150,Lincoln Township
+20039000160,Logan Township
+20039000170,Lyon Township
+20039000180,Oberlin City Precinct 1
+2003900019A,Oberlin City Precinct 2
+2003900019B,Oberlin City Precinct 2 Exclave
+20039000200,Oberlin Township
+20039000210,Olive Township
+20039000220,Pleasant Valley Township
+20039000230,Prairie Dog Township
+20039000240,Roosevelt Township
+20039000250,Sappa Township
+20039000260,Sherman Township
+20039000270,Summit Township
+20041000010,Abilene Ward 1
+2004100002A,Abilene Ward 2
+2004100002B,Abilene Ward 2 Exclave A
+20041000030,Abilene Ward 3
+20041000040,Abilene Ward 4 Precinct 1
+20041000050,Abilene Ward 4 Precinct 2
+20041000060,Banner Township
+20041000070,Buckeye Township
+20041000080,Center Township
+20041000090,Cheever Township
+20041000100,Flora Township
+20041000110,Fragrant Hill Township
+20041000120,Garfield Township
+20041000130,Grant Township
+20041000140,Hayes Township
+20041000150,Herington Ward 1
+20041000160,Herington Ward 2
+20041000170,Herington Ward 4
+20041000180,Holland Township
+20041000190,Hope Township
+20041000200,Jefferson Township
+20041000210,Liberty Township
+20041000220,Lincoln Township
+20041000230,Logan Township
+20041000250,Newbern Township
+20041000260,Noble Township
+20041000270,Ridge Township
+20041000280,Rinehart Township
+20041000290,Sherman Township
+20041000300,Union Township
+20041000310,Wheatland Township
+20041000320,Willowdale Township
+20041120020,Lyon Township H68
+2004112002A,Lyon Township H68 A
+20041120030,Lyon Township H70
+20041900010,Abilene Ward 1 Exclave A
+20041900020,Abilene Ward 2 Exclave B
+20041900030,Grant Township Enclave
+20043000010,Bendena Township
+20043000020,Blair Township
+20043000030,Burr Oak Township
+20043000040,Denton Township
+20043000050,Elwood Township
+20043000060,Highland Township
+20043000070,Leona Township
+20043000080,Marion Township
+20043000090,Severance Township
+20043000100,Troy Township
+20043000110,Wathena Township
+20043000120,Wayne Township
+20043000130,White Cloud Township
+20045000010,Big Springs Township Precinct 58
+20045000020,Central Eudora Precinct 54
+20045000030,Clinton Township Precinct 51
+2004500003A,CLTWP 000515
+2004500007A,Lawrence Precinct 01
+20045000080,Lawrence Precinct 02
+20045000090,Lawrence Precinct 03
+2004500010A,Lawrence Precinct 04
+20045000110,Lawrence Precinct 05
+2004500012A,Lawrence Precinct 06
+20045000130,Lawrence Precinct 07
+20045000140,Lawrence Precinct 08
+20045000150,Lawrence Precinct 09
+20045000160,Lawrence Precinct 10
+20045000170,Lawrence Precinct 11
+20045000180,Lawrence Precinct 12
+20045000190,Lawrence Precinct 13
+20045000200,Lawrence Precinct 14
+20045000210,Lawrence Precinct 15
+20045000220,Lawrence Precinct 16
+20045000230,Lawrence Precinct 17
+20045000240,Lawrence Precinct 18
+20045000250,Lawrence Precinct 19
+20045000260,Lawrence Precinct 20
+20045000270,Lawrence Precinct 21
+20045000280,Lawrence Precinct 22
+20045000290,Lawrence Precinct 23
+20045000300,Lawrence Precinct 24
+20045000310,Lawrence Precinct 25
+20045000320,Lawrence Precinct 26
+20045000330,Lawrence Precinct 27
+20045000340,Lawrence Precinct 28
+20045000350,Lawrence Precinct 29
+20045000370,Lawrence Precinct 31
+20045000380,Lawrence Precinct 32
+20045000400,Lawrence Precinct 33
+20045000450,Lawrence Precinct 38
+20045000460,Lawrence Precinct 39
+20045000470,Lawrence Precinct 40
+2004500048B,LAW 000415
+2004500048D,LAW 000416
+2004500050A,Lawrence Precinct 43 Part 1
+2004500050C,Lawrence Precinct 43 Part 3
+2004500052A,Lawrence Precinct 45
+20045000560,Lawrence Precinct 49
+20045000600,North Eudora Precinct 52 Twp
+20045000620,Northeast Baldwin Precinct 61
+20045000630,Northwest Baldwin Precinct 60
+20045000640,South Baldwin Precinct 62
+20045000660,Vinland Precinct 63
+2004500067B,West Wakarusa Precinct 66 S3 H44
+20045120020,EWAK 000659
+20045120030,East Wakarusa Precinct 65 Part 4 H46
+20045120040,Grant Township Precinct 55 S2 H45
+20045120050,Grant Township Precinct 55 S3 H45
+20045120060,Grant Township Precinct 55 S3 H46
+20045120070,Kanwaka Township Precinct 56 S19
+20045120080,Kanwaka Township Precinct 56 S2
+20045120090,Lawrence Precinct 30 S2
+20045120100,Lawrence Precinct 30 S3
+20045120110,Lawrence Precinct 34 S2
+20045120120,Lawrence Precinct 34 S3
+20045120130,Lawrence Precinct 35 S2
+20045120140,Lawrence Precinct 35 S3
+20045120150,Lawrence Precinct 36
+20045120170,Lawrence Precinct 37
+20045120210,LAW 000414
+20045120220,Lawrence Precinct 41 S2 H46
+20045120230,Lawrence Precinct 41 S3 H45
+20045120240,Lawrence Precinct 41 S3 H46
+20045120250,Lawrence Precinct 42 H45
+20045120260,Lawrence Precinct 42 H46
+20045120270,Lawrence Precinct 44 H44
+20045120280,Lawrence Precinct 44 H45
+20045120290,LAW 000462
+20045120300,Lawrence Precinct 46 S3
+20045120310,Lecompton Township Precinct 57 S19
+20045120320,Lecompton Township Precinct 57 S2
+20045120330,Marion Township Precinct 59 H45
+20045120340,Marion Township Precinct 59 H54
+20045120350,North Wakarusa Precinct 64 H45
+20045120360,North Wakarusa Precinct 64 H46
+20045120370,South Eudora Precinct 53 H10 Twp
+20045120380,South Eudora Precinct 53 H42 Twp
+20045120390,West Wakarusa Precinct 66 S19 H10
+20045120400,West Wakarusa Precinct 66 Part 1 S19 H45
+20045120410,West Wakarusa Precinct 66 S3 H10
+20045120420,West Wakarusa Precinct 66 S3 H45
+20045120430,Willow Springs Township Precinct 67 S19 H45
+20045120440,Willow Springs Township Precinct 67 S19 H54
+20045120450,Willow Springs Township Precinct 67 S3 H45
+20045120460,Willow Springs Township Precinct 67 S3 H54
+20045160750,Lawrence Precinct 75 S19
+20045160760,Lawrence Precinct 76
+20045160770,Lawrence Precinct 77
+20045160780,LAW 000781
+2004518046B,LAW 000463
+20045180520,North Eudora Precinct 52 City
+2004518052A,North Eudora Precinct 52 Part 4 Twp
+2004518052B,North Eudora Precinct 52 Part 5 Twp
+2004518052C,North Eudora Precinct 52 Part 6 Twp
+20045180530,South Eudora Precinct 53 H42 City
+20045180540,South Eudora Precinct 53 Part 6 H42 Twp
+20045180560,Kanwaka Township Precinct 56 Part 6 S2
+2004518062A,South Baldwin Precinct 62 Part 6
+2004518064A,North Wakarusa Precinct 64 Part 5 H45
+2004518066A,WAK 000668
+2004518066B,WAK 000669
+20045190040,West Wakarusa Precinct 66 Part 1 S3 H45
+20045190050,Lawrence Precinct 75 S2
+20045190060,Lawrence Precinct 42 H45 Exclave
+20045190070,Grant Township Precinct 55 S3 H45
+20045190080,West Wakarusa Precinct 66 S3 H44
+20045190090,West Wakarusa Precinct 66 Part 1 S3 H44
+20045190100,WAK 000669 H44
+20045190110,Lawrence Precinct 49 S19
+20045200010,East Wakarusa Precinct 65 H10
+20045200020,Lawrence Precinct 38 Exclave
+20045400030,Lawrence Precinct 47
+20045400040,Lawrence Precinct 48
+20045400050,West Eudora Precinct 50 Twp
+20045400080,Lawrence Precinct 42 Part 3 H45
+20045400090,West Eudora Precinct 50 City
+20045400110,West Wakarusa Precinct 66 Part 2 S19 H45
+20045900010,LAW 000681
+20045900020,LAW 000691
+20045900040,Lawrence Precinct 70
+20045900050,Lawrence Precinct 71
+20045900060,LAW 000720
+20045900070,LAW 000730
+20045900080,Lawrence Precinct 74
+20045900090,Lawrence Precinct 43 Part 2
+20045900100,East Wakarusa Precinct 65 Part 5 H10
+20045900120,East Wakarusa Precinct 65 S2 H46
+20045900130,EWAK 000657
+20045900140,EWAK 000658
+20045900170,Lawrence Precinct 42 Part 4 H45
+20047000010,Belpre Township
+20047000020,Franklin Township
+20047000030,Jackson Township
+20047000040,Kinsley Township
+20047000050,Kinsley Ward 1
+2004700006A,Kinsley Ward 2
+2004700006B,Kinsley Ward 2 Exclave
+20047000070,Lincoln Township
+20047000080,Logan Township
+20047000090,North Brown Township
+20047000100,South Brown Township
+20047000110,Trenton Township
+20047000120,Wayne Township
+20049000010,Elk Falls Township
+20049000020,Greenfield Township
+20049000030,Howard Township
+20049000040,Liberty Township
+20049000050,Longton Township
+20049000060,Oak Valley Township
+20049000070,Painterhood Township
+20049000080,Paw Paw Township
+20049000090,Union Center Township
+20049000100,Wildcat Township
+20051000010,Buckeye Township
+20051000020,Catherine Township
+20051000030,East Big Creek Township
+2005100003A,East Big Creek Township Enclave 1
+20051000040,Ellis Township
+20051000050,Ellis Ward 1
+20051000080,Freedom Township
+20051000090,Hays Ward 1 Precinct 1
+2005100010A,Hays Ward 1 Precinct 2
+20051000110,Hays Ward 2 Precinct 1
+20051000120,Hays Ward 2 Precinct 2
+20051000130,Hays Ward 2 Precinct 3
+20051000140,Hays Ward 2 Precinct 4
+20051000150,Hays Ward 2 Precinct 5
+2005100016A,Hays Ward 3 Precinct 1
+20051000170,Hays Ward 3 Precinct 2
+20051000180,Hays Ward 3 Precinct 3
+2005100019A,Hays Ward 3 Precinct 4
+20051000200,Hays Ward 4 Precinct 1
+2005100021A,Hays Ward 4 Precinct 2
+20051000220,Hays Ward 4 Precinct 3
+20051000230,Hays Ward 4 Precinct 4
+20051000240,Hays Ward 4 Precinct 5
+20051000250,Herzog Township
+2005100026A,North Big Creek Township Enclave 5
+20051000280,South Lookout Township
+20051000290,Victoria Township
+20051000300,West Big Creek Township
+20051000310,Wheatland Township
+20051120030,Herzog Township H111
+20051120040,North Big Creek Township H110
+20051120050,North Big Creek Township H111
+20051120060,North Lookout Township H110
+20051120070,North Lookout Township H111
+20051900010,Hays Ward 1 Precinct 2 Exclave 1
+20051900030,Hays Ward 3 Precinct 4 Exclave 1
+20051900040,Hays Ward 3 Precinct 4 Exclave 2
+20051900050,North Big Creek Township Enclave 1
+20051900060,North Big Creek Township Enclave 2
+20051900070,North Big Creek Township Enclave 3
+20051900080,North Big Creek Township Enclave 4
+20051900090,Hays Ward 1 Precinct 2 Exclave 2
+20051900100,Hays Ward 4 Precinct 5 Exclave 1
+20053000010,Ash Creek Township
+20053000020,Black Wolf Township
+20053000030,Buckeye Township
+20053000040,Carneiro Township
+20053000050,Clear Creek Township
+20053000060,Columbia Township
+20053000070,Ellsworth City East Ward 1
+20053000080,Ellsworth City East Ward 2
+2005300009A,Ellsworth City West
+2005300009B,Canren Township
+20053000100,Ellsworth Township
+20053000110,Garfield Township
+20053000120,Green Garden Township
+20053000130,Kanopolis Township
+20053000140,Langley Township
+20053000150,Lincoln Township
+20053000160,Mulberry Township
+20053000170,Noble Township
+20053000180,Palacky Township
+20053000190,Sherman Township
+20053000200,Thomas Township
+20053000210,Trivoli Township
+20053000220,Valley Township
+20053000230,Venango Township
+20053000240,Wilson Township
+20055000010,Friend Township
+20055000030,Garden City Ward 2
+20055000040,Garden City Ward 3
+20055000060,Garden City Ward 5
+20055000080,Garden City Ward 7
+20055000100,Garden City Ward 9
+20055000110,Garden City Ward 10
+20055000120,Garden City Ward 11
+20055000130,Garden City Ward 12
+20055000140,Garden City Ward 13
+20055000170,Garden City Ward 16
+20055000190,Holcomb
+20055000200,Huffman
+20055000220,Kalvesta
+20055000250,Pleasant Valley
+20055000260,Plymell
+20055000280,Theoni
+20055180010,Garden City Ward 14 123.1
+20055180020,Garden City Ward 14 122.1
+20055180030,Garden City Ward 15 123.1
+20055180040,Garden City Ward 15 122.1
+20055180050,Garden City Ward 1 123.1
+20055180060,Garden City Ward 1 122.1
+20055180070,Garden City Ward 1 122.2
+20055180080,Garden City Ward 6 123.1
+20055180090,Garden City Ward 6 122.1
+20055180100,Garden City Ward 6 122.2
+20055180110,Garden City Ward 8 123.1
+20055180120,Garden City Ward 8 122.1
+20055180130,Garden City Ward 8 122.2
+20055180140,Jennie Barker 122.1
+20055180150,Jennie Barker 122.2
+20055180160,Jennie Barker 122.3
+20055180170,Jennie Barker 122.4
+20055180180,Jennie Barker 122.5
+20055180190,Jennie Barker 122.6
+20055180200,Jennie Barker 122.7
+20055180210,Mack 122.1
+20055180220,Mack 122.2
+20055180230,Mack 122.3
+20055180240,Garden City Ward 8 122.3
+20055180250,Garden City Ward 1 122.3
+20055180260,Garden City Ward 1 122.4
+20055190010,Garden City Ward 1 122.3
+20055190020,Garden City Ward 8 122.4
+20055190030,Garden City Ward 8 122.5
+20055190040,Jennie Barker 123.1
+20055190050,Jennie Barker 123.2
+20055190060,Huffman 123.1
+20055190070,Huffman 123.2
+20055190080,Huffman 123.3
+20055190090,Huffman 123.4
+20055190100,Garden City Ward 8 122.6
+20055190110,Garden City Ward 6 122.3
+20055190120,Jennie Barker 123.3
+20055190130,Garden City Ward 6 122.3
+20055190140,Garden City Ward 6 122.4
+20055190150,Jennie Barker 123.4
+20055200020,Garden City Ward 4
+20055300010,Pierceville
+20055300020,Riverside
+20057000010,Bloom Township
+20057000020,Bucklin City
+20057000030,Bucklin Township
+20057000040,Concord Township
+2005700005A,Dodge City Precinct 01
+2005700005B,Dodge City Airport
+2005700005C,Dodge City Industrial Park
+20057000060,Dodge City Precinct 02
+20057000070,Dodge City Precinct 03
+2005700008A,Dodge City Precinct 04
+2005700008B,Dodge City Excel #1
+2005700008C,Dodge City Excel #2
+2005700008D,Dodge City Millard
+20057000090,Dodge City Precinct 05
+20057000100,Dodge City Precinct 06
+20057000190,Dodge Township H115
+2005700019A,Dodge Township H119
+2005700019B,Dodge Township W H119
+20057000200,Dodge Township Ward 3
+20057000210,Enterprise Township H115
+2005700021A,Enterprise Township H119
+20057000220,Fairview Township
+20057000230,Ford City
+20057000240,Ford Township
+20057000250,Grandview Township H115
+2005700025A,Grandview Township H119
+2005700025B,Grandview Township East H119
+20057000260,Richland Township
+20057000270,Royal Township
+20057000280,Sodville Township
+20057000290,Grandview Township Ward 2
+2005700029A,Grandview Township Ward 2 119
+20057000300,Spearville City
+20057000310,Spearville Township
+20057000320,Wheatland Township
+20057000330,Wilburn Township
+20057190010,Dodge City Precinct 06 H115
+20057600010,Dodge City Precinct 07
+20057800010,Dodge City Precinct 08
+20057800020,Dodge City Precinct 09
+20057800030,Dodge City Precinct 10
+20057800040,Dodge City Precinct 11
+20057800050,Dodge TWP i H119
+20059000010,Appanoose Township
+20059000020,Centropolis North Township
+20059000030,Centropolis South Township
+20059000040,Cutler Township
+20059000050,Franklin Township
+20059000060,Greenwood Township
+20059000070,Harrison Township
+20059000080,Hayes Township
+20059000090,Homewood Township
+20059000100,Lincoln Township
+20059000110,Ohio Township
+2005900012A,Ottawa Township
+2005900013A,Ottawa Precinct 1
+2005900013B,Ottawa Precinct 1 Exclave (A)
+2005900013C,Ottawa Precinct 1 Exclave (B)
+20059000140,Ottawa Precinct 2
+20059000150,Ottawa Precinct 3
+20059000160,Ottawa Precinct 4
+20059000180,Ottawa Precinct 6
+20059000190,Ottawa Precinct 7
+2005900020A,Ottawa Precinct 8
+20059000210,Peoria Township
+20059000220,Pomona Township
+20059000230,Pottawatomie Township
+20059000240,Richmond Township
+20059000250,Williamsburg Township
+20059900010,Ottawa Exclave Airport
+20061000010,Blakely Township
+2006100002A,Fort Riley Precinct A
+2006100002B,Fort Riley Precinct B
+2006100002L,Fort Riley Precinct L
+2006100002O,Fort Riley Milford Township Block 401
+2006100002P,Fort Riley Milford Township Block 501
+2006100002Q,Fort Riley Milford Township Block 601
+2006100002R,Fort Riley Milford Township Block 701
+20061000040,Wingfield Township
+20061000050,Jackson Township
+20061000060,Jefferson Township
+2006100007A,Junction City Ward 1 Precinct 1
+20061000080,Junction City Ward 1 Precinct 2
+20061000090,Junction City Ward 1 Precinct 3
+20061000100,Junction City Ward 1 Precinct 4
+20061000110,Junction City Ward 1 Precinct 5
+2006100013A,Junction City Ward 1 Precinct 7
+20061000140,Junction City Ward 2 Precinct 1
+20061000150,Junction City Ward 2 Precinct 2
+2006100016A,Junction City Ward 2 Precinct 3
+20061000180,Junction City Ward 3 Precinct 1
+20061000190,Junction City Ward 3 Precinct 2
+20061000210,Junction City Ward 2 Precinct 8
+2006100022A,Junction City Ward 4 Precinct 3
+2006100022B,Junction City Ward 4 Precinct 3 Exclave Golf Course
+20061000230,Junction City Ward 4 Precinct 4
+20061000240,Liberty Township
+20061000250,Lyon Township
+20061000270,Milford Township
+20061000271,Milford City Precinct
+20061000330,Junction City Ward 3 Precinct 3
+20061000340,Junction City Ward 3 Precinct 4
+2006112015B,Smokey Hill Township S17 H68 B
+2006112017A,SmokeyHill Township S22 H68
+20061900010,Smokey Hill Township Precinct 5
+20061900020,Smokey Hill Township Enclave A
+20061900030,Smokey Hill Township Enclave B
+20061900040,Smokey Hill Township Enclave C
+20061900060,Smokey Hill Township Enclave E
+20061900070,Smokey Hill Township Enclave F
+20061900100,Grandview Township Enclave A
+20061900130,Junction City Ward 1 Precinct 6 Part 2
+20061900140,Junction City Ward 2 Precinct 6
+20061900150,Junction City Ward 2 Precinct 4
+20061900180,Junction City Ward 2 Precinct 5 Part 2
+20061900190,Junction City Ward 4 Precinct 1
+20061900200,Junction City Ward 4 Precinct 1 Exclave
+20061900210,Junction City Ward 4 Precinct 2
+20061900220,Junction City Ward 4 Precinct 2 Exclave
+20061900230,Smoky Hill Towhship Precinct 3
+20061900240,Smoky Hill Precinct 6
+20061900250,Smoky Hill Township Precinct 4
+20061900260,Junction City Ward 2 Precinct 5
+20061900270,Smoky Hill TownShip Precinct 1
+20061900280,Grandview Plaza Precinct
+20063000010,Baker Township
+20063000020,Gaeland Township
+20063000030,Gove Township
+20063000040,Grainfield Township
+20063000050,Grinnell Township
+20063000060,Jerome Township
+20063000070,Larrabee Township
+20063000080,Lewis Township
+20063000090,Payne Township
+20065000010,Allodium Township
+20065000020,Bogue City
+20065000030,Bryant Township
+20065000040,Gettysburg Township
+20065000050,Graham Township
+20065000060,Happy Township
+20065000100,Indiana Township
+20065000110,Millbrook Township
+20065000120,Morlan Township
+20065000130,Morland City
+20065000150,Pioneer Township
+20065000160,Solomon Township
+20065000170,Wildhorse Township
+20065120020,Hill City Precinct 1 H110
+20065120030,Hill City Precinct 1 H118
+20065120040,Hill City Precinct 2 H110
+20065120050,Hill City Precinct 2 H118
+20065120060,Hill City Precinct 3 H110
+20065120070,Hill City Precinct 3 H118
+20065120080,Nicodemus Township H110
+20065120090,Nicodemus Township H118
+20067000020,Ulysses Ward 1
+2006700003A,Ulysses Ward 2
+2006700003B,Ulysses Ward 2 Exclave
+20067000040,Ulysses Ward 3
+20067120020,Precinct 5
+20067120030,Precinct 4
+20069000020,Copeland Township
+20069000030,East Hess Township
+20069000040,Foote Township
+20069000050,Ingalls Township
+20069000060,Logan Township
+20069000070,Montezuma Township
+20069500010,Cimarron Township Precinct 1
+20069500020,Cimarron Township Precinct 2
+20071000010,Tribune Precinct 1
+20071000020,Tribune Precinct 2
+20071000030,Tribune Precinct 3
+20073000010,Bachelor Township
+20073000020,Eureka Township
+20073000030,Eureka Ward 1
+20073000040,Eureka Ward 2
+20073000050,Eureka Ward 3
+20073000060,Fall River Township
+20073000070,Janesville Township
+20073000080,Lane Township
+20073000090,Madison Township
+20073000100,Otter Creek Township
+20073000110,Pleasant Grove Township
+20073000120,Quincy Township
+20073000130,Salem Township
+20073000140,Salt Springs Township
+20073000150,Shell Rock Township
+20073000170,Spring Creek Township
+20073000180,Twin Grove Township
+20073200010,South Salem Township C01
+20073200020,South Salem Township C04
+20073900010,Eureka Airport
+20073900020,Eureka Ward 1 Exclave
+20075000010,Bear Creek Township
+20075000020,Coolidge Township
+20075000030,Kendall Township
+20075000040,Lamont Township
+20075000050,Liberty Township
+20075000060,Medway Township
+20075000070,Richland Township
+20075000080,Syracuse 1
+20075000090,Syracuse 2
+20075000100,Syracuse 3
+20075180010,Syracuse 4
+20075180020,Syracuse 5
+20077000010,Anthony Ward 1
+20077000020,Anthony Ward 2
+20077000030,Anthony Ward 3
+20077000040,Anthony Ward 4
+20077000050,Harper Ward 1
+20077000060,Harper Ward 2
+20077000070,Township 1
+20077000080,Township 2
+20077000100,Township 4
+20077800010,Township 3 East
+20077800020,Township 3 West
+20077800030,Township 5 East
+20077800040,Township 5 West
+20077800050,Township 6 East
+20077800060,Township 6 West
+20077900010,Anthony Ward 2 Exclave 1
+20077900020,Anthony Ward 2 Exclave 2
+20077900030,Anthony Ward 3 Exclave 1
+20077900040,Anthony Ward 3 Exclave 2
+20077900050,Anthony Ward 4 Exclave 1
+20077900060,Harper Ward 1 Exclave 1
+20077900070,Township 5 West Enclave
+20079000010,Alta Township
+20079000020,Burrton Township
+20079000030,Darlington Township H74
+2007900003A,Darlington North H72
+20079000040,Emma Township
+2007900004A,Emma Township Enclave 1
+2007900004B,Emma Township Enclave 2
+20079000050,Garden Township
+20079000060,Halstead City Ward 1 Precinct 1
+20079000070,Halstead City Ward 1 Precinct 2
+2007900007B,Halstead City Ward 1 Precinct 2 Eclave
+20079000080,Halstead Township
+20079000090,Hesston Precinct 1
+2007900010A,Hesston Precinct 2
+20079000110,Highland Township
+20079000120,Lake Township
+20079000130,Lakin Township
+20079000140,Macon Township
+20079000150,Newton City Ward 1 Precinct 1
+20079000160,Newton City Ward 1 Precinct 2
+20079000170,Newton City Ward 1 Precinct 3
+20079000180,Newton City Ward 2 Precinct 1
+2007900019A,Newton City Ward 2 Precinct 2
+20079000200,Newton City Ward 3 Precinct 1
+20079000210,Newton City Ward 3 Precinct 2
+2007900021A,Newton City Ward 3 Precinct 2 - Exclave
+2007900022A,Newton City Ward 3 Precinct 3
+2007900022S,Newton City Ward 3 Precinct 4
+2007900022W,Newton City Ward 3 Precinct 4 - Exclave
+20079000230,Newton City Ward 4 Precinct 1
+20079000240,Newton City Ward 4 Precinct 2
+20079000250,Newton City Ward 4 Precinct 3
+20079000260,Newton City Ward 4 Precinct 4
+20079000270,Newton Township Part A
+2007900027A,Newton Township Part B Exclave
+2007900027B,Newton Township Part B
+2007900027C,Newton Township Part C
+2007900027D,Newton Township Part D
+2007900027E,Newton Township Part E
+2007900027F,Newton Township Part F
+2007900027G,Newton Township Part G
+20079000280,North Newton City
+2007900028A,North Newton City Exclave 1
+20079000290,Pleasant Township
+20079000300,Richland Township
+20079000310,Sedgwick Township
+20079000320,Walton Township
+20079190010,Newton Township Part A Enclave
+20079190020,Newton Township Part D Enclave 1
+20079190030,Newton Township Part D enclave 2
+20079900010,Burrton City
+20079900020,Sedgwick City
+20079900030,Walton City
+20081000010,Ivanhoe Township
+20081000020,North Dudley
+20081000030,North Lockport
+20081000040,Satanta 1
+20081000060,South Lockport
+20081000080,Sublette 3
+20081120020,Satanta 2 H122
+20081120030,Satanta 2 H124
+20081120040,Sublette 1 H122
+20081120050,Sublette 1 H124
+20081120070,Sublette 3 H124
+20083000010,Benton Township
+20083000040,North Hallet
+20083000050,North Roscoe
+20083000080,South Hallet
+20083000090,South Roscoe
+20083000100,Sterling Township
+20083000110,Valley Township
+20083150010,City of Jetmore - North
+20083150020,City of Jetmore - Northwest / Southwest Center
+20083150030,City of Jetmore - South
+20083150040,East Sawlog Township
+20083150050,North Center
+20083150060,North Marena Township
+20083150070,Southeast Center
+20083150080,South Marena
+20083150090,West Sawlog
+20085000010,Adrian Township
+20085000020,Banner Township
+20085000030,Cedar Township
+20085000040,Douglas Township
+20085000050,Franklin Township
+20085000060,Garfield Township
+20085000070,Grant Township
+2008500008A,Holton Ward 1
+2008500008B,Holton Ward 1 Exclave City Lake
+20085000090,Holton Ward 2
+2008500010A,Holton Ward 3
+2008500010B,Holton Ward 3 Exclave Industrial Park
+20085000110,Jefferson Township
+20085000120,Liberty Township
+20085000130,Lincoln Township
+20085000140,Netawaka Township
+20085000150,Soldier Township
+20085000160,Straight Creek Township
+20085000170,Washington Township
+20085000180,Whiting Township
+20087000010,Delaware Township
+20087000020,East Fairview
+20087000030,Jefferson Township
+20087000040,Kaw Township
+20087000050,Kentucky Township
+20087000060,Norton Township
+20087000070,Oskaloosa Township
+20087000080,Ozawkie Township
+20087000090,Rock Creek Township
+20087000100,Rural Township
+20087000110,Sarcoxie Township
+20087000120,Union Township
+20087000130,West Fairview
+20089000010,Allen Township
+20089000020,Athens Township
+20089000030,Browns Creek Township
+20089000040,Buffalo Township
+20089000050,Burr Oak Township
+20089000060,Calvin Township
+20089000070,Center Township
+20089000080,Erving Township
+20089000090,Esbon Township
+20089000100,Grant Township
+20089000110,Harrison Township
+20089000120,Highland Township
+20089000130,Holmwood Township
+20089000140,Ionia Township
+20089000150,Jackson Township
+20089000160,Limestone Township
+20089000170,Montana Township
+20089000180,Odessa Township
+20089000190,Prairie Township
+20089000200,Richland Township
+20089000210,Sinclair Township
+20089000220,Vicksburg Township
+20089000230,Walnut Township
+20089000240,Washington Township
+20089000250,White Mound Township
+20091000010,Aubry Township 0-01
+20091000020,Aubry Township 0-02
+20091000030,Aubry Township 0-03
+20091000040,Aubry Township 0-04
+20091000070,De Soto 0-01
+20091000080,De Soto 0-02
+20091000090,Edgerton 0-01
+2009100014A,Gardner 0-01
+2009100014C,Gardner 0-04
+20091000160,Gardner 0-03
+20091000190,Lake Quivira 0-01
+20091000200,Leawood 1-01
+20091000210,Leawood 1-02
+20091000220,Leawood 1-03
+20091000230,Leawood 1-04
+20091000270,Leawood 2-04
+20091000350,Leawood 4-02
+20091000370,Leawood 4-04
+20091000430,Lenexa 1-02
+20091000440,Lenexa 1-03
+20091000450,Lenexa 1-04
+20091000510,Lenexa 4-09
+20091000520,Lenexa 2-04
+20091000530,Lenexa 2-05
+20091000560,Lenexa 2-08
+20091000580,Lenexa 3-01
+20091000590,Lenexa 3-02
+20091000600,Lenexa 3-03
+20091000610,Lenexa 3-04
+20091000620,Lenexa 3-05
+20091000630,Lenexa 4-01
+20091000640,Lenexa 4-02
+20091000650,Lenexa 4-03
+20091000660,Lenexa 4-04
+20091000840,Mission Hills 0-01
+20091000850,Mission Hills 0-02
+20091000860,Mission Hills 0-03
+20091000870,Mission Hills 0-04
+20091000880,Mission 1-01
+20091000890,Mission 1-02
+20091000910,Mission 2-02
+20091000920,Mission 3-01
+20091000930,Mission 3-02
+20091000940,Mission 4-01
+20091000950,Mission 4-02
+20091000960,Mission 4-03
+20091001000,Olathe 1-02
+20091001010,Olathe 1-03
+20091001030,Olathe 1-05
+20091001040,Olathe 1-06
+20091001050,Olathe 3-23
+20091001060,Olathe 1-08
+20091001070,Olathe 1-09
+20091001090,Olathe 1-11
+20091001100,Olathe 3-07
+20091001130,Olathe 1-20
+20091001150,Olathe 2-03
+20091001160,Olathe 2-04
+2009100117A,Olathe 2-05
+2009100117B,Olathe 2-18
+20091001200,Olathe 2-08
+20091001210,Olathe 1-19
+20091001220,Olathe 2-10
+20091001240,Olathe 2-12
+20091001250,Olathe 2-13
+20091001260,Olathe 2-14
+20091001280,Olathe 2-01
+20091001290,Olathe 2-17
+20091001300,Olathe 3-01
+20091001310,Olathe 3-02
+20091001320,Olathe 3-03
+20091001330,Olathe 3-04
+20091001340,Olathe 3-05
+20091001350,Olathe 3-06
+20091001360,Olathe 3-09
+20091001370,Olathe 3-08
+20091001380,Olathe 3-22
+20091001390,Olathe 3-10
+2009100140B,Olathe 3-16
+20091001420,Olathe 4-01
+20091001450,Olathe 4-04
+2009100147A,Olathe 4-06
+2009100147B,Olathe 4-12
+20091001480,Olathe 4-07
+20091001490,Olathe 4-08
+20091001500,Olathe 4-09
+20091001510,Olathe 4-10
+20091001520,Olathe 4-11
+2009100153J,Olathe Township 0-03
+2009100153K,Olathe Township 0-04
+2009100153P,Olathe Township 0-17
+20091001540,Overland Park 1-01
+20091001550,Overland Park 1-02
+20091001560,Overland Park 1-03
+20091001570,Overland Park 1-04
+20091001580,Overland Park 1-05
+20091001590,Overland Park 1-06
+20091001600,Overland Park 1-07
+20091001610,Overland Park 1-08
+20091001620,Overland Park 1-09
+20091001630,Overland Park 1-19
+20091001640,Overland Park 1-11
+20091001650,Overland Park 1-12
+20091001660,Overland Park 1-13
+20091001670,Overland Park 1-14
+20091001680,Overland Park 1-15
+20091001690,Overland Park 2-18
+20091001700,Overland Park 1-17
+20091001710,Overland Park 1-10
+20091001720,Overland Park 1-16
+20091001730,Overland Park 2-04
+20091001740,Overland Park 2-05
+20091001750,Overland Park 2-06
+20091001760,Overland Park 2-07
+20091001770,Overland Park 2-08
+20091001780,Overland Park 2-09
+20091001790,Overland Park 2-10
+20091001800,Overland Park 2-11
+20091001810,Overland Park 2-12
+20091001820,Overland Park 2-13
+20091001830,Overland Park 2-14
+20091001840,Overland Park 2-15
+20091001850,Overland Park 2-16
+20091001860,Overland Park 2-17
+20091001870,Overland Park 3-16
+20091001880,Overland Park 2-01
+20091001890,Overland Park 2-20
+20091001900,Overland Park 3-20
+20091001910,Overland Park 3-05
+20091001920,Overland Park 3-02
+20091001930,Overland Park 3-03
+20091001940,Overland Park 3-04
+20091001950,Overland Park 3-17
+20091001960,Overland Park 3-06
+20091001970,Overland Park 3-07
+20091001980,Overland Park 3-08
+20091001990,Overland Park 3-09
+20091002000,Overland Park 3-10
+20091002010,Overland Park 3-11
+20091002020,Overland Park 3-12
+20091002030,Overland Park 5-01
+20091002040,Overland Park 3-14
+20091002050,Overland Park 3-15
+20091002080,Overland Park 5-04
+20091002090,Overland Park 5-05
+20091002120,Overland Park 3-01
+20091002130,Overland Park 3-13
+20091002140,Overland Park 3-18
+20091002150,Overland Park 3-19
+20091002160,Overland Park 4-04
+2009100217A,Overland Park 4-08
+2009100217B,Overland Park 4-07
+20091002180,Overland Park 4-09
+20091002190,Overland Park 4-10
+20091002200,Overland Park 4-11
+20091002210,Overland Park 4-12
+2009100222A,Overland Park 4-13
+2009100222B,Overland Park 4-15
+20091002230,Overland Park 4-14
+20091002240,Overland Park 4-05
+2009100226B,Overland Park 6-04
+20091002280,Overland Park 2-02
+20091002290,Overland Park 2-03
+20091002300,Overland Park 2-22
+20091002310,Overland Park 2-23
+20091002320,Overland Park 2-19
+20091002330,Overland Park 2-21
+20091002340,Overland Park 2-24
+20091002350,Overland Park 2-25
+20091002370,Overland Park 5-10
+20091002380,Overland Park 5-11
+20091002390,Overland Park 5-12
+20091002400,Overland Park 5-13
+20091002410,Overland Park 5-14
+2009100242A,Overland Park 5-15
+2009100242B,Overland Park 5-09
+2009100244A,Overland Park 6-05
+2009100244B,Overland Park 5-06
+20091002460,Overland Park 6-11
+20091002470,Overland Park 6-12
+2009100249A,Oxford Township 0-01
+2009100249C,Oxford Township 0-05
+2009100249E,Oxford Township 0-04
+2009100249F,Oxford Township 0-02
+20091002500,Prairie Village 1-01
+20091002510,Prairie Village 1-02
+20091002520,Prairie Village 1-03
+20091002530,Prairie Village 2-01
+20091002540,Prairie Village 2-02
+20091002550,Prairie Village 2-03
+20091002560,Prairie Village 3-01
+20091002570,Prairie Village 3-02
+20091002580,Prairie Village 3-03
+20091002590,Prairie Village 4-01
+20091002600,Prairie Village 4-02
+20091002610,Prairie Village 4-03
+20091002620,Prairie Village 5-01
+20091002630,Prairie Village 5-02
+20091002640,Prairie Village 5-03
+20091002650,Prairie Village 6-01
+20091002660,Prairie Village 6-02
+20091002670,Prairie Village 6-03
+20091002680,Roeland Park 1-01
+20091002690,Roeland Park 1-02
+20091002700,Roeland Park 2-01
+20091002710,Roeland Park 2-02
+20091002720,Roeland Park 3-01
+20091002730,Roeland Park 3-02
+20091002740,Roeland Park 4-01
+20091002750,Roeland Park 4-02
+20091002760,Shawnee 1-01
+20091002770,Shawnee 1-02
+20091002780,Shawnee 1-03
+20091002790,Shawnee 1-04
+20091002800,Shawnee 1-05
+20091002810,Shawnee 1-06
+20091002820,Shawnee 1-07
+20091002850,Shawnee 2-01
+20091002860,Shawnee 2-02
+20091002870,Shawnee 2-03
+20091002880,Shawnee 2-04
+20091002890,Shawnee 2-05
+20091002900,Shawnee 2-06
+20091002910,Shawnee 2-07
+20091002920,Shawnee 2-08
+20091002930,Shawnee 4-05
+20091002940,Shawnee 4-06
+20091002960,Shawnee 3-04
+20091002980,Shawnee 3-06
+20091003000,Shawnee 3-08
+20091003010,Shawnee 3-02
+20091003020,Shawnee 3-01
+20091003030,Shawnee 4-01
+20091003040,Shawnee 4-02
+20091003050,Shawnee 4-03
+20091003060,Shawnee 4-04
+20091003070,Shawnee 2-09
+20091003080,Shawnee 2-10
+20091003090,Shawnee 4-07
+2009100311A,Spring Hill 0-01
+2009100311B,Spring Hill 0-02
+2009100311D,Spring Hill 0-03
+20091003120,Spring Hill Township 0-01
+20091003130,Westwood Hills 0-01
+20091003140,Westwood 0-01
+20091003150,Westwood 0-02
+20091004030,Edgerton 0-02
+20091004040,Edgerton 0-03
+20091004070,Lexington Township 0-02
+20091004080,Lexington Township 0-03
+20091004090,Lexington Township 0-04
+20091004100,Lexington Township 0-05
+20091004140,Olathe 2-19
+20091004180,Olathe Township 0-08
+20091004190,Olathe Township 0-10
+20091004300,Oxford Township 0-03
+20091100040,McCamish Township 0-04
+2009112003B,Gardner 0-02 S9 B
+20091190010,De Soto 0-07
+20091190020,Gardner 0-16
+20091190030,Gardner 0-12
+20091900010,Aubry Township 0-05
+20091900020,Aubry Township 0-06
+20091900030,Bonner Springs 4-01
+20091900040,De Soto 0-03
+20091900050,De Soto 0-05
+20091900060,De Soto 0-06
+20091900080,Edgerton 0-04
+20091900090,Gardner 0-06
+20091900100,Gardner 0-07
+20091900110,Gardner 0-08
+20091900120,Gardner 0-09
+20091900130,Gardner 0-10
+20091900150,Gardner Township 0-03
+20091900160,Gardner Township 0-04
+20091900170,Gardner Township 0-07
+20091900180,Gardner Township 0-08
+20091900190,Leawood 1-05
+20091900200,Leawood 2-02
+20091900210,Leawood 2-03
+20091900220,Leawood 2-05
+20091900230,Leawood 2-06
+20091900250,Leawood 3-02
+20091900260,Leawood 3-03
+20091900270,Leawood 3-04
+20091900280,Leawood 3-05
+20091900290,Leawood 3-06
+20091900300,Leawood 4-01
+20091900320,Leawood 4-05
+20091900330,Leawood 4-06
+20091900340,Leawood 4-07
+20091900360,Lenexa 3-08
+20091900370,Lenexa 1-06
+20091900380,Lenexa 2-01
+20091900400,Lenexa 2-03
+20091900410,Lenexa 2-06
+20091900430,Lenexa 3-06
+20091900440,Lenexa 3-07
+20091900450,Lenexa 4-05
+20091900460,Lenexa 4-06
+20091900470,Lenexa 4-07
+20091900480,Lenexa 4-08
+20091900490,Merriam 1-01
+20091900500,Merriam 1-02
+20091900510,Merriam 2-01
+20091900520,Merriam 2-02
+20091900530,Merriam 3-01
+20091900540,Merriam 3-02
+20091900550,Merriam 4-01
+20091900560,Merriam 4-02
+20091900570,Olathe 1-07
+20091900580,Olathe 1-10
+20091900600,Olathe 1-15
+20091900610,Olathe 1-16
+20091900620,Olathe 1-17
+20091900640,Olathe 1-21
+20091900650,Olathe 1-23
+20091900660,Olathe 2-02
+20091900670,Olathe 2-06
+20091900680,Olathe 2-07
+20091900700,Olathe 2-11
+20091900710,Olathe 2-15
+20091900730,Olathe 2-20
+20091900740,Olathe 2-21
+20091900750,Olathe 2-22
+20091900760,Olathe 2-23
+20091900790,Olathe 3-11
+20091900800,Olathe 3-13
+20091900810,Olathe 3-14
+20091900820,Olathe 3-17
+20091900840,Olathe 3-19
+20091900850,Olathe 3-20
+20091900860,Olathe 3-21
+20091900870,Olathe 4-02
+20091900880,Olathe 4-13
+20091900890,Olathe 4-14
+20091900910,Olathe Township 0-24
+20091900920,Olathe Township 0-25
+20091900930,Olathe Township 0-26
+20091900940,Olathe Township 0-27
+20091900980,Olathe Township 0-32
+20091900990,Overland Park 1-18
+20091901000,Overland Park 4-01
+20091901010,Overland Park 4-02
+20091901020,Overland Park 4-03
+20091901030,Overland Park 4-16
+20091901040,Overland Park 4-17
+20091901050,Overland Park 4-06
+20091901060,Overland Park 5-08
+20091901070,Overland Park 5-16
+20091901080,Overland Park 5-17
+20091901090,Overland Park 5-18
+20091901100,Overland Park 6-01
+20091901110,Overland Park 6-02
+20091901120,Overland Park 6-07
+20091901130,Overland Park 6-08
+20091901140,Overland Park 6-09
+20091901150,Overland Park 6-10
+20091901160,Overland Park 6-13
+20091901170,Overland Park 6-15
+20091901180,Overland Park 6-16
+20091901200,Overland Park 5-07
+20091901210,Overland Park 6-19
+20091901220,Overland Park 6-20
+20091901300,Oxford Township 0-09
+20091901310,Oxford Township 0-10
+20091901330,Shawnee 1-09
+20091901340,Shawnee 1-10
+20091901360,Shawnee 3-03
+20091901370,Shawnee 3-05
+20091901380,Shawnee 3-09
+20091901410,Shawnee 4-08
+20091901420,Shawnee 4-09
+20091901430,Shawnee 4-10
+20091901510,Olathe Township 0-09
+20091901550,Olathe 1-01
+20091901560,Olathe Township 0-11
+20091901570,Olathe 1-04
+20091901610,Spring Hill 0-04
+20091901630,Olathe 1-14
+20091901650,Olathe 2-09
+20091901680,Olathe 3-15
+20091901700,Olathe 4-03
+20091901710,Olathe 4-05
+20091901730,Gardner 0-02
+20091901750,Edgerton 0-05
+20091901780,Olathe Township 0-05
+20091901810,Olathe 1-22
+20091901820,Gardner 0-05
+20091901830,Gardner Township 0-02
+20091901880,Olathe 1-18
+20091901890,Olathe Township 0-07
+20091901900,Gardner 0-11
+20091901910,De Soto 0-04
+20091901930,De Soto 0-08
+20091901940,Lexington Township 0-01
+20091901950,Gardner Township 0-01
+20091901970,Olathe Township 0-02
+20091920000,Fairway 1-01
+20091920010,Fairway 1-02
+20091920020,Fairway 2-01
+20091920030,Fairway 2-02
+20091920040,Fairway 3-01
+20091920050,Fairway 3-02
+20091920060,Fairway 4-01
+20091920070,Fairway 4-02
+20091920080,Fairway 4-03
+20091920090,Fairway 4-04
+20091920110,Leawood 1-06
+20091920120,Leawood 1-07
+20091920130,Lenexa 1-08
+20091920140,Lenexa 1-09
+20091920150,Lenexa 3-09
+20091920160,Lenexa 2-10
+20091920170,Lenexa 2-11
+20091920180,Lenexa 4-12
+20091920190,Lenexa 4-10
+20091920200,Lenexa 4-11
+20091920210,Mission Woods 0-01
+20091920220,Olathe 1-25
+20091920230,Olathe 1-27
+20091920240,Olathe 4-18
+20091920250,Olathe 4-16
+20091920260,Overland Park 1-20
+20091920270,Overland Park 1-21
+20091920280,Overland Park 1-22
+20091920290,Overland Park 2-26
+20091920300,Overland Park 3-22
+20091920310,Overland Park 3-21
+20091920320,Overland Park 4-18
+20091920330,Overland Park 4-19
+20091920340,Overland Park 6-14
+20091920350,Roeland Park 3-03
+20091920360,Roeland Park 4-03
+20091920370,Shawnee 4-12
+20091920380,Shawnee 2-13
+20091920390,McCamish Township 0-03
+20091920410,Gardner Township 0-09
+20091920420,Gardner Township 0-12
+2009192043A,Gardner Township 0-06a
+20091920440,Oxford Township 0-11
+20091920450,McCamish Township 0-01
+20091920460,McCamish Township 0-02
+20091920470,Gardner Township 0-13
+20091920490,Shawnee 2-12
+20091920500,Shawnee 2-11
+20091920510,Shawnee 4-11
+20091920520,Aubry Township 0-07
+20091920530,Gardner 0-13
+20091920540,Leawood 2-07
+20091920550,Lenexa 2-09
+20091920560,Merriam 2-03
+20091920570,Merriam 4-03
+20091920580,Olathe 4-19
+20091920590,Olathe Township 0-14
+20091920600,Shawnee 1-12
+20091920610,Spring Hill 0-04
+20091920620,Spring Hill Township 0-05
+20091920630,Olathe 1-26
+20091920640,Spring Hill 0-03
+20091920650,Olathe 4-15
+20091920660,Olathe 4-17
+20091920670,Olathe Township 0-01
+20091920680,Gardner 0-14
+20091920690,Gardner 0-15
+20091920700,Olathe Township 0-12
+2009192071A,Olathe Township 0-13A
+20091920720,Olathe Township 0-15
+20091920730,Olathe Township 0-16
+20091920740,Olathe 1-28
+20091920750,Gardner Township 0-10
+20091920760,Gardner Township 0-11
+20091920770,Olathe Township 0-06
+20091920790,Edgerton 0-06
+20091920800,Olathe 1-12
+20091920810,Olathe 1-13
+20091920820,Olathe 1-24
+20091920830,Olathe 2-16
+20091920840,Olathe 3-12
+20091920850,Olathe 3-18
+20091920860,Olathe 3-24
+20091920870,Leawood 2-01
+20091920880,Leawood 3-01
+20091920890,Leawood 4-03
+20091920900,Lenexa 1-05
+20091920910,Lenexa 1-07
+20091920920,Lenexa 2-07
+20091920930,Lenexa 1-01
+20091920940,Mission 2-01
+20091920950,Overland Park 5-02
+20091920960,Overland Park 5-03
+20091920970,Overland Park 6-03
+20091920980,Overland Park 6-17
+20091920990,Overland Park 6-18
+20091921000,Overland Park 6-06
+20091921010,Overland Park 6-21
+20091921020,Shawnee 1-08
+20091921030,Shawnee 1-11
+20091921040,Shawnee 3-07
+20091921050,Lenexa 2-02
+20091921070,Gardner Township 0-05
+20091921080,Gardner Township 0-14
+20093000010,Deerfield Township
+20093000020,East Hibbard Township
+20093000030,Hartland Township
+20093000040,Kendall Township
+20093000050,Lakin Precinct 1
+20093000060,Lakin Precinct 2
+20093000070,Lakin Township
+20093000080,Southside Township
+20093000090,West Hibbard Township
+20095000010,Allen Township
+20095000020,Belmont Township
+20095000030,Bennett Township
+20095000040,Canton Township
+20095000050,Chikaskia Township
+20095000060,Dale Township
+20095000070,Dresden Township
+20095000080,Eagle Township
+20095000090,Eureka Township
+20095000100,Evan Township
+20095000110,Galesburg Township
+20095000120,Hoosier Township
+20095000130,Kingman Township
+2009500014A,Kingman Ward 1
+20095000150,Kingman Ward 2
+20095000160,Kingman Ward 3
+20095000170,Kingman Ward 4
+20095000180,Liberty Township
+20095000190,Ninnescah Township
+20095000200,Peters Township
+20095000210,Richland Township
+20095000220,Rochester Township
+20095000230,Rural Township
+20095000240,Union Township
+20095000250,Valley Township
+20095000260,Vinita Township
+2009500027A,White Township Part A
+2009500027B,White Township Part A Enclave
+2009500027C,White Township Part B
+20097000010,Belvidere
+20097000020,Center I
+20097000030,Center II
+20097000040,Haviland
+20097000050,Mullinville
+2009900001A,Altamont City Part A
+20099000020,Canada Township
+20099000030,Chetopa Ward 1
+20099000040,Chetopa Ward 2
+20099000050,Chetopa Ward 3
+20099000060,Elm Grove Township
+20099000070,Fairview Township
+20099000080,Hackberry Township
+20099000090,Howard Township
+20099000100,Labette Township
+20099000110,Liberty Township
+20099000120,Montana Township
+20099000130,Mound Valley Township
+20099000140,Mount Pleasant Township
+20099000150,Neosho Township
+2009900016A,North Township
+2009900016B,North Township Enclave
+2009900016C,North Township Enclave 2
+20099000170,Osage Township
+20099000180,Oswego City Ward 1
+2009900019A,Oswego City Ward 2
+20099000200,Oswego City Ward 3
+20099000210,Oswego Township
+20099000220,Parsons Ward 1 Precinct 1
+2009900022A,Parsons Ward 1 Precinct 1 Exclave
+20099000230,Parsons Ward 1 Precinct 2
+2009900024A,Parsons Ward 1 Precinct 3
+20099000250,Parsons Ward 2 Precinct 1
+20099000260,Parsons Ward 2 Precinct 2
+2009900027A,Parsons Ward 2 Precinct 3
+2009900027B,Parsons Ward 2 Precinct 3 Exclave
+20099000280,Parsons Ward 3 Precinct 1
+2009900029A,Parsons Ward 3 Precinct 2
+2009900029B,Parsons Ward 3 Precinct 2 Exclave
+20099000300,Parsons Ward 3 Precinct 3
+20099000310,Parsons Ward 3 Precinct 4
+20099000320,Parsons Ward 4 Precinct 1
+20099000330,Parsons Ward 4 Precinct 2
+20099000340,Parsons Ward 4 Precinct 3
+20099000350,Parsons Ward 4 Precinct 4
+20099000360,Richland Township
+20099000370,Walton Township
+20099120040,Richland Township H1
+2009912004A,Richland Township H1 A
+2009912004B,Richland Township H1 B
+20101000010,Alamota Township
+20101000020,Dighton Township 2
+20101000030,Dighton Township 3
+20101000040,Cheyenne Township
+20101000050,Dighton Township 1
+20101000060,Dighton City Precinct 1
+20101000070,Dighton City Precinct 2
+20101000080,Dighton City Precinct 3
+20101000100,White Rock Township
+20101000110,Wilson Township
+20103000010,Alexandria Township
+20103000020,Basehor City
+20103000030,Fairmount/Basehor Township Voting District
+20103000040,Easton Township
+20103000050,Fairmount Township Voting District
+20103000060,Boling/High Prairie Township
+20103000070,Kickapoo Township
+20103000080,Lansing Ward 1
+20103000090,Lansing Ward 2
+20103000100,Lansing Ward 3
+20103000110,Lansing Ward 4
+20103000120,Leavenworth Ward 1 Precinct 1
+20103000130,Leavenworth Ward 2 Precinct 1
+20103000140,Leavenworth Ward 2 Precinct 2
+20103000150,Leavenworth Ward 2 Precinct 3
+20103000160,Leavenworth Ward 3 Precinct 1
+2010300017A,Leavenworth Ward 4 Precinct 1
+2010300017B,Leavenworth Ward 1 Precinct 1 Fort A
+20103000180,Leavenworth Ward 5 Precinct 1
+2010300019A,Leavenworth Ward 5 Precinct 2
+2010300019B,Leavenworth Ward 4 Precinct 1 Fort A
+20103000200,Leavenworth Ward 5 Precinct 3
+20103000210,Leavenworth Ward 5 Precinct 4
+20103000220,Leavenworth Ward 6 Precinct 1
+20103000230,Leavenworth Ward 6 Precinct 2
+20103000240,Leavenworth Ward 6 Precinct 3
+20103000250,Leavenworth Ward 6 Precinct 4
+20103000260,Leavenworth Ward 6 Precinct 5
+2010300027A,Leavenworth Ward 7 Precinct 1
+20103000280,Leavenworth Ward 7 Precinct 2
+2010300029A,Leavenworth Ward 7 Precinct 3
+20103000300,Missouri River
+20103000310,Reno West Township
+20103000320,Sherman Township
+20103000340,South Delaware 2
+20103000350,Stranger/Stranger Township Voting District
+20103000360,Tonganoxie North Precinct
+20103000370,Tonganoxie South Precinct
+20103000380,Tonganoxie Township
+20103000390,Walnut Township Voting District
+20103120060,Missouri River H41
+20103120080,Reno East Township
+20103120100,South Delaware 1 S3 H38
+20103120110,South Delaware 1 S3 H40
+20103120120,South Delaware 1 S5 H38
+20103120130,South Delaware 1 S5 H40 Part A
+20103170010,Easton City
+20103170020,Easton City Exclave 1
+20103170030,Easton City Exclave 2
+20103170040,South Delaware 1 Part B
+20103170050,Basehor Exclave 4
+20103170060,Bonner Springs City
+20103170070,Linwood City
+20103170080,Linwood Exclave 1
+20103170090,Linwood Exclave 2
+20103170100,Linwood City Exclave 3
+20103170110,Tonganoxie South Exclave 2
+20103170120,Tonganoxie South Exclave 3
+20103170130,Leavenworth Ward 7 Precinct 4
+20103170140,South Delaware 1 S3 H40
+20103170150,Lansing Ward 2 S3
+20103170160,South Delaware 1 S5 H40
+20103170170,South Delaware 1 S5 H40 Part B
+20103170180,Tonganoxie Township H38
+20103170190,South Delaware 1 S5 H38 Part A
+20103170200,South Delaware 1 S3 H40 Part A
+20103170210,Bashor Exclave 5
+20103170220,Basehor Exclave 6
+20103170230,Tonganoxie North H38
+20103170240,Boling/High Prairie H40
+20103170250,South Delaware 1 S5 H40 Part C
+20103900010,Basehor City Exclave 1
+20103900030,Basehor City Exclave 3
+20103900060,High Prairie S5 H40
+20103900080,Tonganoxie South Exclave
+20105000010,Battle Creek Township
+2010500002A,Beaver Township
+20105000030,Cedron Township
+20105000040,Colorado Township
+2010500005A,Elkhorn Township Part A
+2010500005B,Elkhorn Township Part A H107
+20105000060,Franklin Township
+20105000070,Golden Belt Township
+20105000080,Grant Township
+20105000090,Hanover Township
+20105000100,Highland Township
+20105000110,Indiana Township
+20105000120,Lincoln Precinct 1
+2010500013A,Lincoln Precinct 2
+2010500013B,Lincoln Precinct 2 Exclave
+2010500013C,Lincoln Precinct 2 H107
+20105000140,Logan Township
+20105000150,Madison Township
+20105000160,Marion Township
+20105000170,Orange Township
+20105000180,Pleasant Township
+20105000190,Salt Creek Township
+20105000200,Scott Township
+20105000210,Valley Township
+20105000220,Vesper Township
+20105900010,Marion Township Enclave 1
+20107000010,Blue Mound Township
+20107000020,Centerville Township
+20107000030,Liberty Township
+20107000040,Mound City Township
+20107000050,North Lincoln
+20107000060,North Potosi
+20107000070,Paris Township
+20107000080,Scott Township
+20107000090,Sheridan Township
+20107000100,South Lincoln
+20107000110,South Potosi
+20107000120,Stanton Township
+20107000130,Valley Township
+20109000010,Augustine Township
+20109000020,Elkader Township
+20109000030,Lees Township
+20109000040,Logansport Township
+20109000050,McAllaster Township
+20109000060,Monument Township
+20109000070,Oakley Precinct 1
+20109000080,Oakley Precinct 2
+20109000090,Paxton Township
+20109000100,Russell Springs Township
+20109000110,Western Township
+20109000120,Winona Township
+20111000010,Precinct 01
+20111000020,Precinct 02
+20111000030,Precinct 03
+20111000040,Precinct 04
+2011100005A,Precinct 05
+2011100005B,Precinct 05 Part A
+2011100005C,Precinct 05 Part B
+2011100006A,Precinct 06 Part A
+2011100006B,Precinct 06 Part A Exclave
+2011100006C,Precinct 06 Part B Exclave
+20111000070,Precinct 07
+20111000080,Precinct 08
+20111000090,Precinct 09
+20111000100,Precinct 10
+20111000110,Precinct 11
+20111000120,Precinct 12
+20111000130,Precinct 13
+2011100013A,Precinct 13 Exclave Part A
+20111000140,Precinct 14
+20111000150,Precinct 15
+20111000160,Precinct 16
+20111000170,Precinct 17
+2011100017A,Precinct 17 Exclave Part A
+2011100017C,Precinct 17 Exclave Part C
+20111000180,Precinct 18
+20111000190,Precinct 19
+20111000200,Precinct 20
+20111000210,Precinct 21
+20111000220,Precinct 22
+20111000230,Precinct 23
+20111000240,Precinct 24
+20111000250,Precinct 25
+20111000260,Precinct 26
+20111000270,Precinct 27
+2011100028A,Precinct 28
+2011100028B,Precinct 28 Enclave A
+2011100028C,Precinct 28 Enclave Part B
+20111000290,Precinct 29
+2011100029A,Precinct 29 Exclave Part A
+20111000300,Precinct 30
+20111000310,Precinct 31
+20111000320,Precinct 32
+20111300010,Precinct 19 Exclave Part A
+20111400010,Precinct 04 Part A
+20111400020,Precinct 04 Part B
+20111400030,Precinct 04 Part C
+20111900010,Precinct 04 Part D
+20111900030,Precinct 29 Enclave Part B
+20111900040,Precinct 29 Exclave Part C
+20111900060,Precinct 29D
+20111900070,Precinct 07 Part A
+20113000010,Battle Hill Township
+20113000020,Bonaville Township
+20113000030,Canton Township
+20113000040,Castle Township
+20113000050,Delmore Township
+20113000060,Empire Township
+20113000070,Groveland Township
+20113000080,Gypsum Creek Township
+20113000090,Harper Township
+20113000100,Hayes Township
+20113000110,Jackson Township
+20113000120,King City Township
+20113000130,Lindsborg Ward 1
+20113000140,Lindsborg Ward 2
+20113000150,Lindsborg Ward 3
+20113000160,Lindsborg Ward 4
+20113000170,Little Valley Township
+20113000180,Lone Tree Township
+20113000190,Marquette Township
+20113000200,McPherson Township
+20113000290,Meridian Township
+20113000300,Mound Township
+20113000310,New Gottland Township
+20113000320,Smoky Hill Township
+20113000330,South Sharps Creek Township
+20113000340,Spring Valley Township
+20113000350,Superior Township
+20113000360,Turkey Creek Township
+20113000370,Union Township
+2011309004A,McPherson Ward 4 Precinct 1 Exclave
+20113190010,Smoky Hill Township Enclave Voting District
+20113900010,McPherson Ward 1 Precinct 1
+20113900020,McPherson Ward 2
+20113900030,McPherson Ward 3 Part A
+20113900040,McPherson Ward 4 Precinct 1 Part A
+2011390004B,McPherson Ward 4 Precinct 1 Exclave 2
+20113900050,McPherson Ward 1 Exclave
+20115000010,Blaine Township
+20115000020,Catlin Township
+20115000030,Centre Township
+20115000040,Clark Township
+20115000050,Clear Creek Township
+20115000060,Colfax Township
+20115000070,Doyle Township
+20115000080,Durham Park Township
+20115000090,East Branch Township
+20115000100,Fairplay Township
+2011500011A,Florence Ward 1
+20115000120,Florence Ward 2
+20115000130,Gale Township
+20115000140,Grant Township
+20115000150,Hillsboro Ward 1
+2011500016C,Hillsboro Ward 2 Exclave Industrial Park
+20115000170,Lehigh Township
+20115000180,Liberty Township
+20115000190,Logan Township
+20115000200,Lost Springs Township
+20115000210,Marion North Ward
+2011500022A,Marion South Ward
+2011500022B,Marion South Ward Exclave
+20115000230,Menno Township
+20115000240,Milton Township
+20115000250,Moore Township
+20115000260,Peabody East
+20115000270,Peabody West
+20115000280,Risley Township
+20115000290,Summit Township
+20115000300,West Branch Township
+20115000310,Wilson Township
+20115900010,Hillsboro Ward 2
+20115900020,Hillsboro Ward 2 Exclave A
+20117000010,Balderson Township
+20117000020,Bigelow Township
+20117000030,Blue Rapids City
+20117000040,Blue Rapids Township
+20117000050,Center Township
+20117000060,Clear Fork Township
+20117000070,Cleveland Township
+20117000080,Cottage Hill Township
+20117000090,East Vermillion Township
+20117000100,Elm Creek Township
+20117000130,Herkimer Township
+20117000140,Lincoln Township
+20117000150,Logan Township
+20117000160,Marysville City Ward 1
+2011700017A,Marysville City Ward 2
+2011700018A,Marysville City Ward 3
+2011700018B,Marysville City Ward 3 Exclave
+2011700019A,Marysville City Ward 4 Part A
+2011700019B,Marysville City Ward 4 Part B
+2011700019C,Marysville City Ward 4 Part B Exclave
+20117000200,Marysville Township
+20117000210,Murray Township
+20117000220,Noble Township
+20117000230,Oketo Township
+20117000240,Richland Township
+20117000250,Rock Township
+20117000260,St. Bridget Township
+20117000270,Walnut Township
+20117000280,Waterville Township
+20117000290,Wells Township
+20117000300,West Vermillion Township
+20117120020,Franklin Township C1
+20117120030,Franklin Township C2
+20117120040,Guittard Township C1
+20117120050,Guittard Township C2
+20117190010,Marysville City Ward 2 Exclave
+20119000010,Cimarron Township
+20119000020,Crooked Creek Township
+20119000030,Fowler Township
+20119000040,Logan Township
+20119000050,Meade Center Township
+20119000060,Mertilla Township
+20119000070,Odee Township
+20119000080,Sand Creek Township
+20119000090,West Plains Township
+20121000020,East Valley Township
+2012100003B,Louisburg Ward 1 Exclave Park
+2012100004B,Louisburg Ward 4 Exclave A
+2012100004C,Louisburg Ward 3 Exclave A
+2012100004D,Louisburg Ward 3 Exclave B
+20121000050,Miami Township
+20121000060,Mound Township
+2012100007B,North Marysville Township Enclave
+20121000080,North Wea Township
+20121000090,Osage Township
+20121000100,Osawatomie Township
+2012100011B,Osawatomie Ward 1 Exclave A Cemetery
+2012100012A,Osawatomie Ward 2
+2012100012B,Osawatomie Ward 2 Exclave Lake
+2012100013A,Osawatomie Ward 3
+2012100013B,Osawatomie Ward 3 Exclave A
+2012100013C,Osawatomie Ward 3 Exclave B
+20121000140,Osawatomie Ward 4
+2012100016A,Paola Ward 1
+2012100016B,Paola Ward 1 Exclave
+20121000170,Paola Ward 2
+2012100018A,Paola Ward 3
+2012100018B,Paola Ward 3 Exclave A
+2012100018C,Paola Ward 3 Exclave B
+2012100019A,Paola Ward 4
+2012100019B,Paola Ward 4 Exclave
+20121000200,Richland Township
+20121000220,South Wea Township
+2012100023A,Spring Hill City Precinct 01
+2012100023B,Spring Hill City Exclave A
+2012100023C,Spring Hill City Exclave B
+2012100023D,Spring Hill City Exclave C
+20121000240,Stanton Township
+20121000250,Sugar Creek Township
+20121000260,Ten Mile Township
+20121000270,West Middle Creek Township
+20121020030,Osawatomie Ward 1 H6 S37
+20121120020,East Middle Creek Township C2
+20121120030,East Middle Creek Township C3
+20121120040,North Marysvill Township C2
+20121120050,North Marysville Township C3
+20121120060,Osawatomie Ward 1 H5
+20121120070,Osawatomie Ward 1 H6
+20121120080,South Marysville Township C2
+20121120090,South Marysville Township C3
+20121120100,West Valley Township H5
+20121120110,West Valley Township H6
+20121180010,Louisburg Ward 4
+20121180020,Louisburg Ward 3
+20121180030,Louisburg Ward 2
+20121200010,North Paola Township
+20121200020,South Paola Township
+20121300010,Louisburg Ward 1
+20121900010,Osawatomie Township Enclave A
+20121900020,Osawatomie Township Enclave B
+20121900030,Osawatomie Ward 1 Exclave B
+20121900040,Osawatomie Ward 1 Exclave C
+20121900050,Osawatomie Ward 1 Exclave D
+20121900070,Osawatomie Ward 3 Exclave D
+20121900080,Paola Ward 1 Exclave B
+20121900090,South Wea Township Enclave A
+20121900100,South Wea Township Enclave B
+20121900110,South Wea Township Enclave C
+20121900120,West Valley Township Exclave
+20121900130,North Marysville Township Enclave 2
+20121900140,North Paola Township Part 1
+20121900150,North Paola Township Part 2
+20121900160,North Paola Township Part 3
+20121900180,South Paola Township Part 2
+20121900190,North Paola Township Part 4
+20123000010,Asherville Township
+20123000020,Beloit City Ward 1
+20123000030,Beloit City Ward 2
+20123000040,Beloit City Ward 3
+20123000050,Beloit City Ward 4
+2012300006A,Beloit Township
+2012300006B,Beloit Township Enclave A
+2012300006C,Beloit Township Enclave B
+2012300006D,Beloit Township Enclave C
+20123000070,Bloomfield Township
+20123000080,Blue Hill Township
+20123000090,Carr Creek Township
+20123000100,Cawker City
+20123000110,Cawker Township
+20123000120,Center Township
+20123000130,Custer Township
+20123000140,Eureka Township
+20123000150,Glen Elder City
+20123000160,Glen Elder Township
+20123000170,Hayes Township
+20123000180,Hunter City
+20123000190,Logan Township
+20123000200,Lulu Township
+20123000210,Pittsburg Township
+20123000220,Plum Creek Township
+20123000230,Round Springs Township
+20123000240,Salt Creek Township
+20123000250,Scottsville City
+20123000260,Simpson City
+20123000270,Solomon Rapids Township
+20123000280,Tipton City
+20123000290,Turkey Creek Township
+20123000300,Walnut Creek Township
+2012500001A,Caney City Ward 1 Precinct 1
+2012500001B,Caney City Ward 1 Precinct 2 Exclave A
+2012500001C,Caney City Ward 1 Precinct 2 Exclave B
+20125000020,Caney City Ward 2 Precinct 1
+20125000030,Caney City Ward 3 Precinct 1
+20125000040,Caney City Ward 4 Precinct 1
+20125000050,Caney Township Havana
+20125000060,Caney Township Tyro
+20125000070,Cherokee Township
+20125000080,Cherry Township
+2012500008A,Cherry Township Enclave A
+20125000090,Cherryvale Ward 1
+20125000100,Cherryvale Ward 2
+20125000110,Coffeyville Ward 1 Precinct 01
+20125000120,Coffeyville Ward 1 Precinct 02
+20125000130,Coffeyville Ward 1 Precinct 03
+20125000140,Coffeyville Ward 1 Precinct 04
+20125000150,Coffeyville Ward 1 Precinct 05
+20125000160,Coffeyville Ward 1 Precinct 06
+20125000170,Coffeyville Ward 1 Precinct 07
+20125000180,Coffeyville Ward 1 Precinct 08
+20125000190,Coffeyville Ward 1 Precinct 09
+20125000200,Coffeyville Ward 1 Precinct 10
+20125000210,Coffeyville Ward 1 Precinct 11
+20125000220,Coffeyville Ward 1 Precinct 12
+20125000230,Coffeyville Ward 1 Precinct 13
+20125000240,Drum Creek Township
+20125000250,Fawn Creek Township Dearing
+20125000260,Fawn Creek Township Tyro
+20125000270,Independence City Ward 1 Precinct 1
+20125000280,Independence City Ward 1 Precinct 2
+20125000290,Independence City Ward 2 Precinct 1
+20125000300,Independence City Ward 2 Precinct 2
+20125000310,Independence City Ward 3 Precinct 1
+2012500032A,Independence City Ward 3 Precinct 2
+2012500032B,Independence City Ward 3 Precinct 2 Exclave
+20125000330,Independence City Ward 4 Precinct 1
+20125000340,Independence City Ward 4 Precinct 2
+20125000350,Independence City Ward 5 Precinct 1
+20125000360,Independence City Ward 5 Precinct 2
+2012500040B,Independence Township 2 Part B
+2012500040C,Independence Township 2 Part C
+20125000410,Liberty Township
+20125000420,Louisburg Township
+20125000430,Parker Township 1
+2012500044A,Parker Township 2
+2012500044B,Parker Township 2 Enclave A
+2012500044C,Parker Township 2 Enclave B
+20125000450,Rutland Township
+20125000470,West Cherry Township
+20125120020,Independence City Ward 6 Precinct 1 H11
+20125120030,Independence City Ward 6 Precinct 1 H12
+20125120040,Independence City Ward 6 Precinct 2 H11
+2012512004A,Independence City Ward 6 Precinct 2 H11 A
+20125120050,Independence City Ward 6 Precinct 2 H12
+2012512005A,Independence City Ward 6 Precinct 2 H12A
+20125120060,Independence Township 1 H11
+20125120070,Independence Township 1 H12
+20125120090,Independence Township 2 Part A H12
+20125120100,Sycamore Township H11
+20125120110,Sycamore Township H12
+2012512011B,Sycamore Township H12 B
+20125180010,Caney City Ward 1 Precinct 2
+20125180020,Caney City Ward 4 Precinct 2
+2012518002A,Caney City Ward 4 Precinct 2 Exclave A
+2012518002B,Caney City Ward 4 Precinct 2 Exclave B
+20125180030,Caney City Ward 3 Precinct 2
+2012518003A,Caney City Ward 3 Precinct 2 Exclave A
+20125180040,Cherokee Township Airport Enclave
+20125180050,Coffeyville Ward 1 Precinct 01 Exclave 3
+20125180060,Coffeyville Ward 1 Precinct 01 Exclave 4
+20125180070,Coffeyville Ward 1 Precinct 01 Exclave 5
+20125900010,Coffeyville Ward 1 Precinct 01 Exclave 1
+2012590001A,Coffeyville Ward 1 Precinct 01 Exclave 2
+20125900020,Coffeyville Ward 1 Precinct 1 Exclave
+20125900030,Caney City Ward 2 Precinct 2 Exclave A
+2012590003A,Caney City Ward 2 Precinct 2
+20125900040,Parker Township 2 Enclave
+20125900050,Independence Township 1 Enclave
+20125900060,Independence Exclave Airport
+20127000010,Council Grove Ward 1
+20127000020,Council Grove Ward 2
+20127000030,Council Grove Ward 3
+20127000040,Herington Ward 1 Exclave A
+20127000050,Herington Ward 1 Exclave B
+20127000060,Highland Township
+20127000070,Overland Township
+20127000080,Township 1 Precinct 1
+20127000090,Township 1 Precinct 2
+20127000100,Township 2
+20127000110,Township 3
+20127000120,Township 4
+20127000130,Township 5
+20127000140,Township 6
+20127000150,Township 7
+20127000160,Township 8
+20127000170,Township 9
+20127900010,Council Grove Ward 3 Exclave
+20127900020,Herington Exclave C Airport
+20129000010,Cimarron Township
+20129000020,East Richfield
+20129000030,Elkhart Ward 1
+20129000040,Elkhart Ward 2
+20129000050,Elkhart Ward 3
+20129000060,Jones Township
+20129000070,Rolla Township
+20129000080,Taloga Township
+20129000090,West Richfield
+20129000100,Westola Township
+20131000010,Adams Township
+20131000020,Berwick Township
+20131000030,Capioma Township
+20131000040,Center Township
+2013100005A,Centralia Home
+2013100005B,Centralia Illinois
+20131000060,Clear Creek Township
+20131000070,Gilman Township
+20131000080,Granada Township
+20131000090,Harrison - Goff
+20131000100,Harrison - Kelly
+20131000110,Home Township
+20131000120,Illinois Township
+20131000130,Marion Township
+20131000140,Mitchell Township
+20131000150,Nemaha Township
+20131000160,Neuchatel Township
+20131000170,Red Vermillion Township
+20131000180,Reilly Township
+20131000190,Richmond Township
+2013100020A,Rock Creek Township
+2013100020B,Rock Creek Township Enclave A
+2013100020C,Rock Creek Township Enclave B
+2013100020D,Rock Creek Township Enclave C
+20131000210,Sabetha Ward 1
+20131000220,Sabetha Ward 2
+2013100023A,Sabetha Ward 3
+2013100023B,Sabetha Ward 3 Exclave
+20131000240,Sabetha Ward 4
+2013100024A,Sabetha Ward 4 Exclave
+20131000260,Seneca Ward 1
+20131000270,Seneca Ward 2
+20131000280,Seneca Ward 3
+20131000290,Washington Township
+20131000300,Wetmore Township
+20131900010,Richmond Township Enclave 1
+2013190001A,Richmond Township Enclave 2
+2013190001B,Richmond Township Enclave 3
+20133000010,Big Creek Township
+2013300002A,Canville Township
+20133000030,Centerville Township
+20133000040,Chanute Ward 1
+20133000050,Chanute Ward 2 Precinct 1
+20133000060,Chanute Ward 2 Precinct 2
+20133000070,Chanute Ward 3 Precinct 1
+20133000080,Chanute Ward 3 Precinct 2
+20133000090,Chanute Ward 3 Precinct 3
+20133000100,Chanute Ward 4 Precinct 1
+20133000110,Chanute Ward 4 Precinct 2
+2013300012A,Chanute Ward 4 Precinct 3
+2013300012B,Chanute Ward 4 Precinct 3 Exclave A
+2013300012C,Chanute Ward 4 Precinct 3 Exclave B
+2013300012D,Chanute Ward 4 Precinct 3 Exclave C
+20133000140,East Erie
+20133000150,Grant Township
+20133000160,Ladore Township
+20133000170,Lincoln Township
+20133000180,Mission Township
+20133000190,North Tioga Township
+20133000200,Shiloh Township
+20133000210,South Tioga East Township
+2013300022A,South Tioga West Township
+2013300022B,South Tioga West Township Enclave
+2013300022C,South Tioga West Township Enclave B
+2013300022D,South Tioga West Township Enclave C
+20133000230,Walnut Grove Township
+20133000240,West Erie
+20133120020,Chetopa Township H13
+20133120030,Chetopa Township H2
+20133120040,Chetopa Township H9
+20133900010,Chanute Ward 3 Precinct 3 Exclave
+20133900020,Chanute Ward 3 Precinct 1 Exclave
+20135000010,Bazine Township
+20135000020,Eden Township
+20135000030,Forrester Township
+20135000040,Franklin Township
+20135000050,Highpoint Township
+20135000060,Johnson Township
+20135000070,Nevada Township
+20135000080,North Center
+20135000090,Ohio Township
+20135000100,South Center
+20135000110,Waring Township
+20137000010,Almena Township
+20137000020,Center Precinct 1
+20137000030,Center Precinct 2
+20137000040,Harrison Township
+20137000050,Highland Precinct 1
+20137000060,Highland Precinct 2
+20137000070,Highland Precinct 3
+20137000080,Norton Ward 1
+20137000090,Norton Ward 2
+20137000100,Norton Ward 3
+20137000110,Solomon Precinct 1
+20137000120,Solomon Precinct 2
+20139000007,Grant Township
+20139000010,Agency Township
+20139000020,Arvonia Township
+20139000030,Barclay Township
+20139000040,Dragoon Township
+20139000050,Elk Township
+20139000060,Fairfax Township
+20139000080,Lincoln Township
+20139000090,Melvern Township
+20139000100,Michigan Valley Township
+20139000110,North Burlingame
+20139000120,North Ridgeway
+20139000130,North Valleybrook
+20139000140,Olivet Township
+20139000150,Osage City Ward 1
+20139000160,Osage City Ward 2
+20139000170,Osage City Ward 3
+20139000180,Osage City Ward 4
+20139000190,Scranton Township
+20139000200,South Burlingame
+20139000210,South Ridgeway
+20139000220,South Valleybrook
+20139000230,Superior Township
+20139000240,Vassar Township
+20139900010,Superior Township Enclave 1
+20139900030,Grant Township Enclave 2
+20139900040,Osage City Ward 2 Exclave
+20141000010,Bethany Township
+20141000020,Bloom Township
+20141000030,Corinth Township
+20141000040,Covert Township
+20141000050,Delhi Township
+20141000060,Grant Township
+20141000070,Hancock Township
+20141000080,Hawkeye Township
+20141000090,Independence Township
+20141000100,Jackson Township
+20141000110,Kill Creek Township
+20141000120,Lawrence Township
+20141000130,Liberty Township
+20141000140,Mount Ayr Township
+20141000150,Natoma Township
+20141000160,Osborne Ward 1
+20141000170,Osborne Ward 2
+20141000180,Osborne Ward 3
+20141000190,Penn Township
+20141000200,Ross
+2014100021A,Downs City
+20141000220,Round Mound Township
+20141000230,Sumner Township
+20141000240,Tilden Township
+20141000250,Valley Township
+20141000260,Victor Township
+20141000270,Winfield Township
+20141400010,Alton City
+20141400020,Natoma City
+20141400030,Portis City
+20143000010,Bennington Township
+20143000020,Blaine Township
+20143000030,Buckeye Township
+20143000040,Center Township
+20143000050,Chapman Township
+20143000060,Concord Township
+20143000070,Culver Township
+20143000080,Durham Township
+20143000090,Fountain Township
+20143000100,Garfield Township
+20143000110,Grant Township
+20143000120,Henry Township
+20143000130,Lincoln Township
+20143000140,Logan Township
+20143000150,Minneapolis Precinct 1
+2014300016A,Minneapolis Precinct 2
+2014300016B,Minneapolis Precinct 2 Exclave
+20143000170,Minneapolis Precinct 3
+20143000180,Morton Township
+20143000190,Ottawa Township
+20143000200,Richland Township
+20143000210,Sheridan Township
+20143000220,Sherman Township
+20143000230,Stanton Township
+20145000010,Ash Valley Township
+20145000030,Conkling Township
+20145000040,Garfield Township
+20145000060,Keysville Township
+20145000070,Larned Township
+20145000080,Larned Ward 1
+20145000090,Larned Ward 2
+20145000100,Larned Ward 3
+20145000110,Larned Ward 4
+20145000120,Lincoln Township
+20145000130,Logan Township
+20145000140,Morton Township
+20145000150,Orange Township
+20145000160,Pawnee Township
+2014500017A,Pleasant Grove Township
+2014500017B,Pleasant Grove Township Rural Enclave
+20145000180,Pleasant Ridge Township
+20145000190,Pleasant Valley Township
+20145000200,River Township
+20145000210,Santa Fe Township
+20145000220,Sawmill Township
+20145000230,Shiley Township
+20145000240,Valley Center Township
+20145000250,Walnut Township
+20145120020,Browns Grove Township C1
+20145120030,Browns Gove Township C4
+20145120040,Grant Township C1
+20145120050,Grant Township C4
+20147000010,Arcade Township
+20147000020,Beaver Township
+20147000030,Belmont Township
+20147000040,Bow Creek Township
+20147000050,Crystal Township
+20147000060,Dayton Township
+20147000070,Deer Creek Township
+20147000080,Freedom Township
+20147000090,Glenwood Township
+20147000100,Granite Township
+20147000110,Greenwood Township
+20147000120,Kirwin Township
+20147000130,Logan Township
+20147000140,Long Island Township
+20147000150,Mound Township
+20147000170,Phillipsburg City Ward 2
+20147000190,Phillipsburg Township
+20147000200,Plainview Township
+20147000210,Plum Township
+20147000220,Prairie View Township
+20147000230,Rushville Township
+20147000240,Solomon Township
+20147000250,Sumner Township
+20147000260,Towanda Township
+20147000270,Valley Township
+20147000280,Walnut Township
+20147190010,Phillipsburg City Ward 3
+20147190020,Phillipsburg City Ward 1
+20149000010,Belvue Township
+20149000020,Blue Township
+20149000030,Blue Valley Township
+20149000040,Center Township
+20149000050,Clear Creek Township
+20149000060,Emmett Township
+20149000070,Grant Township
+20149000080,Green Township
+20149000090,Lincoln Township
+20149000100,Lone Tree Township
+20149000110,Louisville Township
+20149000120,Manhattan Ward 2 Precinct 5
+20149000130,Mill Creek Township
+20149000140,Pottawatomie County
+20149000150,Rock Creek Township
+20149000160,Shannon Township
+20149000170,Sherman Township
+20149000180,Spring Creek Township
+20149000190,St. Clere Township
+20149000210,St. Marys East
+20149000220,St. Marys West
+20149000230,Union Township
+20149000240,Vienna Township
+20149000250,Wamego East Ward P-1
+20149000270,Wamego West S17
+20149120020,St. George Township S1
+20149120030,St. George Township S17
+20149120060,Wamego Township S1
+20149120070,Wamego Township S17
+20149120080,Wamego Township S18
+20149120100,Wamego West S18
+20149120110,Wamego West S17 A
+20149180010,Wamego Township S18 Enclave
+20149190010,Blue Township Enclave 1
+20149190020,Blue Township Enclave 2
+20149190030,Blue Township Enclave 3
+20149900010,Wamego Township S17 Enclave
+20149900030,Manhattan Ward 2 Precinct 5 Exclave
+2015100001A,Pratt Ward 1
+2015100002A,Pratt Ward 2
+2015100002B,Pratt Ward 2 Exclave Airport
+20151000030,Pratt Ward 3
+2015100004A,Pratt Ward 4
+2015100004C,Pratt Ward 4 Exclave Withers
+2015100005A,Pratt Ward 5
+20151000060,Township 6
+20151000070,Township 7
+20151000080,Township 8
+20151000090,Township 9
+20151000100,Township 10
+20151000110,Township 11
+2015100012A,Township 12
+20151190010,Township 12 Enclave A
+20151190020,Township 12 Enclave B
+20151190030,Township 12 Enclave C
+20153000010,Achilles Township
+20153000020,Atwood City Precinct 1 East
+20153000030,Atwood City Precinct 1 North
+20153000040,Atwood City Precinct 1 West
+20153000050,Atwood City Precinct 2
+20153000060,Atwood Township
+20153000070,Driftwood Township
+20153000080,East Center
+2015300009A,Herl Township
+2015300009B,Herl Township South
+20153000100,Herndon City
+20153000110,Jefferson Township
+20153000120,Ludell Township
+20153000130,McDonald City
+20153000140,Mirage Township
+20153000150,Rocewood Township
+20153000160,Union Township
+20153000170,West Center
+20153190010,Rocewood Township Enclave
+20155000010,Albion Township
+20155000020,Arlington Township
+20155000030,Bell Township
+20155000040,Castleton Township
+20155000050,Center Township
+20155000060,Enterprise Township
+20155000070,Grant Township
+20155000080,Grove Township
+20155000090,Haven Township
+20155000100,Hayes Township
+20155000110,Huntsville Township
+20155000120,Hutchinson Precinct 01-H102
+20155000130,Hutchinson Precinct 02
+20155000140,Hutchinson Precinct 03
+20155000150,Hutchinson Precinct 04
+20155000160,Hutchinson Precinct 05
+20155000170,Hutchinson Precinct 06
+20155000180,Hutchinson Precinct 07
+20155000200,Hutchinson Precinct 09
+20155000210,Hutchinson Precinct 10
+20155000220,Hutchinson Precinct 11
+20155000230,Hutchinson Precinct 12
+20155000240,Hutchinson Precinct 13
+20155000250,Hutchinson Precinct 14
+20155000260,Hutchinson Precinct 15
+20155000270,Hutchinson Precinct 16
+20155000280,Hutchinson Precinct 17
+20155000290,Hutchinson Precinct 18
+20155000300,Hutchinson Precinct 19
+20155000310,Hutchinson Precinct 20
+20155000320,Hutchinson Precinct 21
+20155000330,Hutchinson Precinct 22
+20155000350,Hutchinson Precinct 24
+20155000360,Hutchinson Precinct 25
+2015500037A,Hutchinson Precinct 26
+2015500037B,Hutchinson Precinct 26 Exclave
+20155000380,Hutchinson Precinct 27
+2015500039A,Hutchinson Precinct 28
+2015500039B,Hutchinson Precinct 28 Exclave
+20155000400,Hutchinson Precinct 29
+20155000410,Hutchinson Precinct 30
+20155000420,Hutchinson Precinct 31
+20155000430,Hutchinson Precinct 32
+20155000440,Langdon Township
+20155000450,Lincoln Township
+20155000460,Little River Township
+20155000470,Loda Township
+20155000480,Medford Township
+20155000490,Medora Township
+20155000500,Miami Township
+20155000510,Nickerson Ward 1
+20155000520,Nickerson Ward 2
+20155000530,Nickerson Ward 3
+20155000540,Ninnescah Township
+2015500055A,North Clay Township
+20155000560,North Reno Township
+20155000570,Plevna Township
+20155000580,Roscoe Township
+20155000590,Salt Creek Township
+2015500060A,South Clay Township H101
+2015500060B,South Clay Township Enclave
+20155000610,South Hutchinson Precinct 1
+20155000620,South Hutchinson Precinct 2
+20155000630,South Hutchinson Precinct 3
+20155000640,South Reno Township
+20155000650,Sumner Township
+20155000660,Sylvia Township
+20155000670,Troy Township
+20155000680,Valley Township
+20155000690,Walnut Township
+20155000700,Westminister Township
+20155000710,Yoder Township
+20155120030,Hutchinson Precinct 01-H114
+2015512005A,South Clay Township H102 A
+20155120060,Hutchinson Precinct 34 Exclave
+20155200010,Hutchinson Precinct 08 H101
+20155200020,Hutchinson Precinct 35
+20155200030,Hutchinson Precinct 23 Exclave
+20155200040,Hutchinson Precinct 23 H104
+20155200050,Hutchinson Precinct 33
+20155200060,Hutchinson Precinct 34
+20155900010,North Clay Township Enclave 1
+20155900020,North Clay Township Enclave 2
+20157000010,Albion Township
+20157000020,Beaver Township
+20157000030,Belleville Township
+20157000040,Belleville Ward 1
+2015700005A,Belleville Ward 2
+2015700005B,Belleville Ward 2 Exclave Airport
+2015700006A,Belleville Ward 3
+2015700006B,Belleville Ward 3 Exclave Cemetery
+20157000070,Big Bend Township
+20157000080,Courtland Township
+20157000090,Elk Creek Township
+20157000100,Fairview Township
+20157000110,Farmington Township
+2015700012A,Freedom Township
+2015700012B,Freedom Township Enclave
+2015700012C,Freedom Township Enclave 2
+20157000130,Grant Township
+20157000140,Jefferson Township
+20157000150,Liberty Township
+20157000160,Lincoln Township
+20157000170,Norway Township
+20157000180,Richland Township
+20157000190,Rose Creek Township
+20157000200,Scandia Township
+20157000210,Union Township
+20157000220,Washington Township
+20157000230,White Rock Township
+20159000010,Atlanta Township
+20159000020,Bell Township
+20159000030,Center Township
+20159000040,East Washington Township
+20159000050,Eureka Township
+20159000060,Farmer Township
+20159000070,Galt Township
+20159000080,Harrison Township
+20159000090,Lincoln Township
+20159000100,Lyons Ward 1
+20159000110,Lyons Ward 2
+20159000120,Lyons Ward 3
+20159000130,Lyons Ward 4
+20159000140,Mitchell Township
+20159000150,Odessa Township
+20159000160,Pioneer Township
+20159000170,Raymond Township
+20159000180,Rockville Township
+2015900019A,Sterling City East Ward
+2015900019C,Sterling City East Ward Exclave B
+20159000200,Sterling City West Ward
+20159000210,Sterling Township
+20159000220,Union Township
+20159000230,Valley Township
+20159000240,Victoria Township
+20159000250,West Washington Township
+20159000260,Wilson Township
+20161000010,Ashland Township
+20161000020,Bala Township
+20161000030,Center Township
+20161000040,Fancy Creek Township
+2016100005A,Fort Riley A Madison Township
+2016100005B,Fort Riley B Madison Township
+20161000060,Grant Township
+20161000070,Jackson Township
+20161000080,Madison Township H64
+20161000120,Manhattan City Ward 2 Precinct 2
+20161000140,Manhattan City Ward 2 Precinct 4
+20161000170,Manhattan City Ward 3 Precinct 2
+2016100022A,Manhattan City Ward 4 Precinct 2
+2016100022B,Manhattan City Ward 7 Precinct 1
+20161000230,Manhattan City Ward 4 Precinct 3
+2016100025A,Manhattan City Ward 4 Precinct 5
+2016100025B,Manhattan City Ward 4 Precinct 5 Exclave
+20161000310,Manhattan City Ward 5 Precinct 5
+20161000320,Manhattan City Ward 5 Precinct 6
+20161000330,Manhattan City Ward 5 Precinct 7
+20161000340,Manhattan City Ward 5 Precinct 8
+20161000350,Manhattan City Ward 5 Precinct 9
+2016100036A,Manhattan City Ward 5 Precinct 10
+20161000370,Manhattan City Ward 5 Precinct 11
+20161000380,Manhattan City Ward 6 Precinct 1 Job Corp
+2016100039A,Manhattan Township Precinct 1
+2016100039B,Manhattan Township Precinct 1 Enclave A
+2016100039C,Manhattan Township Precinct 1 Enclave B
+2016100039E,Manhattan Township Precinct 1 Enclave D
+20161000400,Manhattan Township Precinct 2
+20161000410,Manhattan Township Precinct 3
+2016100041A,Manhattan Township Precinct 3 Enclave
+2016100042B,Manhattan Township Precinct 4 Enclave B
+2016100042C,Manhattan Township Precinct 4 Enclave C
+20161000430,Mayday Township
+2016100044A,Ogden Township
+20161000450,Sherman Township
+20161000460,Swede Creek Township
+2016100047A,Wildcat Township
+2016100047B,Wildcat Township Enclave A
+2016100047C,Wildcat Township Enclave B
+2016100047D,Manhattan City Ward 10 Precinct 1
+2016100047E,Wildcat Township Enclave C
+2016100047F,Manhattan City Ward 10 Precinct 1 H66
+20161000480,Zeandale Township
+20161120050,Madison Township H67
+20161190010,Manhattan Township Precinct 4
+20161190020,Manhattan Township Precinct 4 Part B
+20161190030,Manhattan Township Precinct 1 Enclave
+20161190040,Manhattan Township Precinct 3 A H66
+20161190050,Manhattan Township Precinct 3 B H66
+20161300010,Manhattan City Ward 6 Precinct 2 Tech Park
+20161300020,Manhattan City Ward 8 Precinct 1
+20161300030,Manhattan City Ward 8 Precinct 2
+20161300040,Manhattan City Ward 9 Precinct 1
+20161300050,Manhattan City Ward 9 Precinct 2
+20161300060,Ogden Township Fort Riley A
+20161300070,Ogden Township Ward 2 Annex order 506
+20161300090,Ogden Township Ward 4 Order 10-06-93
+20161300100,Ogden Township Ward 5
+20161400010,Manhattan City Ward 1 Precinct 1
+20161400020,Manhattan City Ward 2 Precinct 1
+20161400030,Manhattan City Ward 2 Precinct 3
+2016140003A,Manhattan City Ward 2 Precinct 3 Exclave A
+2016140003B,Manhattan City Ward 2 Precinct 3 Exclave B
+20161400040,Manhattan City Ward 3 Precinct 3
+20161400050,Manhattan City Ward 4 Precinct 4
+20161400060,Manhattan City Ward 5 Precinct 2
+20161400070,Manhattan City Ward 5 Precinct 3
+20161400080,Manhattan City Ward 4 Precinct 7
+20161400090,Manhattan City Ward 4 Precinct 6
+20161500010,Manhattan City Ward 11 Precinct 1
+20161500030,Manhattan City Ward 8 Precinct 3
+20161600001,Manhattan City Ward 11 Precinct 3
+20161800001,Manhattan City Ward 9 Precinct 3
+20161900010,Ogden Township Enclave 1
+20161900020,Ogden Township Enclave 2
+20161900030,Manhattan City Ward 11 Precinct 1 Part B
+2016190003B,Manhattan City Ward 11 Precinct 1 Part B H64
+20161900040,Manhattan City Ward 11 Precinct 1 Part C
+20161900060,Manhattan Township Precinct 3 Enclave B
+20163000010,Township 01
+20163000020,Township 02
+20163000030,Township 03 Precinct 1
+20163000040,Township 03 Precinct 2
+20163000050,Township 04
+20163000060,Township 05
+20163000070,Township 06
+20163000080,Township 07
+20163000090,Township 08
+20163000100,Township 09
+20163000110,Township 10
+20163000120,Township 11 Precinct 1
+20163000130,Township 11 Precinct 2
+20163000140,Township 12
+20165000010,Alexander - Belle Prairie Township
+20165000020,Banner Township
+20165000030,Big Timber Township
+20165000040,Brookdale
+20165000050,Center Township
+20165000060,Garfield Township
+20165000070,Hampton - Fairview Township
+20165000080,Illinois Township
+20165000090,LaCrosse
+20165000100,Lone Star Township
+20165000110,Pioneer Township
+20165000120,Pleasantdale Township
+20165000130,Union Township
+20167000010,Big Creek Township
+20167000020,Center Township
+20167000030,Fairfield Township
+20167000040,Fairview Township
+20167000050,Grant Township
+20167000060,Lincoln Township
+20167000070,Luray Township
+20167000080,Paradise Township
+20167000090,Plymouth Township
+20167000100,Russell Township
+20167000110,Russell Ward 1
+20167000120,Russell Ward 2
+20167000130,Russell Ward 3
+2016700014A,Russell Ward 4
+2016700014B,Russell Ward 4 Exclave
+2016700014C,Russell Ward 4 Exclave Airport
+20167000150,Waldo Township
+20167000160,Winterset Township
+20167190010,Russell Township Enclave
+20167900010,Russell Township Enclave
+20169000010,Cambria Township
+20169000020,Dayton Township
+20169000030,Elm Creek Township
+20169000040,Eureka Township
+20169000050,Falun Township
+20169000060,Glendale Township
+20169000070,Greeley Township
+2016900007A,Greeley Township Enclave 1
+20169000080,Gypsum Township
+20169000090,Liberty Township
+20169000100,Ohio Township
+20169000110,Pleasant Valley Township
+2016900012A,Salina Precinct 01 Part A
+2016900013A,Salina Precinct 02
+20169000140,Salina Precinct 03
+20169000150,Salina Precinct 04
+20169000160,Salina Precinct 05
+20169000170,Salina Precinct 06
+20169000180,Salina Precinct 07
+20169000190,Salina Precinct 08
+20169000200,Salina Precinct 09
+20169000210,Salina Precinct 10
+20169000220,Salina Precinct 11
+20169000230,Salina Precinct 12
+20169000240,Salina Precinct 13
+2016900025A,Salina Precinct 14
+2016900026A,Salina Precinct 15
+20169000270,Salina Precinct 16
+20169000280,Salina Precinct 17
+20169000290,Salina Precinct 18
+20169000300,Salina Precinct 19
+2016900031A,Salina Precinct 20
+2016900032A,Salina Precinct 21
+2016900033A,Salina Precinct 22
+20169000340,Salina Precinct 23
+20169000350,Salina Precinct 24
+20169000360,Salina Precinct 25
+20169000370,Salina Precinct 26
+20169000380,Salina Precinct 27
+20169000390,Salina Precinct 28
+20169000400,Salina Precinct 29
+20169000410,Salina Precinct 30
+2016900042A,Salina Precinct 31
+20169000430,Salina Precinct 32
+20169000440,Salina Precinct 33
+20169000450,Salina Precinct 34
+2016900046A,Salina Precinct 35
+2016900047B,Smokey Hill Township Part B
+20169000480,Smoky View Township
+20169000490,Smolan Township
+20169000500,Solomon Township
+20169000510,Spring Creek Township
+20169000520,Walnut Township
+20169120030,Elm Creek Township H71
+20169170010,Salina Precinct 36
+20169300010,Washington Township(307)
+2016930001A,Washington Township(400)
+20169900010,Salina Precinct 01 Part A Exclave 1
+2016990001A,Salina Precinct 01 Part A Exclave 3
+20169900020,Salina Precinct 01 Part A Exclave 2
+20169900030,Salina Precinct 15 Exclave 1
+20169900040,Salina Precinct 15 Exclave 2
+20169900050,Salina Precinct 15 Exclave 3
+20169900070,Salina Precinct 22 Exclave
+20169900080,Salina Precinct 33 Exclave
+20169900090,Salina Precinct 35 Exclave
+20169900100,Smokey Hill Township Exclave 1
+20169900110,Smokey Hill Township Enclave 1
+20171000010,Beaver Township
+20171000020,Isbel Township
+20171000030,Keystone Township
+20171000040,Lake Township
+20171000050,Michigan Township
+20171000060,Scott City Ward 1
+20171000070,Scott City Ward 2
+20171000080,Scott City Ward 3
+20171000090,Scott City Ward 4
+2017100010A,Scott Township
+20171000110,Valley Township
+20173100010,Goddard Precinct
+20173120010,129 Precinct
+20173120020,130 Precinct
+20173120030,233 Precinct
+20173120040,235 Precinct
+20173120050,236 Precinct
+20173120060,319 Precinct
+20173120070,321 Precinct
+20173120080,322 Precinct
+20173120090,326 Precinct
+20173120100,429 Precinct
+20173120110,534 Precinct
+20173120120,538 Precinct
+20173120130,624 Precinct
+20173120140,626 Precinct
+20173120150,627 Precinct
+20173120160,Attica 8 Precinct
+20173120170,Attica 10 Precinct
+20173120180,Derby 15 Precinct
+20173120190,Derby 21 Precinct
+20173120200,Derby 22 Precinct
+20173120210,Derby 23 Precinct
+20173120220,Derby 24 Precinct
+20173120230,Derby 25 Precinct
+20173120240,Derby 31 Precinct
+20173120250,Derby 32 Precinct
+20173120260,Derby 36 Precinct
+20173120270,Derby 37 Precinct
+20173120280,Derby 41 Precinct
+20173120290,Delano 7 Precinct
+20173120300,Goddard 2 Precinct
+20173120310,Gypsum 4 Precinct
+20173120320,Gypsum 5 Precinct
+20173120330,Kechi 8 Precinct
+20173120340,Kechi 9 Precinct
+20173120350,Kechi 10 Precinct
+20173120360,Kechi 11 Precinct
+20173120370,Minneha 1 Precinct
+20173120380,Minneha 3 Precinct
+20173120390,Minneha 7 Precinct
+20173120400,Minneha 8 Precinct
+20173120410,Minneha 9 Precinct
+20173120420,Minneha 10 Precinct
+20173120430,Minneha 11 Precinct
+20173120440,Minneha 12 Precinct
+20173120450,Ninnescah 1 Precinct
+20173120460,Park 4 Precinct
+20173120470,Park 5 Precinct
+20173120480,Park 6 Precinct
+20173120490,Park 41 Precinct
+20173120500,Park 43 Precinct
+20173120510,Riverside 6 Precinct
+20173120520,Riverside 7 Precinct
+20173120530,Rockford 4 Precinct
+20173120540,Valley 32 Precinct
+20173120790,120 PRECINCT S16
+20173120900,222 PRECINCT S16
+20173121310,Wichita Precinct 612 S27
+20173121320,Wichita Precinct 613 S25
+20173121330,Wichita Precinct 613 S27
+20173130010,102 Precinct
+20173130020,107 Precinct
+20173130030,110 Precinct
+20173130040,128 Precinct
+20173130050,133 Precinct
+20173130060,134 Precinct
+20173130070,237 Precinct
+20173130080,238 Precinct
+20173130090,239 Precinct
+20173130100,240 Precinct
+20173130110,241 Precinct
+20173130120,242 Precinct
+20173130130,243 Precinct
+20173130140,245 Precinct
+20173130150,246 Precinct
+20173130160,247 Precinct
+20173130170,320 Precinct
+20173130180,324 Precinct
+20173130190,325 Precinct
+20173130200,327 Precinct
+20173130210,328 Precinct
+20173130220,329 Precinct
+20173130230,401 Precinct
+20173130240,402 Precinct
+20173130250,403 Precinct
+20173130260,410 Precinct
+20173130270,411 Precinct
+20173130280,421 Precinct
+20173130290,428 Precinct
+20173130300,430 Precinct
+20173130310,431 Precinct
+20173130320,432 Precinct
+20173130330,433 Precinct
+20173130340,434 Precinct
+20173130350,435 Precinct
+20173130360,436 Precinct
+20173130370,437 Precinct
+20173130380,438 Precinct
+20173130390,439 Precinct
+20173130400,440 Precinct
+20173130410,441 Precinct
+20173130420,539 Precinct
+20173130430,541 Precinct
+20173130440,544 Precinct
+20173130450,603 Precinct
+20173130460,614 Precinct
+20173130470,616 Precinct
+20173130480,629 Precinct
+20173130490,630 Precinct
+20173130500,631 Precinct
+20173130510,Attica 11 Precinct
+20173130520,Attica 12 Precinct
+20173130530,Attica 13 Precinct
+20173130540,Attica 14 Precinct
+20173130550,Attica 15 Precinct
+20173130560,Attica 16 Precinct
+20173130570,Attica 17 Precinct
+20173130580,Attica 18 Precinct
+20173130610,Attica 21 Precinct
+20173130620,Derby 16 Precinct
+20173130630,Derby 17 Precinct
+20173130640,Derby 38 Precinct
+20173130650,Derby 45 Precinct
+20173130660,Derby 46 Precinct
+20173130670,Derby 47 Precinct
+20173130680,Delano 8 Precinct
+20173130690,Delano 10 Precinct
+20173130700,Grant 3 Precinct
+20173130710,Grant 4 Precinct
+20173130720,Grant 5 Precinct
+20173130730,Grant 6 Precinct
+20173130740,Grant 7 Precinct
+20173130750,Grant 8 Precinct
+20173130760,Grant 9 Precinct
+20173130770,Grant 10 Precinct
+20173130780,Grant 12 Precinct
+20173130790,Grant 13 Precinct
+20173130800,Grant 14 Precinct
+20173130810,Goddard 1 Precinct
+20173130820,Goddard 3 Precinct
+20173130830,Goddard 4 Precinct
+20173130840,Gypsum 6 Precinct
+20173130850,Haysville 13 Precinct
+20173130860,Haysville 24 Precinct
+20173130870,Haysville 25 Precinct
+20173130880,Haysville 33 Precinct
+20173130890,Haysville 43 Precinct
+20173130900,Haysville 44 Precinct
+20173130910,Haysville 45 Precinct
+20173130920,Haysville 46 Precinct
+20173130930,Illinois 3 Precinct
+20173130940,Kechi 12 Precinct
+20173130950,Kechi 13 Precinct
+20173130960,Kechi 14 Precinct
+20173130970,Kechi 15 Precinct
+20173130980,Kechi 16 Precinct
+20173130990,Kechi 17 Precinct
+20173131010,Kechi 19 Precinct
+20173131020,Kechi 20 Precinct
+20173131030,Kechi 21 Precinct
+20173131040,Kechi 22 Precinct
+20173131050,Kechi 23 Precinct
+20173131060,Kechi 24 Precinct
+20173131070,Kechi 25 Precinct
+20173131080,Kechi 26 Precinct
+20173131090,Kechi 27 Precinct
+20173131100,Minneha 14 Precinct
+20173131110,Minneha 15 Precinct
+20173131120,Minneha 16 Precinct
+20173131140,Minneha 18 Precinct
+20173131150,Minneha 19 Precinct
+20173131160,Minneha 20 Precinct
+20173131170,Minneha 21 Precinct
+20173131180,Minneha 22 Precinct
+20173131190,Minneha 23 Precinct
+20173131210,Mulvane 5 Precinct
+20173131220,Mulvane 6 Precinct
+20173131230,Mulvane 7 Precinct
+20173131240,Mulvane 8 Precinct
+20173131250,Mulvane 9 Precinct
+20173131260,Mulvane 10 Precinct
+20173131270,Mulvane 11 Precinct
+20173131280,Mulvane 12 Precinct
+20173131290,Mulvane 13 Precinct
+20173131300,Ohio 3 Precinct
+20173131310,Park 3 Precinct
+20173131320,Park 7 Precinct
+20173131330,Park 8 Precinct
+20173131340,Park 9 Precinct
+20173131350,Park 10 Precinct
+20173131360,Park 11 Precinct
+20173131370,Park 13 Precinct
+20173131380,Park 16 Precinct
+20173131390,Park 17 Precinct
+20173131400,Payne 3 Precinct
+20173131410,Payne 4 Precinct
+20173131420,Payne 5 Precinct
+20173131430,Payne 6 Precinct
+20173131440,Riverside 8 Precinct
+20173131450,Riverside 9 Precinct
+20173131460,Riverside 10 Precinct
+20173131470,Riverside 11 Precinct
+20173131480,Riverside 12 Precinct
+20173131490,Riverside 13 Precinct
+20173131500,Rockford 6 Precinct
+20173131510,Rockford 7 Precinct
+20173131520,Rockford 9 Precinct
+20173131530,Rockford 10 Precinct
+20173131540,Union 3 Precinct
+20173131550,VA01 Precinct
+20173131560,VA02 Precinct
+20173131570,VA03
+20173131580,Valley 12 Precinct
+20173131590,Valley 33 Precinct
+20173131600,Valley 44 Precinct
+20173131610,Waco 5 Precinct
+20173131620,Waco 6 Precinct
+20173131630,Waco 7 Precinct
+20173131640,Waco 8 Precinct
+20173131650,Waco 9 Precinct
+20173131660,Waco 10 Precinct
+20173131670,Waco 11 Precinct
+20173131680,Waco 12 Precinct
+20173140010,Derby 18 Precinct
+20173140020,Delano 11 Precinct
+20173140030,Kechi 6 Precinct
+20173140050,Kechi 29 Precinct
+20173140060,Mulvane 14 Precinct
+20173140070,Payne 7 Precinct
+20173140080,Waco 4 Precinct
+20173150010,Delano 9 Precinct
+20173150020,Delano 12 Precinct
+20173150030,Delano 13 Precinct
+20173150040,Park 12 Precinct
+20173170010,220 Precinct
+20173170020,415 Precinct
+20173170030,426 Precinct
+20173170040,442 Precinct
+20173170050,511 Precinct
+20173170060,Haysville 32 Precinct
+20173180010,Attica 7 Precinct
+20173180030,502 Precinct
+20173180040,Attica 19 Precinct
+20173190010,Bel Air Precinct 03 S31
+20173190020,Attica 9 Precinct
+20173190030,620 Precinct
+20173190040,Haysville 14 Precinct
+20173190050,Park 42 Precinct
+20173190140,Minneha 17 Precinct
+20173500010,101 Precinct
+20173500030,103 Precinct
+20173500040,104 Precinct
+20173500050,105 Precinct
+20173500060,106 Precinct
+20173500080,108 Precinct
+20173500090,109 Precinct
+20173500110,111 Precinct
+20173500120,112 Precinct
+20173500130,113 Precinct
+20173500140,114 Precinct
+20173500150,115 Precinct
+20173500160,116 Precinct
+20173500170,117 Precinct
+20173500180,118 Precinct
+20173500190,119 Precinct
+20173500200,120 Precinct
+20173500210,121 Precinct
+20173500220,122 Precinct
+20173500230,123 Precinct
+20173500240,124 Precinct
+20173500260,126 Precinct
+20173500280,127 Precinct
+20173500360,205 Precinct
+20173500370,206 Precinct
+20173500380,207 Precinct
+20173500390,208 Precinct
+20173500400,209 Precinct
+20173500410,210 Precinct
+20173500420,211 Precinct
+20173500430,212 Precinct
+20173500440,213 Precinct
+20173500450,214 Precinct
+20173500460,215 Precinct
+20173500470,216 Precinct
+20173500480,217 Precinct
+20173500490,218 Precinct
+20173500500,219 Precinct
+20173500530,221 Precinct
+20173500540,222 Precinct
+20173500560,223 Precinct
+20173500570,224 Precinct
+20173500580,225 Precinct
+20173500590,226 Precinct
+20173500650,227 Precinct
+20173500710,228 Precinct
+20173500740,301 Precinct
+20173500750,302 Precinct
+20173500760,303 Precinct
+20173500770,304 Precinct
+20173500780,305 Precinct
+20173500790,306 Precinct
+20173500800,307 Precinct
+20173500810,308 Precinct
+20173500820,309 Precinct
+20173500830,310 Precinct
+20173500840,311 Precinct
+20173500870,312 Precinct
+20173500880,313 Precinct
+20173500890,314 Precinct
+20173500900,315 Precinct
+20173500910,316 Precinct
+20173500940,317 Precinct
+20173500980,404 Precinct
+20173500990,405 Precinct
+20173501000,406 Precinct
+20173501010,407 Precinct
+20173501020,408 Precinct
+20173501030,409 Precinct
+20173501060,412 Precinct
+20173501080,413 Precinct
+20173501090,414 Precinct
+20173501110,416 Precinct
+20173501150,417 Precinct
+20173501160,418 Precinct
+20173501170,419 Precinct
+20173501180,420 Precinct
+20173501200,422 Precinct
+20173501210,423 Precinct
+20173501220,424 Precinct
+20173501320,425 Precinct
+20173501390,503 Precinct
+20173501400,504 Precinct
+20173501420,506 Precinct
+20173501430,507 Precinct
+20173501440,508 Precinct
+20173501450,509 Precinct
+20173501460,510 Precinct
+20173501480,512 Precinct
+20173501500,513 Precinct
+20173501540,514 Precinct
+20173501550,515 Precinct
+20173501560,516 Precinct
+20173501570,517 Precinct
+20173501580,518 Precinct
+20173501590,519 Precinct
+20173501620,522 Precinct
+20173501630,523 Precinct
+20173501640,524 Precinct
+20173501650,525 Precinct
+20173501660,526 Precinct
+20173501670,527 Precinct
+20173501680,528 Precinct
+20173501730,530 Precinct
+20173501740,531 Precinct
+20173501820,601 Precinct
+20173501830,602 Precinct
+20173501850,604 Precinct
+20173501860,605 Precinct
+20173501870,606 Precinct
+20173501880,607 Precinct
+20173501890,608 Precinct
+20173501900,609 Precinct
+20173501910,610 Precinct
+20173501920,611 Precinct
+20173501930,612 Precinct
+20173501940,613 Precinct
+20173501960,615 Precinct
+20173501990,617 Precinct
+20173502000,618 Precinct
+20173502010,619 Precinct
+20173502030,621 Precinct
+20173502040,622 Precinct
+20173502070,623 Precinct
+20173502120,Afton Precinct
+20173502130,Attica 1 Precinct
+20173502140,Attica 2 Precinct
+20173502150,Attica 3 Precinct
+20173502160,Attica 4 Precinct
+20173502180,Attica 5 Precinct
+20173502200,Attica 6 Precinct
+20173502220,Bel Aire 1 Precinct
+20173502230,Bel Aire 2 Precinct
+20173502240,Bel Aire 3 Precinct
+20173502260,Derby 11 Precinct
+20173502270,Derby 12 Precinct
+20173502280,Derby 13 Precinct
+20173502290,Derby 14 Precinct
+20173502400,Derby 42 Precinct
+20173502410,Delano 1 Precinct
+20173502440,Delano 3 Precinct
+20173502450,Delano 4 Precinct
+20173502460,Delano 5 Precinct
+20173502470,Delano 6 Precinct
+20173502480,Eagle Precinct
+20173502490,Erie Precinct
+20173502500,Garden Plain Precinct
+20173502510,Grand River Precinct
+20173502560,Greeley Precinct
+20173502570,Gypsum 1 Precinct
+20173502580,Gypsum 2 Precinct
+20173502610,Gypsum 3 Precinct
+20173502630,Haysville 11 Precinct
+20173502650,Haysville 12 Precinct
+20173502660,Haysville 21 Precinct
+20173502700,Haysville 31 Precinct
+20173502730,Haysville 41 Precinct
+20173502740,Haysville 42 Precinct
+20173502810,Illinois 1 Precinct
+20173502830,Kechi 1 Precinct
+20173502850,Kechi 2 Precinct
+20173502890,Kechi 3 Precinct
+20173502900,Kechi 4 Precinct
+20173502930,Kechi 5 Precinct
+20173502960,Kechi 7 Precinct
+20173503010,Lincoln Precinct
+20173503030,Minneha 2 Precinct
+20173503070,Minneha 4 Precinct
+20173503120,Minneha 5 Precinct
+20173503170,Morton Precinct
+20173503180,Mulvane 1 Precinct
+20173503190,Mulvane 2 Precinct
+20173503250,Ninnescah Precinct
+20173503260,Ohio 1 Precinct
+20173503290,Park 1 Precinct
+20173503370,Park 11 Precinct
+20173503400,Park 13 Precinct
+20173503470,Park 21 Precinct
+20173503490,Park 22 Precinct
+20173503500,Park 31 Precinct
+20173503530,Payne 1 Precinct
+20173503590,Riverside 1 Precinct
+20173503650,Riverside 3 Precinct
+20173503700,Rockford 1 Precinct
+20173503740,Rockford 3 Precinct
+20173503760,Salem 1 Precinct
+20173503770,Salem 2 Precinct
+20173503780,Sherman Precinct
+20173503800,VA Precinct
+20173503920,Viola Precinct
+20173503930,Waco 1 Precinct
+20173503940,Waco 2 Precinct
+20173503990,Waco 3 Precinct
+20173600010,230 Precinct
+20173600020,318 Precinct
+20173600340,427 Precinct
+20173700010,Grant 1 Precinct
+20173700210,Park 2 Precinct
+20173700260,Union 1 Precinct
+20173700290,Union 2 Precinct
+20173700310,Valley 11 Precinct
+20173700330,Valley 21 Precinct
+20173700350,Valley 31 Precinct
+20173700390,Valley 41 Precinct
+20173700400,Valley 42 Precinct
+20173700590,Derby 33 Precinct
+20173800010,Mulvane 3 Precinct
+20175000010,Fargo Township 1
+20175000020,Fargo Township 2
+20175000030,Fargo Township 3
+20175000040,Fargo Township 4
+2017500005A,Liberal Township 1
+2017500005B,Liberal Township 1 Exclave
+20175000060,Liberal Township 2
+20175000070,Liberal Township 3
+2017500008A,Liberal Township 4
+20175000090,Liberal Township 5
+20175000100,Liberal Ward 1 Precinct 1
+20175000110,Liberal Ward 1 Precinct 2
+20175000120,Liberal Ward 1 Precinct 3
+20175000130,Liberal Ward 2
+20175000140,Liberal Ward 3
+20175000150,Liberal Ward 4
+20175000160,Liberal Ward 5
+20175000170,Liberal Ward 6 Precinct 1
+20175000180,Liberal Ward 6 Precinct 2
+20175000190,Seward Township 1
+20175000200,Seward Township 2
+20175000210,Seward Township 3
+20175190010,Liberal Township Exclave 2
+20175190020,Liberal Township Exclave 3
+20177000080,East Peck
+20177000090,East Rossville
+20177000150,Grove
+20177000190,Kiowa
+20177000240,Lykins
+20177000250,North Potter
+20177000260,North Tecumseh
+20177000270,Northeast Monmouth
+20177000280,Northwest Monmouth
+20177000290,Pawnee
+20177000300,Peck
+20177000310,Ponca
+20177000330,Rochester
+20177000340,Sherwood
+20177000350,Sioux
+20177000370,South Monmouth
+20177000410,Topeka Ward 1 Precinct 01
+20177000420,Topeka Ward 1 Precinct 02
+20177000430,Topeka Ward 1 Precinct 03
+20177000440,Topeka Ward 1 Precinct 04
+20177000480,Topeka Ward 2 Precinct 01
+20177000490,Topeka Ward 2 Precinct 02
+20177000500,Topeka Ward 2 Precinct 03
+20177000510,Topeka Ward 2 Precinct 04
+20177000520,Topeka Ward 2 Precinct 05
+20177000530,Topeka Ward 2 Precinct 06
+20177000540,Topeka Ward 2 Precinct 07
+20177000550,Topeka Ward 2 Precinct 08
+20177000560,Topeka Ward 2 Precinct 09
+20177000570,Topeka Ward 2 Precinct 10
+20177000580,Topeka Ward 2 Precinct 11
+20177000590,Topeka Ward 3 Precinct 01
+20177000600,Topeka Ward 3 Precinct 02
+20177000610,Topeka Ward 3 Precinct 03
+20177000630,Topeka Ward 3 Precinct 05
+20177000640,Topeka Ward 3 Precinct 06
+20177000650,Topeka Ward 3 Precinct 07
+20177000660,Topeka Ward 3 Precinct 08
+20177000690,Topeka Ward 4 Precinct 01
+20177000700,Topeka Ward 4 Precinct 02
+20177000710,Topeka Ward 4 Precinct 03
+20177000740,Topeka Ward 4 Precinct 06
+20177000750,Topeka Ward 4 Precinct 07
+20177000760,Topeka Ward 4 Precinct 08
+20177000770,Topeka Ward 4 Precinct 09
+20177000780,Topeka Ward 4 Precinct 10
+20177000800,Topeka Ward 4 Precinct 12
+20177000820,Topeka Ward 5 Precinct 02
+20177000830,Topeka Ward 5 Precinct 03
+20177000840,Topeka Ward 5 Precinct 04
+20177000850,Topeka Ward 5 Precinct 05
+20177000860,Topeka Ward 5 Precinct 06
+20177000870,Topeka Ward 5 Precinct 07
+20177000880,Topeka Ward 5 Precinct 08
+20177000890,Topeka Ward 5 Precinct 09
+20177000920,Topeka Ward 5 Precinct 12
+20177000930,Topeka Ward 5 Precinct 91
+20177000940,Topeka Ward 6 Precinct 01
+20177000950,Topeka Ward 6 Precinct 02
+20177000960,Topeka Ward 6 Precinct 03
+20177000970,Topeka Ward 6 Precinct 04
+20177000980,Topeka Ward 6 Precinct 05
+20177000990,Topeka Ward 6 Precinct 06
+20177001000,Topeka Ward 6 Precinct 07
+20177001010,Topeka Ward 6 Precinct 08
+20177001030,Topeka Ward 6 Precinct 10
+20177001040,Topeka Ward 7 Precinct 01
+20177001050,Topeka Ward 7 Precinct 02
+20177001060,Topeka Ward 7 Precinct 03
+20177001070,Topeka Ward 7 Precinct 04
+20177001080,Topeka Ward 7 Precinct 05
+20177001090,Topeka Ward 7 Precinct 06
+20177001100,Topeka Ward 7 Precinct 07
+20177001120,Topeka Ward 7 Precinct 09
+20177001130,Topeka Ward 7 Precinct 10
+20177001140,Topeka Ward 7 Precinct 11
+20177001150,Topeka Ward 8 Precinct 01
+20177001160,Topeka Ward 8 Precinct 02
+20177001170,Topeka Ward 8 Precinct 03
+20177001180,Topeka Ward 8 Precinct 04
+20177001190,Topeka Ward 8 Precinct 05
+20177001200,Topeka Ward 8 Precinct 06
+20177001210,Topeka Ward 8 Precinct 07
+20177001220,Topeka Ward 8 Precinct 08
+20177001230,Topeka Ward 8 Precinct 09
+20177001240,Topeka Ward 8 Precinct 10
+20177001250,Topeka Ward 8 Precinct 11
+20177001270,Topeka Ward 9 Precinct 02
+20177001280,Topeka Ward 9 Precinct 03
+20177001290,Topeka Ward 9 Precinct 04
+20177001300,Topeka Ward 9 Precinct 05
+20177001310,Topeka Ward 9 Precinct 06
+20177001320,Topeka Ward 9 Precinct 08
+20177001330,Topeka Ward 9 Precinct 09
+20177001340,Topeka Ward 9 Precinct 10
+20177001350,Topeka Ward 9 Precinct 11
+20177001360,Topeka Ward 10 Precinct 01
+20177001370,Topeka Ward 10 Precinct 02
+20177001380,Topeka Ward 10 Precinct 03
+20177001400,Topeka Ward 10 Precinct 05
+20177001410,Topeka Ward 10 Precinct 06
+20177001420,Topeka Ward 10 Precinct 07
+20177001430,Topeka Ward 10 Precinct 08
+20177001440,Topeka Ward 10 Precinct 09
+20177001450,Topeka Ward 10 Precinct 10
+20177001460,Topeka Ward 10 Precinct 11
+20177001470,Topeka Ward 11 Precinct 01
+20177001480,Topeka Ward 11 Precinct 02
+20177001490,Topeka Ward 11 Precinct 03
+20177001500,Topeka Ward 11 Precinct 04
+20177001510,Topeka Ward 11 Precinct 05
+20177001520,Topeka Ward 11 Precinct 06
+20177001530,Topeka Ward 11 Precinct 07
+20177001540,Topeka Ward 11 Precinct 08
+20177001550,Topeka Ward 11 Precinct 09
+20177001560,Topeka Ward 11 Precinct 10
+20177001570,Topeka Ward 12 Precinct 01
+20177001590,Topeka Ward 12 Precinct 03
+20177001600,Topeka Ward 12 Precinct 04
+20177001610,Topeka Ward 12 Precinct 05
+20177001620,Topeka Ward 12 Precinct 06
+20177001630,Topeka Ward 12 Precinct 07
+20177001640,Topeka Ward 12 Precinct 08
+20177001650,Topeka Ward 12 Precinct 09
+20177001670,Topeka Ward 12 Precinct 11
+20177001680,Topeka Ward 12 Precinct 12
+20177001710,Topeka Ward 12 Precinct 15
+20177001720,Topeka Ward 12 Precinct 16
+20177001760,Topeka Ward 12 Precinct 81
+20177001780,Topeka Ward 13 Precinct 01
+20177001850,West Rossville
+20177001880,Whitfield
+20177001890,Willard
+20177001910,Topeka Ward 4 Precinct 13
+20177100030,Topeka Ward 13 Precinct 06
+20177100040,Topeka Ward 13 Precinct 07
+20177100050,Topeka Ward 1 Precinct 07
+20177100060,Topeka Ward 5 Precinct 13
+20177120020,Stinson Creek
+20177120030,Cheyenne
+20177120040,Kaw
+20177120050,Croco
+20177120060,Kilmer
+20177120070,Little Muddy Creek
+20177120080,Forbes
+2017712008A,61st Street
+20177120090,Montara
+20177120100,North Mission
+2017712010A,Hodges
+20177120120,Gaillardia
+20177120130,Verbena
+2017712013A,Verbena Enclave
+20177120160,Pauline
+2017712016A,Pauline Enclave
+20177120170,Central Pauline
+20177120180,Topeka Ward 12 Precinct 91
+20177120190,Topeka Ward 12 Precinct 93
+20177120200,Topeka Ward 12 Precinct 92
+20177120210,Topeka Ward 3 Precinct 10
+20177120220,Topeka Ward 3 Precinct 09
+20177120230,Topeka Ward 4 Precinct 14
+20177120240,Topeka Ward 4 Precinct 04
+20177120250,Topeka Ward 4 Precinct 15
+20177120260,Topeka Ward 4 Precinct 11
+20177120270,Topeka Ward 5 Precinct 11
+20177120280,Topeka Ward 5 Precinct 01
+20177120290,Topeka Ward 9 Precinct 01
+20177120300,Topeka Ward 9 Precinct 12
+20177120310,Kingston
+20177120320,Wakarusa
+20177160010,Topeka Ward 12 Precinct 17
+20177160030,Topeka Ward 13 Precinct 10
+20177170030,Topeka Ward 2 Precinct 12
+20177200010,Halfday
+20177200020,Indianola
+20177200050,Cullen
+20177200070,Topeka Ward 12 Precinct 14
+20177200080,Topeka Ward 12 Precinct 41
+20177200130,Topeka Ward 13 Precinct 02
+20177200140,Topeka Ward 13 Precinct 03
+20177200150,Topeka Ward 13 Precinct 21
+20177200160,Topeka Ward 13 Precinct 22
+20177200170,Kaw 1 H57
+20177200180,Kaw 2 H57
+20177300090,Topeka Ward 13 Precinct 09
+20177400070,Topeka Ward 13 Precinct 30
+20177400090,Topeka Ward 1 Precinct 08
+20177400100,West Wichita
+20177400110,Topeka Ward 10 Precinct 12
+20177500010,Topeka Ward 10 Precinct 13
+20177500070,Topeka Ward 5 Precinct 15
+20177500080,South Tecumseh
+20177500110,Vaquero
+2017750011A,Vaquero Enclave 1
+2017750011B,Vaquero Enclave 2
+2017750011C,Vaquero Enclave 3
+20177500120,Topeka Ward 5 Precinct 14
+20177500140,Topeka Ward 13 Precinct 12
+20177500160,Topeka Ward 6 Precinct 09
+20177600010,Topeka Ward 1 Precinct 06
+20177600020,Topeka Ward 3 Precinct 04
+20177600050,Kiro
+20177600060,Messhoss Creek
+20177600080,Indian Hills
+20177600090,Topeka Ward 14 Precinct 01
+20177600110,Topeka Ward 14 Precinct 03
+20177600140,Topeka Ward 4 Precinct 05
+20177600150,East Silver Lake
+20177600160,West Silver Lake
+20177600170,City of Auburn
+20177600180,Meadowlark
+20177600190,Buffalo
+20177600200,Topeka Ward 15 Precinct 01
+20177600210,Topeka Ward 15 Precinct 02
+20177600220,Iroquois
+20177600230,Apache
+20177600240,Elmont
+20177600250,Topeka Ward 14 Precinct 05
+20177600260,Topeka Ward 12 Precinct 02
+20177600270,Topeka Ward 12 Precinct 20
+20177600280,Topeka Ward 12 Precinct 13
+20177600290,Topeka Ward 12 Precinct 31
+20177600300,Sunflower
+20177600310,South Sherwood
+20177600330,South Mission
+20177600340,East Soldier
+20177600350,Sherman
+20177600360,Sac
+20177600370,Fox
+20177600390,Pottawatomie
+20177600420,Topeka Ward 5 Precinct 10
+20177600430,Deer Creek
+20177600440,Topeka Ward 15 Precinct 03
+20177600470,Topeka Ward 12 Precinct 19
+20177600490,Yucca
+20177600500,Dover
+20177600510,Topeka Ward 13 Precinct 08
+20177600530,Topeka Ward 13 Precinct 13
+20177600570,Topeka Ward 10 Precinct 04
+20177600580,Topeka Ward 10 Precinct 14
+20177700010,Topeka Ward 13 Precinct 04
+20177700020,Central Mission
+20177800010,Aldersgate
+20177800020,Topeka Ward 13 Precinct 05
+20177800040,Topeka Ward 14 Precinct 04
+20177800060,Topeka Ward 14 Precinct 02
+20177800070,West Potter
+20177900010,Topeka Ward 15 Precinct 04
+20177900030,Topeka Ward 1 Precinct 05
+20177900040,East Wichita Coup
+20177900050,East Wichita
+20177900060,Ichabod Washburn Voting District
+20177900070,Washburn Voting District
+20177900080,York Outer
+20177900090,York
+20177900110,Topeka Ward 6 Precinct 11
+20177900120,Topeka Ward 6 Precinct 12
+20177900140,Topeka Ward 6 Precinct 13
+20179000010,Adell Township
+20179000020,Bloomfield Township
+20179000030,Bow Creek Township
+20179000040,East Kenneth
+20179000050,East Saline
+20179000060,Logan Township
+20179000070,Parnell Township
+20179000080,Prairie Dog Township
+20179000090,Sheridan Township
+20179000100,Solomon Township
+20179000110,Springbrook Township
+20179000120,Union Township
+20179000130,Valley Township
+20179000140,West Kenneth
+20179000150,West Saline
+20181000010,Goodland Ward 1
+20181000020,Goodland Ward 2
+20181000030,Goodland Ward 3
+20181000040,Goodland Ward 4
+2018100004A,Goodland Ward 4 Aitrport
+20181000050,Grant Township
+20181000060,Iowa Township
+20181000070,Itasca Township
+20181000080,Kanorado City
+20181000090,Lincoln Township
+20181000100,Llanos Township
+2018100011A,Logan Township
+20181000120,McPherson Township
+20181000130,Shermanville Township
+20181000140,Smoky Township
+20181000150,State Line Township
+20181000160,Union Township
+20181000170,Voltaire Township
+20181000180,Washington Township
+20181190010,Goodland Ward 2 Exclave
+20183000010,Banner Township
+20183000020,Beaver Township
+20183000030,Blaine Township
+20183000040,Cedar Township
+20183000050,Center 1
+20183000060,Center 2
+20183000070,Cora Township
+20183000080,Crystal Plains Township
+20183000090,Dor Township
+20183000100,Garfield Township
+20183000110,German Township
+20183000120,Harlan Township
+20183000130,Harvey Township
+20183000140,Houston Township
+20183000150,Lane Township
+20183000160,Lincoln Township
+20183000170,Logan Township
+20183000180,Martin Township
+20183000190,Oak 1
+20183000200,Oak 2
+20183000210,Pawnee Township
+20183000220,Pleasant Township
+20183000230,Swan Township
+20183000240,Valley Township
+20183000250,Washington Township
+20183000260,Webster Township
+20183000270,White Rock Township
+20183000280,Center 4
+20183000290,Center 3
+20185000010,Albano Township
+20185000020,Byron Township
+20185000030,Clear Creek Township
+20185000040,Cleveland Township
+20185000050,Douglas Township
+20185000060,East Cooper Township
+20185000070,East St. John
+20185000080,Fairview Township
+20185000090,Farmington Township
+20185000100,Hayes Township
+20185000110,Lincoln Township
+20185000120,North Seward Township
+20185000130,North Stafford
+20185000140,Ohio Township
+20185000150,Putnam Township
+20185000160,Richland Township
+20185000170,Rose Valley Township
+20185000180,South Seward Township
+20185000190,South St. John
+20185000200,South Stafford
+20185000210,Union Township
+20185000220,West Cooper Township
+20185000230,West St. John
+20185000240,York Township
+20187000010,Big Bow
+20187000020,Manter
+20187000030,Stanton
+20189000010,Banner Township
+20189000020,Center Precinct 1
+20189000030,Center Precinct 2
+20189000040,Harmony Township
+20189000050,Hugoton Ward 1 Precinct 1
+20189000060,Hugoton Ward 1 Precinct 2
+20189000070,Hugoton Ward 2 Precinct 1
+20189000080,Hugoton Ward 2 Precinct 2
+20189000090,Moscow Township
+20189000100,Voorhees Township
+20189000110,West Center Township
+20189190010,Hugoton Ward 6 Precinct 2
+20189190020,Hugoton Ward 7 Precinct 2
+20189190030,Hugoton Ward 8 Precinct 2
+20189190040,Hugoton Ward 5 Precinct 2
+20189190050,Hugoton Ward 4 Precinct 2
+20189190060,Hogoton Ward 3 Precinct 2
+20191000010,Avon Township
+20191000020,Belle Plaine Township
+2019100002A,Belle Plaine Township Voting District Part A
+2019100002B,Belle Plaine Township Voting District Part B
+20191000030,Bluff Township
+20191000040,Caldwell City Ward 1
+20191000050,Caldwell City Ward 2
+20191000060,Caldwell Township
+20191000070,Chikaskia Township
+20191000080,Conway Township
+20191000090,Creek Township
+20191000100,Dixon Township
+20191000110,Downs Township
+20191000120,Eden Township
+20191000130,Falls Township
+20191000140,Gore Township
+20191000150,Greene Township
+20191000160,Guelph Township
+20191000170,Harmon Township
+20191000180,Illinois Township
+20191000190,Jackson Township
+20191000200,London Township
+20191000210,Morris Township
+20191000220,Mulvane City
+20191000230,Osborne Township
+20191000240,Oxford Township
+20191000250,Palestine Township
+20191000260,Ryan Township
+20191000270,Seventy - Six Township
+20191000280,South Haven Township
+20191000290,Springdale Township
+20191000300,Sumner Township
+20191000310,Valverde Township
+20191000320,Walton Precinct
+20191000340,Wellington City Ward 1 Precinct 1
+20191000350,Wellington City Ward 1 Precinct 2
+20191000360,Wellington City Ward 2 Precinct 1
+20191000370,Wellington City Ward 2 Precinct 2
+2019100037A,Wellington City Ward 2 Precinct 2 Part A
+20191000380,Wellington City Ward 3 Precinct 1
+20191000390,Wellington City Ward 3 Precinct 2
+20191000400,Wellington City Ward 4 Precinct 1
+2019100041A,Wellington City Ward 4 Precinct 2
+20191120030,Belle Plaine Township H82
+2019112003A,Belle Plaine Township H82 Part A
+20191120050,Gore Township H82
+20191120070,Seventy-Six Township H80
+20191120120,Wellington Township H116
+20191120130,Wellington Township H80
+2019112013A,Wellington Township H80 A
+20191900010,Wellington Township Part B
+20191900020,Wellington City Airport
+20191900030,Wellington Lake Exclave
+20191900040,Gore Township Enclave
+20191900050,Mulvane City Exclave A
+20191900060,Mulvane City Exclave B
+20193000010,Barrett Township
+20193000020,Colby Ward 1
+2019300002A,Colby Ward 1 Exclave
+2019300003A,Colby Ward 2
+2019300003B,Colby Ward 2 Exclave
+2019300004A,Colby Ward 3
+2019300004B,Colby Ward 3 Exclave
+2019300004C,Colby Ward 3 Exclave 2
+20193000050,Colby Ward 4
+20193000060,East Hale Township
+2019300007A,East Morgan Township
+2019300007B,East Morgan Township Enclave 1
+20193000080,Kingery Township
+20193000090,Lacey Township
+20193000100,Menlo Township
+20193000110,North Randall Township
+20193000120,Rovohl Township
+20193000130,Smith Township
+20193000140,South Randall Township
+20193000150,Summers Township
+20193000160,Wendell Township
+20193000170,West Hale Township
+20193000180,West Morgan Township
+20193900010,Colby Ward 4 Exclave
+20193900020,East Morgan Township Enclave 2
+20195000010,Collyer City
+20195000020,Collyer Township
+20195000030,Franklin Township
+20195000040,Glencoe Township
+20195000050,Ogallah Township
+20195000060,Riverside Township
+20195000070,WaKeeney City Central Precinct
+20195000080,WaKeeney City East Precinct
+20195000090,WaKeeney City West Precinct
+20195000100,WaKeeney Township
+20195000110,Wilcox Township
+20197000010,Alma Township
+20197000020,Chalk Township
+20197000030,Farmer Township
+20197000040,Garfield Township
+20197000050,Harveyville Township
+20197000060,Hessdale Township
+20197000070,Kaw Township
+20197000080,Keene Township
+20197000090,Maple Hill Township
+20197000100,McFarland Township
+20197000110,Paxico Township
+20197000130,Washington Township
+20197000140,Wilmington Township
+20197120020,Wabaunsee Township S17
+20197120030,Wabaunsee Township S18
+20199000010,Harrison Township
+20199000020,Sharon Springs Precinct 1
+20199000030,Sharon Springs Precinct 2
+20199000040,Wallace Township
+20199000050,Weskan Township
+20201000010,Barnes Township
+20201000020,Brantford Township
+20201000030,Charleston Township
+20201000040,Clifton Township
+20201000050,Coleman Township
+20201000060,Farmington Township
+20201000070,Franklin Township
+20201000080,Grant Township
+20201000090,Greenleaf Township
+20201000100,Haddam Township
+20201000110,Hanover Township
+20201000120,Highland Township
+20201000130,Independence Township
+20201000140,Kimeo Township
+20201000150,Lincoln Township
+20201000160,Linn Township
+20201000170,Little Blue Township
+20201000180,Logan Township
+20201000190,Lowe Township
+20201000200,Mill Creek Township
+20201000210,Sheridan Township
+20201000220,Sherman Township
+20201000230,Strawberry Township
+20201000240,Union Township
+2020100025A,Washington Township
+2020100025B,Washington Township Rural Enclave
+2020100026A,Washington City
+2020100026B,Washington City Exclave
+20201900010,Washington Township Rural Enclave B
+20203000010,Leoti Precinct 1
+20203000020,Leoti Precinct 2
+20203000030,Leoti Precinct 3
+20205000010,Cedar Township
+20205000020,Center Township
+20205000030,Chetopa Township
+20205000040,Clifton Township
+20205000050,Colfax Township
+20205000060,Duck Creek Township
+20205000070,Fall River Township
+20205000080,Fredonia Ward 1
+20205000090,Fredonia Ward 2
+2020500010A,Fredonia Ward 3
+2020500010B,Fredonia Ward 3 Exclave
+20205000110,Fredonia Ward 4
+2020500011B,Fredonia Ward 4 Exclave
+20205000120,Guilford Township
+20205000130,Neodesha Township
+2020500014A,Neodesha Ward 1
+2020500014B,Neodesha Ward 1 Exclave
+20205000150,Neodesha Ward 2
+2020500015B,Neodesha Ward 2 Exclave
+20205000160,Neodesha Ward 3
+20205000170,Neodesha Ward 4
+20205000180,Newark Township
+20205000190,Pleasant Valley Township
+20205000200,Prairie Township
+20205000210,Talleyrand Township
+20205000220,Verdigris Township
+20205000230,Webster Township
+20205900010,Neodesha Ward 1 Exclave 2
+20205900020,Neodesha Ward 3 Exclave 1
+20205900030,Neodesha Ward 3 Exclave 2
+20205900040,Neodesha Ward 4 Exclave
+20207000010,Center Township
+20207000020,Liberty Township
+20207000030,Neosho Falls Township
+20207000040,North Township
+20207000050,Perry Township
+20207000060,Piqua Township
+20207000070,Toronto Township
+2020700008A,Yates Center Ward 1
+2020700008B,Yates Center Ward 1 Exclave
+20207000090,Yates Center Ward 2
+20207900010,Yates Center Ward 2 Exclave
+20209120100,Kansas City Ward 12 Precinct 11
+20209140020,Edwardsville Precinct 1
+20209140030,Edwardsville Precinct 2
+20209140090,Kansas City Ward 14 Precinct 16
+20209600010,Bonner Springs Ward 1 Precinct 01
+20209600020,Bonner Springs Ward 2 Precinct 01
+20209600030,Bonner Springs Ward 3 Precinct 01
+20209600040,Bonner Springs Ward 4 Precinct 01
+20209600060,Delaware Township 1
+20209600090,Kansas City Ward 1 Precinct 01
+20209600100,Kansas City Ward 1 Precinct 02
+20209600110,Kansas City Ward 1 Precinct 03
+20209600120,Kansas City Ward 2 Precinct 01
+20209600130,Kansas City Ward 2 Precinct 02
+20209600140,Kansas City Ward 2 Precinct 03
+20209600150,Kansas City Ward 2 Precinct 04
+20209600160,Kansas City Ward 2 Precinct 05
+20209600170,Kansas City Ward 3 Precinct 01
+20209600180,Kansas City Ward 3 Precinct 02
+20209600190,Kansas City Ward 3 Precinct 03
+20209600200,Kansas City Ward 3 Precinct 04
+20209600210,Kansas City Ward 4 Precinct 01
+20209600220,Kansas City Ward 4 Precinct 02
+20209600230,Kansas City Ward 4 Precinct 03
+20209600240,Kansas City Ward 4 Precinct 04
+20209600250,Kansas City Ward 5 Precinct 01
+20209600260,Kansas City Ward 5 Precinct 02
+20209600270,Kansas City Ward 5 Precinct 03
+20209600280,Kansas City Ward 5 Precinct 04
+20209600290,Kansas City Ward 5 Precinct 05
+20209600300,Kansas City Ward 6 Precinct 01
+20209600310,Kansas City Ward 6 Precinct 02
+20209600320,Kansas City Ward 7 Precinct 01
+20209600330,Kansas City Ward 7 Precinct 02
+20209600340,Kansas City Ward 7 Precinct 03
+20209600350,Kansas City Ward 7 Precinct 04
+20209600360,Kansas City Ward 7 Precinct 05
+20209600370,Kansas City Ward 7 Precinct 06
+20209600380,Kansas City Ward 7 Precinct 07
+20209600390,Kansas City Ward 7 Precinct 08
+20209600400,Kansas City Ward 7 Precinct 09
+20209600410,Kansas City Ward 8 Precinct 01
+20209600420,Kansas City Ward 8 Precinct 02
+20209600430,Kansas City Ward 8 Precinct 03
+20209600440,Kansas City Ward 8 Precinct 04
+20209600450,Kansas City Ward 9 Precinct 01
+20209600460,Kansas City Ward 9 Precinct 02
+20209600470,Kansas City Ward 9 Precinct 03
+20209600480,Kansas City Ward 9 Precinct 04
+20209600490,Kansas City Ward 9 Precinct 05
+20209600500,Kansas City Ward 9 Precinct 06
+20209600510,Kansas City Ward 9 Precinct 07
+20209600520,Kansas City Ward 9 Precinct 08
+20209600530,Kansas City Ward 9 Precinct 09
+20209600540,Kansas City Ward 9 Precinct 10
+20209600550,Kansas City Ward 9 Precinct 11
+20209600560,Kansas City Ward 9 Precinct 12
+20209600570,Kansas City Ward 9 Precinct 13
+20209600580,Kansas City Ward 9 Precinct 14
+20209600590,Kansas City Ward 10 Precinct 01
+20209600600,Kansas City Ward 10 Precinct 02
+20209600610,Kansas City Ward 10 Precinct 03
+20209600620,Kansas City Ward 10 Precinct 04
+20209600630,Kansas City Ward 10 Precinct 05
+20209600640,Kansas City Ward 11 Precinct 01
+20209600650,Kansas City Ward 11 Precinct 02
+20209600660,Kansas City Ward 11 Precinct 03
+20209600670,Kansas City Ward 11 Precinct 04
+20209600680,Kansas City Ward 11 Precinct 05
+20209600690,Kansas City Ward 11 Precinct 06
+20209600700,Kansas City Ward 11 Precinct 07
+20209600710,Kansas City Ward 11 Precinct 08
+20209600720,Kansas City Ward 11 Precinct 09
+20209600730,Kansas City Ward 11 Precinct 10
+20209600740,Kansas City Ward 11 Precinct 11
+20209600750,Kansas City Ward 11 Precinct 12
+20209600760,Kansas City Ward 9 Precinct 16
+20209600770,Kansas City Ward 12 Precinct 01
+20209600780,Kansas City Ward 12 Precinct 02
+20209600790,Kansas City Ward 12 Precinct 03
+20209600800,Kansas City Ward 12 Precinct 04
+20209600810,Kansas City Ward 12 Precinct 05
+20209600820,Kansas City Ward 12 Precinct 06
+20209600830,Kansas City Ward 12 Precinct 07
+20209600840,Kansas City Ward 12 Precinct 08
+20209600850,Kansas City Ward 12 Precinct 09
+20209600860,Kansas City Ward 12 Precinct 10
+20209600870,Kansas City Ward 13 Precinct 01
+20209600880,Kansas City Ward 13 Precinct 02
+20209600890,Kansas City Ward 13 Precinct 03
+20209600900,Kansas City Ward 13 Precinct 04
+20209600910,Kansas City Ward 13 Precinct 05
+20209600920,Kansas City Ward 13 Precinct 06
+20209600930,Kansas City Ward 13 Precinct 07
+20209600940,Kansas City Ward 13 Precinct 08
+20209600950,Kansas City Ward 13 Precinct 09
+20209600960,Kansas City Ward 14 Precinct 01
+20209600970,Kansas City Ward 14 Precinct 02
+20209600980,Kansas City Ward 14 Precinct 03
+20209600990,Kansas City Ward 14 Precinct 04
+20209601000,Kansas City Ward 14 Precinct 05
+20209601010,Kansas City Ward 14 Precinct 06
+20209601020,Kansas City Ward 14 Precinct 07
+20209601030,Kansas City Ward 14 Precinct 08
+20209601040,Kansas City Ward 14 Precinct 09
+20209601050,Kansas City Ward 14 Precinct 10
+20209601060,Kansas City Ward 14 Precinct 11
+20209601070,Kansas City Ward 14 Precinct 12
+20209601080,Kansas City Ward 14 Precinct 13
+20209601090,Kansas City Ward 14 Precinct 14
+20209601100,Kansas City Ward 14 Precinct 15
+20209601110,Lake Quivira City 1
+20209601120,Kansas City Ward 9 Precinct 15

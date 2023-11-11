@@ -12,6 +12,7 @@ from typing import Any
 census_dir: str = "../../../local/vtd_data/2020_vtd"
 election_dir: str = "../../../local/vtd_data/2020_vtd"
 shapes_dir: str = "../../../local/pg-rawdata"
+names_dir: str = "../../../local/pg-rawdata"
 block_data_dir: str = "../../../local/pg-rawdata"
 
 # Within a project

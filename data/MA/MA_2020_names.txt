@@ -1,0 +1,2159 @@
+
+GEOID,NAME
+25001000107,Barnstable Town Precinct 1
+25001000108,Barnstable Town Precinct 10
+25001000109,Barnstable Town Precinct 11
+25001000110,Barnstable Town Precinct 12
+25001000111,Barnstable Town Precinct 13
+25001000112,Barnstable Town Precinct 2
+25001000113,Barnstable Town Precinct 3
+25001000114,Barnstable Town Precinct 4
+25001000115,Barnstable Town Precinct 5
+25001000116,Barnstable Town Precinct 6
+25001000117,Barnstable Town Precinct 7
+25001000118,Barnstable Town Precinct 8
+25001000119,Barnstable Town Precinct 9
+25001000430,Bourne Town Precinct 1
+25001000431,Bourne Town Precinct 2
+25001000432,Bourne Town Precinct 3
+25001000433,Bourne Town Precinct 4
+25001000434,Bourne Town Precinct 5
+25001000435,Bourne Town Precinct 6
+25001000436,Bourne Town Precinct 7
+25001000454,Brewster Town Precinct 1
+25001000455,Brewster Town Precinct 2
+25001000456,Brewster Town Precinct 3
+25001000566,Chatham Town Precinct 1
+25001000656,Dennis Town Precinct 1
+25001000657,Dennis Town Precinct 2
+25001000658,Dennis Town Precinct 3
+25001000659,Dennis Town Precinct 4
+25001000660,Dennis Town Precinct 5
+25001000695,Eastham Town Precinct 1
+25001000756,Falmouth Town Precinct 1
+25001000757,Falmouth Town Precinct 2
+25001000758,Falmouth Town Precinct 3
+25001000759,Falmouth Town Precinct 4
+25001000760,Falmouth Town Precinct 5
+25001000761,Falmouth Town Precinct 6
+25001000762,Falmouth Town Precinct 7
+25001000763,Falmouth Town Precinct 8
+25001000764,Falmouth Town Precinct 9
+25001000881,Harwich Town Precinct 1
+25001000882,Harwich Town Precinct 2
+25001000883,Harwich Town Precinct 3
+25001000884,Harwich Town Precinct 4
+25001001167,Mashpee Town Precinct 1
+25001001168,Mashpee Town Precinct 2
+25001001169,Mashpee Town Precinct 3
+25001001170,Mashpee Town Precinct 4
+25001001171,Mashpee Town Precinct 5
+25001001454,Orleans Town Precinct 1
+25001001530,Provincetown Town Precinct 1
+25001001643,Sandwich Town Precinct 1
+25001001644,Sandwich Town Precinct 2
+25001001645,Sandwich Town Precinct 3
+25001001646,Sandwich Town Precinct 4
+25001001647,Sandwich Town Precinct 5
+25001001648,Sandwich Town Precinct 6
+25001001877,Truro Town Precinct 1
+25001001964,Wellfleet Town Precinct 1
+25001002145,Yarmouth Town Precinct 1
+25001002146,Yarmouth Town Precinct 2
+25001002147,Yarmouth Town Precinct 3
+25001002148,Yarmouth Town Precinct 4
+25001002149,Yarmouth Town Precinct 5
+25001002150,Yarmouth Town Precinct 6
+25001002151,Yarmouth Town Precinct 7
+25001ZZZZZZ,Voting Districts Not Defined
+25003000015,Adams Town Precinct 1
+25003000016,Adams Town Precinct 2
+25003000017,Adams Town Precinct 3
+25003000018,Adams Town Precinct 4
+25003000019,Adams Town Precinct 5
+25003000028,Alford Town Precinct 1
+25003000122,Becket Town Precinct 1
+25003000592,Cheshire Town Precinct 1
+25003000614,Clarksburg Town Precinct 1
+25003000629,Dalton Town Precinct 1
+25003000630,Dalton Town Precinct 2
+25003000708,Egremont Town Precinct 1
+25003000777,Florida Town Precinct 1
+25003000846,Great Barrington Town Precinct A
+25003000847,Great Barrington Town Precinct B
+25003000848,Great Barrington Town Precinct C
+25003000849,Great Barrington Town Precinct D
+25003000871,Hancock Town Precinct 1
+25003000915,Hinsdale Town Precinct 1
+25003000974,Lanesborough Town Precinct 1
+25003000999,Lee Town Precinct 1
+25003001004,Lenox Town Precinct 1
+25003001275,Monterey Town Precinct 1
+25003001277,Mount Washington Town Precinct 1
+25003001300,New Ashford Town Precinct 1
+25003001338,New Marlborough Town Precinct 1
+25003001383,North Adams City Ward 1 Precinct 1
+25003001384,North Adams City Ward 2 Precinct 2
+25003001385,North Adams City Ward 3 Precinct 3
+25003001386,North Adams City Ward 4 Precinct 4
+25003001387,North Adams City Ward 5 Precinct 5
+25003001455,Otis Town Precinct 1
+25003001492,Peru Town Precinct 1
+25003001495,Pittsfield City Ward 1 Precinct A
+25003001496,Pittsfield City Ward 1 Precinct B
+25003001497,Pittsfield City Ward 2 Precinct A
+25003001498,Pittsfield City Ward 2 Precinct B
+25003001499,Pittsfield City Ward 3 Precinct A
+25003001500,Pittsfield City Ward 3 Precinct B
+25003001501,Pittsfield City Ward 4 Precinct A
+25003001502,Pittsfield City Ward 4 Precinct B
+25003001503,Pittsfield City Ward 5 Precinct A
+25003001504,Pittsfield City Ward 5 Precinct B
+25003001505,Pittsfield City Ward 6 Precinct A
+25003001506,Pittsfield City Ward 6 Precinct B
+25003001507,Pittsfield City Ward 7 Precinct A
+25003001508,Pittsfield City Ward 7 Precinct B
+25003001606,Richmond Town Precinct 1
+25003001642,Sandisfield Town Precinct 1
+25003001659,Savoy Town Precinct 1
+25003001675,Sheffield Town Precinct 1
+25003001803,Stockbridge Town Precinct 1
+25003001882,Tyringham Town Precinct 1
+25003001934,Washington Town Precinct 1
+25003001981,West Stockbridge Town Precinct 1
+25003002050,Williamstown Town Precinct 1
+25003002051,Williamstown Town Precinct 2
+25003002052,Williamstown Town Precinct 3
+25003002070,Windsor Town Precinct 1
+25005000012,Acushnet Town Precinct 1
+25005000013,Acushnet Town Precinct 2
+25005000014,Acushnet Town Precinct 3
+25005000087,Attleboro City Ward 1 Precinct A
+25005000088,Attleboro City Ward 1 Precinct B
+25005000089,Attleboro City Ward 2 Precinct A
+25005000090,Attleboro City Ward 2 Precinct B
+25005000091,Attleboro City Ward 3 Precinct A
+25005000092,Attleboro City Ward 3 Precinct B
+25005000093,Attleboro City Ward 4 Precinct A
+25005000094,Attleboro City Ward 4 Precinct B
+25005000095,Attleboro City Ward 5 Precinct A
+25005000096,Attleboro City Ward 5 Precinct B
+25005000097,Attleboro City Ward 6 Precinct A
+25005000098,Attleboro City Ward 6 Precinct B
+25005000144,Berkley Town Precinct 1
+25005000145,Berkley Town Precinct 2
+25005000639,Dartmouth Town Precinct 1
+25005000640,Dartmouth Town Precinct 2
+25005000641,Dartmouth Town Precinct 3
+25005000642,Dartmouth Town Precinct 4
+25005000643,Dartmouth Town Precinct 5
+25005000644,Dartmouth Town Precinct 6
+25005000645,Dartmouth Town Precinct 7
+25005000646,Dartmouth Town Precinct 8
+25005000647,Dartmouth Town Precinct 9
+25005000661,Dighton Town Precinct 1
+25005000662,Dighton Town Precinct 2
+25005000701,Easton Town Precinct 1
+25005000702,Easton Town Precinct 2
+25005000703,Easton Town Precinct 3
+25005000704,Easton Town Precinct 4
+25005000705,Easton Town Precinct 5
+25005000706,Easton Town Precinct 6
+25005000723,Fairhaven Town Precinct 1
+25005000724,Fairhaven Town Precinct 2
+25005000725,Fairhaven Town Precinct 3
+25005000726,Fairhaven Town Precinct 4
+25005000727,Fairhaven Town Precinct 5
+25005000728,Fairhaven Town Precinct 6
+25005000729,Fall River City Ward 1 Precinct A
+25005000730,Fall River City Ward 1 Precinct B
+25005000731,Fall River City Ward 1 Precinct C
+25005000732,Fall River City Ward 2 Precinct A
+25005000733,Fall River City Ward 2 Precinct B
+25005000734,Fall River City Ward 2 Precinct C
+25005000735,Fall River City Ward 3 Precinct A
+25005000736,Fall River City Ward 3 Precinct B
+25005000737,Fall River City Ward 3 Precinct C
+25005000738,Fall River City Ward 4 Precinct A
+25005000739,Fall River City Ward 4 Precinct B
+25005000740,Fall River City Ward 4 Precinct C
+25005000741,Fall River City Ward 5 Precinct A
+25005000742,Fall River City Ward 5 Precinct B
+25005000743,Fall River City Ward 5 Precinct C
+25005000744,Fall River City Ward 6 Precinct A
+25005000745,Fall River City Ward 6 Precinct B
+25005000746,Fall River City Ward 6 Precinct C
+25005000747,Fall River City Ward 7 Precinct A
+25005000748,Fall River City Ward 7 Precinct B
+25005000749,Fall River City Ward 7 Precinct C
+25005000750,Fall River City Ward 8 Precinct A
+25005000751,Fall River City Ward 8 Precinct B
+25005000752,Fall River City Ward 8 Precinct C
+25005000753,Fall River City Ward 9 Precinct A
+25005000754,Fall River City Ward 9 Precinct B
+25005000755,Fall River City Ward 9 Precinct C
+25005000809,Freetown Town Precinct 1
+25005000810,Freetown Town Precinct 2
+25005000811,Freetown Town Precinct 3
+25005001133,Mansfield Town Precinct 1
+25005001134,Mansfield Town Precinct 2
+25005001135,Mansfield Town Precinct 3
+25005001136,Mansfield Town Precinct 4
+25005001137,Mansfield Town Precinct 5
+25005001138,Mansfield Town Precinct 6
+25005001301,New Bedford City Ward 1 Precinct A
+25005001302,New Bedford City Ward 1 Precinct B
+25005001303,New Bedford City Ward 1 Precinct C
+25005001304,New Bedford City Ward 1 Precinct D
+25005001305,New Bedford City Ward 1 Precinct E
+25005001306,New Bedford City Ward 1 Precinct F
+25005001307,New Bedford City Ward 2 Precinct A
+25005001308,New Bedford City Ward 2 Precinct B
+25005001309,New Bedford City Ward 2 Precinct C
+25005001310,New Bedford City Ward 2 Precinct D
+25005001311,New Bedford City Ward 2 Precinct E
+25005001312,New Bedford City Ward 2 Precinct F
+25005001313,New Bedford City Ward 3 Precinct A
+25005001314,New Bedford City Ward 3 Precinct B
+25005001315,New Bedford City Ward 3 Precinct C
+25005001316,New Bedford City Ward 3 Precinct D
+25005001317,New Bedford City Ward 3 Precinct E
+25005001318,New Bedford City Ward 3 Precinct F
+25005001319,New Bedford City Ward 4 Precinct A
+25005001320,New Bedford City Ward 4 Precinct B
+25005001321,New Bedford City Ward 4 Precinct C
+25005001322,New Bedford City Ward 4 Precinct D
+25005001323,New Bedford City Ward 4 Precinct E
+25005001324,New Bedford City Ward 4 Precinct F
+25005001325,New Bedford City Ward 5 Precinct A
+25005001326,New Bedford City Ward 5 Precinct B
+25005001327,New Bedford City Ward 5 Precinct C
+25005001328,New Bedford City Ward 5 Precinct D
+25005001329,New Bedford City Ward 5 Precinct E
+25005001330,New Bedford City Ward 5 Precinct F
+25005001331,New Bedford City Ward 6 Precinct A
+25005001332,New Bedford City Ward 6 Precinct B
+25005001333,New Bedford City Ward 6 Precinct C
+25005001334,New Bedford City Ward 6 Precinct D
+25005001335,New Bedford City Ward 6 Precinct E
+25005001336,New Bedford City Ward 6 Precinct F
+25005001396,North Attleborough Town Precinct 1
+25005001397,North Attleborough Town Precinct 2
+25005001398,North Attleborough Town Precinct 3
+25005001399,North Attleborough Town Precinct 4
+25005001400,North Attleborough Town Precinct 5
+25005001401,North Attleborough Town Precinct 6
+25005001402,North Attleborough Town Precinct 7
+25005001403,North Attleborough Town Precinct 8
+25005001404,North Attleborough Town Precinct 9
+25005001433,Norton Town Precinct 1
+25005001434,Norton Town Precinct 2
+25005001435,Norton Town Precinct 3
+25005001436,Norton Town Precinct 4
+25005001437,Norton Town Precinct 5
+25005001573,Raynham Town Precinct 1
+25005001574,Raynham Town Precinct 2
+25005001575,Raynham Town Precinct 3
+25005001576,Raynham Town Precinct 4
+25005001585,Rehoboth Town Precinct 1
+25005001586,Rehoboth Town Precinct 2
+25005001587,Rehoboth Town Precinct 3
+25005001666,Seekonk Town Precinct 1
+25005001667,Seekonk Town Precinct 2
+25005001668,Seekonk Town Precinct 3
+25005001669,Seekonk Town Precinct 4
+25005001690,Somerset Town Precinct 1
+25005001691,Somerset Town Precinct 2
+25005001692,Somerset Town Precinct 3
+25005001693,Somerset Town Precinct 4
+25005001694,Somerset Town Precinct 5
+25005001839,Swansea Town Precinct 1
+25005001840,Swansea Town Precinct 2
+25005001841,Swansea Town Precinct 3
+25005001842,Swansea Town Precinct 4
+25005001843,Swansea Town Precinct 5
+25005001844,Taunton City Ward 1 Precinct A
+25005001845,Taunton City Ward 1 Precinct B
+25005001846,Taunton City Ward 2 Precinct A
+25005001847,Taunton City Ward 2 Precinct B
+25005001848,Taunton City Ward 3 Precinct A
+25005001849,Taunton City Ward 3 Precinct B
+25005001850,Taunton City Ward 4 Precinct A
+25005001851,Taunton City Ward 4 Precinct B
+25005001852,Taunton City Ward 5 Precinct A
+25005001853,Taunton City Ward 5 Precinct B
+25005001854,Taunton City Ward 6 Precinct A
+25005001855,Taunton City Ward 6 Precinct B
+25005001856,Taunton City Ward 7 Precinct A
+25005001857,Taunton City Ward 7 Precinct B
+25005001858,Taunton City Ward 8 Precinct A
+25005001859,Taunton City Ward 8 Precinct B
+25005002013,Westport Town Precinct A
+25005002014,Westport Town Precinct B
+25005002015,Westport Town Precinct C
+25005002016,Westport Town Precinct D
+25005002017,Westport Town Precinct E
+25005ZZZZZZ,Voting Districts Not Defined
+25007000054,Aquinnah Town Precinct 1
+25007000613,Chilmark Town Precinct 1
+25007000707,Edgartown Town Precinct 1
+25007000837,Gosnold Town Precinct 1
+25007001450,Oak Bluffs Town Precinct 1
+25007001871,Tisbury Town Precinct 1
+25007001982,West Tisbury Town Precinct 1
+25009000029,Amesbury Town Precinct 1
+25009000030,Amesbury Town Precinct 2
+25009000031,Amesbury Town Precinct 3
+25009000032,Amesbury Town Precinct 4
+25009000033,Amesbury Town Precinct 5
+25009000034,Amesbury Town Precinct 6
+25009000045,Andover Town Precinct 1
+25009000046,Andover Town Precinct 2
+25009000047,Andover Town Precinct 3
+25009000048,Andover Town Precinct 4
+25009000049,Andover Town Precinct 5
+25009000050,Andover Town Precinct 6
+25009000051,Andover Town Precinct 7
+25009000052,Andover Town Precinct 8
+25009000053,Andover Town Precinct 9
+25009000148,Beverly City Ward 1 Precinct 1
+25009000149,Beverly City Ward 1 Precinct 2
+25009000150,Beverly City Ward 2 Precinct 1
+25009000151,Beverly City Ward 2 Precinct 2
+25009000152,Beverly City Ward 3 Precinct 1
+25009000153,Beverly City Ward 3 Precinct 2
+25009000154,Beverly City Ward 4 Precinct 1
+25009000155,Beverly City Ward 4 Precinct 2
+25009000156,Beverly City Ward 5 Precinct 1
+25009000157,Beverly City Ward 5 Precinct 2
+25009000158,Beverly City Ward 6 Precinct 1
+25009000159,Beverly City Ward 6 Precinct 2
+25009000438,Boxford Town Precinct 1
+25009000439,Boxford Town Precinct 2
+25009000440,Boxford Town Precinct 3
+25009000631,Danvers Town Precinct 1
+25009000632,Danvers Town Precinct 2
+25009000633,Danvers Town Precinct 3
+25009000634,Danvers Town Precinct 4
+25009000635,Danvers Town Precinct 5
+25009000636,Danvers Town Precinct 6
+25009000637,Danvers Town Precinct 7
+25009000638,Danvers Town Precinct 8
+25009000710,Essex Town Precinct 1
+25009000822,Georgetown Town Precinct 1
+25009000823,Georgetown Town Precinct 2
+25009000824,Georgetown Town Precinct 3
+25009000826,Gloucester City Ward 1 Precinct 1
+25009000827,Gloucester City Ward 1 Precinct 2
+25009000828,Gloucester City Ward 2 Precinct 1
+25009000829,Gloucester City Ward 2 Precinct 2
+25009000830,Gloucester City Ward 3 Precinct 1
+25009000831,Gloucester City Ward 3 Precinct 2
+25009000832,Gloucester City Ward 4 Precinct 1
+25009000833,Gloucester City Ward 4 Precinct 2
+25009000834,Gloucester City Ward 5 Precinct 1
+25009000835,Gloucester City Ward 5 Precinct 2
+25009000862,Groveland Town Precinct 1
+25009000863,Groveland Town Precinct 2
+25009000867,Hamilton Town Precinct 1
+25009000868,Hamilton Town Precinct 2
+25009000869,Hamilton Town Precinct 3
+25009000886,Haverhill City Ward 1 Precinct 1
+25009000887,Haverhill City Ward 1 Precinct 2
+25009000888,Haverhill City Ward 1 Precinct 3
+25009000889,Haverhill City Ward 2 Precinct 1
+25009000890,Haverhill City Ward 2 Precinct 2
+25009000891,Haverhill City Ward 2 Precinct 3
+25009000892,Haverhill City Ward 3 Precinct 1
+25009000893,Haverhill City Ward 3 Precinct 2
+25009000894,Haverhill City Ward 3 Precinct 3
+25009000895,Haverhill City Ward 4 Precinct 1
+25009000896,Haverhill City Ward 4 Precinct 2
+25009000897,Haverhill City Ward 4 Precinct 3
+25009000898,Haverhill City Ward 5 Precinct 1
+25009000899,Haverhill City Ward 5 Precinct 2
+25009000900,Haverhill City Ward 5 Precinct 3
+25009000901,Haverhill City Ward 6 Precinct 1
+25009000902,Haverhill City Ward 6 Precinct 2
+25009000903,Haverhill City Ward 6 Precinct 3
+25009000904,Haverhill City Ward 7 Precinct 1
+25009000905,Haverhill City Ward 7 Precinct 2
+25009000906,Haverhill City Ward 7 Precinct 3
+25009000961,Ipswich Town Precinct 1
+25009000962,Ipswich Town Precinct 2
+25009000963,Ipswich Town Precinct 3
+25009000964,Ipswich Town Precinct 4
+25009000975,Lawrence City Ward A Precinct 1
+25009000976,Lawrence City Ward A Precinct 2
+25009000977,Lawrence City Ward A Precinct 3
+25009000978,Lawrence City Ward A Precinct 4
+25009000979,Lawrence City Ward B Precinct 1
+25009000980,Lawrence City Ward B Precinct 2
+25009000981,Lawrence City Ward B Precinct 3
+25009000982,Lawrence City Ward B Precinct 4
+25009000983,Lawrence City Ward C Precinct 1
+25009000984,Lawrence City Ward C Precinct 2
+25009000985,Lawrence City Ward C Precinct 3
+25009000986,Lawrence City Ward C Precinct 4
+25009000987,Lawrence City Ward D Precinct 1
+25009000988,Lawrence City Ward D Precinct 2
+25009000989,Lawrence City Ward D Precinct 3
+25009000990,Lawrence City Ward D Precinct 4
+25009000991,Lawrence City Ward E Precinct 1
+25009000992,Lawrence City Ward E Precinct 2
+25009000993,Lawrence City Ward E Precinct 3
+25009000994,Lawrence City Ward E Precinct 4
+25009000995,Lawrence City Ward F Precinct 1
+25009000996,Lawrence City Ward F Precinct 2
+25009000997,Lawrence City Ward F Precinct 3
+25009000998,Lawrence City Ward F Precinct 4
+25009001084,Lynn City Ward 1 Precinct 1
+25009001085,Lynn City Ward 1 Precinct 2
+25009001086,Lynn City Ward 1 Precinct 3
+25009001087,Lynn City Ward 1 Precinct 4
+25009001088,Lynn City Ward 2 Precinct 1
+25009001089,Lynn City Ward 2 Precinct 2
+25009001090,Lynn City Ward 2 Precinct 3
+25009001091,Lynn City Ward 2 Precinct 4
+25009001092,Lynn City Ward 3 Precinct 1
+25009001093,Lynn City Ward 3 Precinct 2
+25009001094,Lynn City Ward 3 Precinct 3
+25009001095,Lynn City Ward 3 Precinct 4
+25009001096,Lynn City Ward 4 Precinct 1
+25009001097,Lynn City Ward 4 Precinct 2
+25009001098,Lynn City Ward 4 Precinct 3
+25009001099,Lynn City Ward 4 Precinct 4
+25009001100,Lynn City Ward 5 Precinct 1
+25009001101,Lynn City Ward 5 Precinct 2
+25009001102,Lynn City Ward 5 Precinct 3
+25009001103,Lynn City Ward 5 Precinct 4
+25009001104,Lynn City Ward 6 Precinct 1
+25009001105,Lynn City Ward 6 Precinct 2
+25009001106,Lynn City Ward 6 Precinct 3
+25009001107,Lynn City Ward 6 Precinct 4
+25009001108,Lynn City Ward 7 Precinct 1
+25009001109,Lynn City Ward 7 Precinct 2
+25009001110,Lynn City Ward 7 Precinct 3
+25009001111,Lynn City Ward 7 Precinct 4
+25009001112,Lynnfield Town Precinct 1
+25009001113,Lynnfield Town Precinct 2
+25009001114,Lynnfield Town Precinct 3
+25009001115,Lynnfield Town Precinct 4
+25009001132,Manchester-by-the-Sea Town Precinct 1
+25009001139,Marblehead Town Precinct 1
+25009001140,Marblehead Town Precinct 2
+25009001141,Marblehead Town Precinct 3
+25009001142,Marblehead Town Precinct 4
+25009001143,Marblehead Town Precinct 5
+25009001144,Marblehead Town Precinct 6
+25009001216,Merrimac Town Precinct 1
+25009001217,Merrimac Town Precinct 2
+25009001218,Methuen Town Precinct 1
+25009001219,Methuen Town Precinct 10
+25009001220,Methuen Town Precinct 11
+25009001221,Methuen Town Precinct 12
+25009001222,Methuen Town Precinct 2
+25009001223,Methuen Town Precinct 3
+25009001224,Methuen Town Precinct 4
+25009001225,Methuen Town Precinct 5
+25009001226,Methuen Town Precinct 6
+25009001227,Methuen Town Precinct 7
+25009001228,Methuen Town Precinct 8
+25009001229,Methuen Town Precinct 9
+25009001237,Middleton Town Precinct 1
+25009001238,Middleton Town Precinct 2
+25009001278,Nahant Town Precinct 1
+25009001340,Newbury Town Precinct 1
+25009001341,Newbury Town Precinct 2
+25009001342,Newburyport City Ward 1 Precinct 1
+25009001343,Newburyport City Ward 2 Precinct 1
+25009001344,Newburyport City Ward 3 Precinct 1
+25009001345,Newburyport City Ward 4 Precinct 1
+25009001346,Newburyport City Ward 5 Precinct 1
+25009001347,Newburyport City Ward 6 Precinct 1
+25009001388,North Andover Town Precinct 1
+25009001389,North Andover Town Precinct 2
+25009001390,North Andover Town Precinct 3
+25009001391,North Andover Town Precinct 4
+25009001392,North Andover Town Precinct 5
+25009001393,North Andover Town Precinct 6
+25009001394,North Andover Town Precinct 7
+25009001395,North Andover Town Precinct 8
+25009001465,Peabody City Ward 1 Precinct 1
+25009001466,Peabody City Ward 1 Precinct 2
+25009001467,Peabody City Ward 1 Precinct 3
+25009001468,Peabody City Ward 2 Precinct 1
+25009001469,Peabody City Ward 2 Precinct 2
+25009001470,Peabody City Ward 2 Precinct 3
+25009001471,Peabody City Ward 3 Precinct 1
+25009001472,Peabody City Ward 3 Precinct 2
+25009001473,Peabody City Ward 3 Precinct 3
+25009001474,Peabody City Ward 4 Precinct 1
+25009001475,Peabody City Ward 4 Precinct 2
+25009001476,Peabody City Ward 4 Precinct 3
+25009001477,Peabody City Ward 5 Precinct 1
+25009001478,Peabody City Ward 5 Precinct 2
+25009001479,Peabody City Ward 5 Precinct 3
+25009001480,Peabody City Ward 6 Precinct 1
+25009001481,Peabody City Ward 6 Precinct 2
+25009001482,Peabody City Ward 6 Precinct 3
+25009001614,Rockport Precinct 1
+25009001615,Rockport Precinct 2
+25009001616,Rockport Precinct 3
+25009001618,Rowley Town Precinct 1
+25009001625,Salem City Ward 1 Precinct 1
+25009001626,Salem City Ward 1 Precinct 2
+25009001627,Salem City Ward 2 Precinct 1
+25009001628,Salem City Ward 2 Precinct 2
+25009001629,Salem City Ward 3 Precinct 1
+25009001630,Salem City Ward 3 Precinct 2
+25009001631,Salem City Ward 4 Precinct 1
+25009001632,Salem City Ward 4 Precinct 2
+25009001633,Salem City Ward 5 Precinct 1
+25009001634,Salem City Ward 5 Precinct 2
+25009001635,Salem City Ward 6 Precinct 1
+25009001636,Salem City Ward 6 Precinct 2
+25009001637,Salem City Ward 7 Precinct 1
+25009001638,Salem City Ward 7 Precinct 2
+25009001639,Salisbury Town Precinct 1
+25009001640,Salisbury Town Precinct 2
+25009001641,Salisbury Town Precinct 3
+25009001649,Saugus Town Precinct 1
+25009001650,Saugus Town Precinct 10
+25009001651,Saugus Town Precinct 2
+25009001652,Saugus Town Precinct 3
+25009001653,Saugus Town Precinct 4
+25009001654,Saugus Town Precinct 5
+25009001655,Saugus Town Precinct 6
+25009001656,Saugus Town Precinct 7
+25009001657,Saugus Town Precinct 8
+25009001658,Saugus Town Precinct 9
+25009001833,Swampscott Town Precinct 1
+25009001834,Swampscott Town Precinct 2
+25009001835,Swampscott Town Precinct 3
+25009001836,Swampscott Town Precinct 4
+25009001837,Swampscott Town Precinct 5
+25009001838,Swampscott Town Precinct 6
+25009001873,Topsfield Town Precinct 1
+25009001966,Wenham Town Precinct 1
+25009001972,West Newbury Town Precinct 1
+25009ZZZZZZ,Voting Districts Not Defined
+25011000078,Ashfield Town Precinct 1
+25011000147,Bernardston Town Precinct 1
+25011000510,Buckland Town Precinct 1
+25011000561,Charlemont Town Precinct 1
+25011000621,Colrain Town Precinct 1
+25011000627,Conway Town Precinct 1
+25011000655,Deerfield Town Precinct 1
+25011000709,Erving Town Precinct 1
+25011000825,Gill Town Precinct 1
+25011000850,Greenfield Town Precinct 1
+25011000851,Greenfield Town Precinct 2
+25011000852,Greenfield Town Precinct 3
+25011000853,Greenfield Town Precinct 4
+25011000854,Greenfield Town Precinct 5
+25011000855,Greenfield Town Precinct 6
+25011000856,Greenfield Town Precinct 7
+25011000857,Greenfield Town Precinct 8
+25011000858,Greenfield Town Precinct 9
+25011000907,Hawley Town Precinct 1
+25011000908,Heath Town Precinct 1
+25011001020,Leverett Town Precinct 1
+25011001030,Leyden Town Precinct 1
+25011001265,Monroe Town Precinct 1
+25011001269,Montague Town Precinct 1
+25011001270,Montague Town Precinct 2
+25011001271,Montague Town Precinct 3
+25011001272,Montague Town Precinct 4
+25011001273,Montague Town Precinct 5
+25011001274,Montague Town Precinct 6
+25011001339,New Salem Town Precinct 1
+25011001432,Northfield Town Precinct 1
+25011001452,Orange Town Precinct 1
+25011001453,Orange Town Precinct 2
+25011001617,Rowe Town Precinct 1
+25011001676,Shelburne Town Precinct 1
+25011001689,Shutesbury Town Precinct 1
+25011001829,Sunderland Town Precinct 1
+25011001933,Warwick Town Precinct 1
+25011001965,Wendell Town Precinct 1
+25011002040,Whately Town Precinct 1
+25013000020,Agawam Town Precinct 1
+25013000021,Agawam Town Precinct 2
+25013000022,Agawam Town Precinct 3
+25013000023,Agawam Town Precinct 4
+25013000024,Agawam Town Precinct 5
+25013000025,Agawam Town Precinct 6
+25013000026,Agawam Town Precinct 7
+25013000027,Agawam Town Precinct 8
+25013000174,Blandford Town Precinct 1
+25013000464,Brimfield Town Precinct 1
+25013000593,Chester Town Precinct 1
+25013000595,Chicopee City Ward 1 Precinct A
+25013000596,Chicopee City Ward 1 Precinct B
+25013000597,Chicopee City Ward 2 Precinct A
+25013000598,Chicopee City Ward 2 Precinct B
+25013000599,Chicopee City Ward 3 Precinct A
+25013000600,Chicopee City Ward 3 Precinct B
+25013000601,Chicopee City Ward 4 Precinct A
+25013000602,Chicopee City Ward 4 Precinct B
+25013000603,Chicopee City Ward 5 Precinct A
+25013000604,Chicopee City Ward 5 Precinct B
+25013000605,Chicopee City Ward 6 Precinct A
+25013000606,Chicopee City Ward 6 Precinct B
+25013000607,Chicopee City Ward 7 Precinct A
+25013000608,Chicopee City Ward 7 Precinct B
+25013000609,Chicopee City Ward 8 Precinct A
+25013000610,Chicopee City Ward 8 Precinct B
+25013000611,Chicopee City Ward 9 Precinct A
+25013000612,Chicopee City Ward 9 Precinct B
+25013000691,East Longmeadow Town Precinct 1
+25013000692,East Longmeadow Town Precinct 2
+25013000693,East Longmeadow Town Precinct 3
+25013000694,East Longmeadow Town Precinct 4
+25013000845,Granville Town Precinct 1
+25013000870,Hampden Town Precinct 1
+25013000925,Holland Town Precinct 1
+25013000930,Holyoke City Ward 1 Precinct A
+25013000931,Holyoke City Ward 1 Precinct B
+25013000932,Holyoke City Ward 2 Precinct A
+25013000933,Holyoke City Ward 2 Precinct B
+25013000934,Holyoke City Ward 3 Precinct A
+25013000935,Holyoke City Ward 3 Precinct B
+25013000936,Holyoke City Ward 4 Precinct A
+25013000937,Holyoke City Ward 4 Precinct B
+25013000938,Holyoke City Ward 5 Precinct A
+25013000939,Holyoke City Ward 5 Precinct B
+25013000940,Holyoke City Ward 6 Precinct A
+25013000941,Holyoke City Ward 6 Precinct B
+25013000942,Holyoke City Ward 7 Precinct A
+25013000943,Holyoke City Ward 7 Precinct B
+25013001036,Longmeadow Town Precinct A
+25013001037,Longmeadow Town Precinct B
+25013001038,Longmeadow Town Precinct C
+25013001039,Longmeadow Town Precinct D
+25013001040,Longmeadow Town Precinct E
+25013001074,Ludlow Town Precinct 1
+25013001075,Ludlow Town Precinct 2
+25013001076,Ludlow Town Precinct 3
+25013001077,Ludlow Town Precinct 4
+25013001078,Ludlow Town Precinct 5
+25013001079,Ludlow Town Precinct 6
+25013001266,Monson Town Precinct A
+25013001267,Monson Town Precinct B
+25013001268,Monson Town Precinct C
+25013001276,Montgomery Town Precinct 1
+25013001460,Palmer Town Precinct 1
+25013001461,Palmer Town Precinct 2
+25013001462,Palmer Town Precinct 3
+25013001463,Palmer Town Precinct 4
+25013001621,Russell Town Precinct 1
+25013001730,Southwick Town Precinct 1
+25013001731,Southwick Town Precinct 2
+25013001732,Southwick Town Precinct 3
+25013001737,Springfield City Ward 1 Precinct A
+25013001738,Springfield City Ward 1 Precinct B
+25013001739,Springfield City Ward 1 Precinct C
+25013001740,Springfield City Ward 1 Precinct D
+25013001741,Springfield City Ward 1 Precinct E
+25013001742,Springfield City Ward 1 Precinct F
+25013001743,Springfield City Ward 1 Precinct G
+25013001744,Springfield City Ward 1 Precinct H
+25013001745,Springfield City Ward 2 Precinct A
+25013001746,Springfield City Ward 2 Precinct B
+25013001747,Springfield City Ward 2 Precinct C
+25013001748,Springfield City Ward 2 Precinct D
+25013001749,Springfield City Ward 2 Precinct E
+25013001750,Springfield City Ward 2 Precinct F
+25013001751,Springfield City Ward 2 Precinct G
+25013001752,Springfield City Ward 2 Precinct H
+25013001753,Springfield City Ward 3 Precinct A
+25013001754,Springfield City Ward 3 Precinct B
+25013001755,Springfield City Ward 3 Precinct C
+25013001756,Springfield City Ward 3 Precinct D
+25013001757,Springfield City Ward 3 Precinct E
+25013001758,Springfield City Ward 3 Precinct F
+25013001759,Springfield City Ward 3 Precinct G
+25013001760,Springfield City Ward 3 Precinct H
+25013001761,Springfield City Ward 4 Precinct A
+25013001762,Springfield City Ward 4 Precinct B
+25013001763,Springfield City Ward 4 Precinct C
+25013001764,Springfield City Ward 4 Precinct D
+25013001765,Springfield City Ward 4 Precinct E
+25013001766,Springfield City Ward 4 Precinct F
+25013001767,Springfield City Ward 4 Precinct G
+25013001768,Springfield City Ward 4 Precinct H
+25013001769,Springfield City Ward 5 Precinct A
+25013001770,Springfield City Ward 5 Precinct B
+25013001771,Springfield City Ward 5 Precinct C
+25013001772,Springfield City Ward 5 Precinct D
+25013001773,Springfield City Ward 5 Precinct E
+25013001774,Springfield City Ward 5 Precinct F
+25013001775,Springfield City Ward 5 Precinct G
+25013001776,Springfield City Ward 5 Precinct H
+25013001777,Springfield City Ward 6 Precinct A
+25013001778,Springfield City Ward 6 Precinct B
+25013001779,Springfield City Ward 6 Precinct C
+25013001780,Springfield City Ward 6 Precinct D
+25013001781,Springfield City Ward 6 Precinct E
+25013001782,Springfield City Ward 6 Precinct F
+25013001783,Springfield City Ward 6 Precinct G
+25013001784,Springfield City Ward 6 Precinct H
+25013001785,Springfield City Ward 7 Precinct A
+25013001786,Springfield City Ward 7 Precinct B
+25013001787,Springfield City Ward 7 Precinct C
+25013001788,Springfield City Ward 7 Precinct D
+25013001789,Springfield City Ward 7 Precinct E
+25013001790,Springfield City Ward 7 Precinct F
+25013001791,Springfield City Ward 7 Precinct G
+25013001792,Springfield City Ward 7 Precinct H
+25013001793,Springfield City Ward 8 Precinct A
+25013001794,Springfield City Ward 8 Precinct B
+25013001795,Springfield City Ward 8 Precinct C
+25013001796,Springfield City Ward 8 Precinct D
+25013001797,Springfield City Ward 8 Precinct E
+25013001798,Springfield City Ward 8 Precinct F
+25013001799,Springfield City Ward 8 Precinct G
+25013001800,Springfield City Ward 8 Precinct H
+25013001872,Tolland Town Precinct 1
+25013001896,Wales Town Precinct 1
+25013001973,West Springfield Town Precinct 1
+25013001974,West Springfield Town Precinct 2
+25013001975,West Springfield Town Precinct 3
+25013001976,West Springfield Town Precinct 4
+25013001977,West Springfield Town Precinct 5
+25013001978,West Springfield Town Precinct 6
+25013001979,West Springfield Town Precinct 7
+25013001980,West Springfield Town Precinct 8
+25013001988,Westfield City Ward 1 Precinct A
+25013001989,Westfield City Ward 1 Precinct B
+25013001990,Westfield City Ward 2 Precinct A
+25013001991,Westfield City Ward 2 Precinct B
+25013001992,Westfield City Ward 3 Precinct A
+25013001993,Westfield City Ward 3 Precinct B
+25013001994,Westfield City Ward 4 Precinct A
+25013001995,Westfield City Ward 4 Precinct B
+25013001996,Westfield City Ward 5 Precinct A
+25013001997,Westfield City Ward 5 Precinct B
+25013001998,Westfield City Ward 6 Precinct A
+25013001999,Westfield City Ward 6 Precinct B
+25013002045,Wilbraham Town Precinct A
+25013002046,Wilbraham Town Precinct B
+25013002047,Wilbraham Town Precinct C
+25013002048,Wilbraham Town Precinct D
+25015000035,Amherst Town Precinct 1
+25015000036,Amherst Town Precinct 10
+25015000037,Amherst Town Precinct 2
+25015000038,Amherst Town Precinct 3
+25015000039,Amherst Town Precinct 4
+25015000040,Amherst Town Precinct 5
+25015000041,Amherst Town Precinct 6
+25015000042,Amherst Town Precinct 7
+25015000043,Amherst Town Precinct 8
+25015000044,Amherst Town Precinct 9
+25015000127,Belchertown Town Precinct A
+25015000128,Belchertown Town Precinct B
+25015000129,Belchertown Town Precinct C
+25015000130,Belchertown Town Precinct D
+25015000594,Chesterfield Town Precinct 1
+25015000628,Cummington Town Precinct 1
+25015000696,Easthampton City Precinct 1
+25015000697,Easthampton City Precinct 2
+25015000698,Easthampton City Precinct 3
+25015000699,Easthampton City Precinct 4
+25015000700,Easthampton City Precinct 5
+25015000836,Goshen Town Precinct 1
+25015000843,Granby Town Precinct 1
+25015000844,Granby Town Precinct 2
+25015000864,Hadley Town Precinct 1
+25015000885,Hatfield Town Precinct 1
+25015000960,Huntington Town Precinct 1
+25015001236,Middlefield Town Precinct 1
+25015001410,Northampton City Ward 1 Precinct A
+25015001411,Northampton City Ward 1 Precinct B
+25015001412,Northampton City Ward 2 Precinct A
+25015001413,Northampton City Ward 2 Precinct B
+25015001414,Northampton City Ward 3 Precinct A
+25015001415,Northampton City Ward 3 Precinct B
+25015001416,Northampton City Ward 4 Precinct A
+25015001417,Northampton City Ward 4 Precinct B
+25015001418,Northampton City Ward 5 Precinct A
+25015001419,Northampton City Ward 5 Precinct B
+25015001420,Northampton City Ward 6 Precinct A
+25015001421,Northampton City Ward 6 Precinct B
+25015001422,Northampton City Ward 7 Precinct A
+25015001423,Northampton City Ward 7 Precinct B
+25015001483,Pelham Town Precinct 1
+25015001509,Plainfield Town Precinct 1
+25015001716,South Hadley Town Precinct A
+25015001717,South Hadley Town Precinct B
+25015001718,South Hadley Town Precinct C
+25015001719,South Hadley Town Precinct D
+25015001720,South Hadley Town Precinct E
+25015001721,Southampton Town Precinct 1
+25015001923,Ware Town Precinct A
+25015001924,Ware Town Precinct B
+25015001925,Ware Town Precinct C
+25015002006,Westhampton Town Precinct 1
+25015002049,Williamsburg Town Precinct 1
+25015002141,Worthington Town Precinct 1
+25017000006,Acton Town Precinct 1
+25017000007,Acton Town Precinct 2
+25017000008,Acton Town Precinct 3
+25017000009,Acton Town Precinct 4
+25017000010,Acton Town Precinct 5
+25017000011,Acton Town Precinct 6
+25017000055,Arlington Town Precinct 1
+25017000056,Arlington Town Precinct 10
+25017000057,Arlington Town Precinct 11
+25017000058,Arlington Town Precinct 12
+25017000059,Arlington Town Precinct 13
+25017000060,Arlington Town Precinct 14
+25017000061,Arlington Town Precinct 15
+25017000062,Arlington Town Precinct 16
+25017000063,Arlington Town Precinct 17
+25017000064,Arlington Town Precinct 18
+25017000065,Arlington Town Precinct 19
+25017000066,Arlington Town Precinct 2
+25017000067,Arlington Town Precinct 20
+25017000068,Arlington Town Precinct 21
+25017000069,Arlington Town Precinct 3
+25017000070,Arlington Town Precinct 4
+25017000071,Arlington Town Precinct 5
+25017000072,Arlington Town Precinct 6
+25017000073,Arlington Town Precinct 7
+25017000074,Arlington Town Precinct 8
+25017000075,Arlington Town Precinct 9
+25017000077,Ashby Town Precinct 1
+25017000079,Ashland Town Precinct 1
+25017000080,Ashland Town Precinct 2
+25017000081,Ashland Town Precinct 3
+25017000082,Ashland Town Precinct 4
+25017000083,Ashland Town Precinct 5
+25017000105,Ayer Town Precinct 1
+25017000106,Ayer Town Precinct 2
+25017000123,Bedford Town Precinct 1
+25017000124,Bedford Town Precinct 2
+25017000125,Bedford Town Precinct 3
+25017000126,Bedford Town Precinct 4
+25017000136,Belmont Town Precinct 1
+25017000137,Belmont Town Precinct 2
+25017000138,Belmont Town Precinct 3
+25017000139,Belmont Town Precinct 4
+25017000140,Belmont Town Precinct 5
+25017000141,Belmont Town Precinct 6
+25017000142,Belmont Town Precinct 7
+25017000143,Belmont Town Precinct 8
+25017000160,Billerica Town Precinct 1
+25017000161,Billerica Town Precinct 10
+25017000162,Billerica Town Precinct 11
+25017000163,Billerica Town Precinct 2
+25017000164,Billerica Town Precinct 3
+25017000165,Billerica Town Precinct 4
+25017000166,Billerica Town Precinct 5
+25017000167,Billerica Town Precinct 6
+25017000168,Billerica Town Precinct 7
+25017000169,Billerica Town Precinct 8
+25017000170,Billerica Town Precinct 9
+25017000437,Boxborough Town Precinct 1
+25017000511,Burlington Town Precinct 1
+25017000512,Burlington Town Precinct 2
+25017000513,Burlington Town Precinct 3
+25017000514,Burlington Town Precinct 4
+25017000515,Burlington Town Precinct 5
+25017000516,Burlington Town Precinct 6
+25017000517,Burlington Town Precinct 7
+25017000518,Cambridge City Ward 1 Precinct 1
+25017000519,Cambridge City Ward 1 Precinct 2
+25017000520,Cambridge City Ward 1 Precinct 3
+25017000521,Cambridge City Ward 10 Precinct 1
+25017000522,Cambridge City Ward 10 Precinct 2
+25017000523,Cambridge City Ward 10 Precinct 3
+25017000524,Cambridge City Ward 11 Precinct 1
+25017000525,Cambridge City Ward 11 Precinct 2
+25017000526,Cambridge City Ward 11 Precinct 3
+25017000527,Cambridge City Ward 2 Precinct 1
+25017000528,Cambridge City Ward 2 Precinct 2
+25017000529,Cambridge City Ward 2 Precinct 3
+25017000530,Cambridge City Ward 3 Precinct 1
+25017000531,Cambridge City Ward 3 Precinct 2
+25017000532,Cambridge City Ward 3 Precinct 3
+25017000533,Cambridge City Ward 4 Precinct 1
+25017000534,Cambridge City Ward 4 Precinct 2
+25017000535,Cambridge City Ward 4 Precinct 3
+25017000536,Cambridge City Ward 5 Precinct 1
+25017000537,Cambridge City Ward 5 Precinct 2
+25017000538,Cambridge City Ward 5 Precinct 3
+25017000539,Cambridge City Ward 6 Precinct 1
+25017000540,Cambridge City Ward 6 Precinct 2
+25017000541,Cambridge City Ward 6 Precinct 3
+25017000542,Cambridge City Ward 7 Precinct 1
+25017000543,Cambridge City Ward 7 Precinct 2
+25017000544,Cambridge City Ward 7 Precinct 3
+25017000545,Cambridge City Ward 8 Precinct 1
+25017000546,Cambridge City Ward 8 Precinct 2
+25017000547,Cambridge City Ward 8 Precinct 3
+25017000548,Cambridge City Ward 9 Precinct 1
+25017000549,Cambridge City Ward 9 Precinct 2
+25017000550,Cambridge City Ward 9 Precinct 3
+25017000557,Carlisle Town Precinct 1
+25017000567,Chelmsford Town Precinct 1
+25017000568,Chelmsford Town Precinct 2
+25017000569,Chelmsford Town Precinct 3
+25017000570,Chelmsford Town Precinct 4
+25017000571,Chelmsford Town Precinct 5
+25017000572,Chelmsford Town Precinct 6
+25017000573,Chelmsford Town Precinct 7
+25017000574,Chelmsford Town Precinct 8
+25017000575,Chelmsford Town Precinct 9
+25017000622,Concord Town Precinct 1
+25017000623,Concord Town Precinct 2
+25017000624,Concord Town Precinct 3
+25017000625,Concord Town Precinct 4
+25017000626,Concord Town Precinct 5
+25017000667,Dracut Town Precinct 1
+25017000668,Dracut Town Precinct 2
+25017000669,Dracut Town Precinct 3
+25017000670,Dracut Town Precinct 4
+25017000671,Dracut Town Precinct 5
+25017000672,Dracut Town Precinct 6
+25017000673,Dracut Town Precinct 7
+25017000674,Dracut Town Precinct 8
+25017000675,Dracut Town Precinct 9
+25017000679,Dunstable Town Precinct 1
+25017000711,Everett City Ward 1 Precinct 1
+25017000712,Everett City Ward 1 Precinct 2
+25017000713,Everett City Ward 2 Precinct 1
+25017000714,Everett City Ward 2 Precinct 2
+25017000715,Everett City Ward 3 Precinct 1
+25017000716,Everett City Ward 3 Precinct 2
+25017000717,Everett City Ward 4 Precinct 1
+25017000718,Everett City Ward 4 Precinct 2
+25017000719,Everett City Ward 5 Precinct 1
+25017000720,Everett City Ward 5 Precinct 2
+25017000721,Everett City Ward 6 Precinct 1
+25017000722,Everett City Ward 6 Precinct 2
+25017000783,Framingham Town Precinct 1
+25017000784,Framingham Town Precinct 10
+25017000785,Framingham Town Precinct 11
+25017000786,Framingham Town Precinct 12
+25017000787,Framingham Town Precinct 13
+25017000788,Framingham Town Precinct 14
+25017000789,Framingham Town Precinct 15
+25017000790,Framingham Town Precinct 16
+25017000791,Framingham Town Precinct 17
+25017000792,Framingham Town Precinct 18
+25017000793,Framingham Town Precinct 2
+25017000794,Framingham Town Precinct 3
+25017000795,Framingham Town Precinct 4
+25017000796,Framingham Town Precinct 5
+25017000797,Framingham Town Precinct 6
+25017000798,Framingham Town Precinct 7
+25017000799,Framingham Town Precinct 8
+25017000800,Framingham Town Precinct 9
+25017000859,Groton Town Precinct 1
+25017000860,Groton Town Precinct 2
+25017000861,Groton Town Precinct 3
+25017000926,Holliston Town Precinct 1
+25017000927,Holliston Town Precinct 2
+25017000928,Holliston Town Precinct 3
+25017000929,Holliston Town Precinct 4
+25017000945,Hopkinton Town Precinct 1
+25017000946,Hopkinton Town Precinct 2
+25017000947,Hopkinton Town Precinct 3
+25017000948,Hopkinton Town Precinct 4
+25017000950,Hudson Town Precinct 1
+25017000951,Hudson Town Precinct 2
+25017000952,Hudson Town Precinct 3
+25017000953,Hudson Town Precinct 4
+25017000954,Hudson Town Precinct 5
+25017000955,Hudson Town Precinct 6
+25017000956,Hudson Town Precinct 7
+25017001021,Lexington Town Precinct 1
+25017001022,Lexington Town Precinct 2
+25017001023,Lexington Town Precinct 3
+25017001024,Lexington Town Precinct 4
+25017001025,Lexington Town Precinct 5
+25017001026,Lexington Town Precinct 6
+25017001027,Lexington Town Precinct 7
+25017001028,Lexington Town Precinct 8
+25017001029,Lexington Town Precinct 9
+25017001031,Lincoln Town Precinct 1
+25017001032,Lincoln Town Precinct 2
+25017001033,Littleton Town Precinct 1
+25017001034,Littleton Town Precinct 2
+25017001035,Littleton Town Precinct 3
+25017001041,Lowell City Ward 1 Precinct 1
+25017001042,Lowell City Ward 1 Precinct 2
+25017001043,Lowell City Ward 1 Precinct 3
+25017001044,Lowell City Ward 10 Precinct 1
+25017001045,Lowell City Ward 10 Precinct 2
+25017001046,Lowell City Ward 10 Precinct 3
+25017001047,Lowell City Ward 11 Precinct 1
+25017001048,Lowell City Ward 11 Precinct 2
+25017001049,Lowell City Ward 11 Precinct 3
+25017001050,Lowell City Ward 2 Precinct 1
+25017001051,Lowell City Ward 2 Precinct 2
+25017001052,Lowell City Ward 2 Precinct 3
+25017001053,Lowell City Ward 3 Precinct 1
+25017001054,Lowell City Ward 3 Precinct 2
+25017001055,Lowell City Ward 3 Precinct 3
+25017001056,Lowell City Ward 4 Precinct 1
+25017001057,Lowell City Ward 4 Precinct 2
+25017001058,Lowell City Ward 4 Precinct 3
+25017001059,Lowell City Ward 5 Precinct 1
+25017001060,Lowell City Ward 5 Precinct 2
+25017001061,Lowell City Ward 5 Precinct 3
+25017001062,Lowell City Ward 6 Precinct 1
+25017001063,Lowell City Ward 6 Precinct 2
+25017001064,Lowell City Ward 6 Precinct 3
+25017001065,Lowell City Ward 7 Precinct 1
+25017001066,Lowell City Ward 7 Precinct 2
+25017001067,Lowell City Ward 7 Precinct 3
+25017001068,Lowell City Ward 8 Precinct 1
+25017001069,Lowell City Ward 8 Precinct 2
+25017001070,Lowell City Ward 8 Precinct 3
+25017001071,Lowell City Ward 9 Precinct 1
+25017001072,Lowell City Ward 9 Precinct 2
+25017001073,Lowell City Ward 9 Precinct 3
+25017001116,Malden City Ward 1 Precinct 1
+25017001117,Malden City Ward 1 Precinct 2
+25017001118,Malden City Ward 2 Precinct 1
+25017001119,Malden City Ward 2 Precinct 2
+25017001120,Malden City Ward 3 Precinct 1
+25017001121,Malden City Ward 3 Precinct 2
+25017001122,Malden City Ward 4 Precinct 1
+25017001123,Malden City Ward 4 Precinct 2
+25017001124,Malden City Ward 5 Precinct 1
+25017001125,Malden City Ward 5 Precinct 2
+25017001126,Malden City Ward 6 Precinct 1
+25017001127,Malden City Ward 6 Precinct 2
+25017001128,Malden City Ward 7 Precinct 1
+25017001129,Malden City Ward 7 Precinct 2
+25017001130,Malden City Ward 8 Precinct 1
+25017001131,Malden City Ward 8 Precinct 2
+25017001146,Marlborough City Ward 1 Precinct 1
+25017001147,Marlborough City Ward 1 Precinct 2
+25017001148,Marlborough City Ward 2 Precinct 1
+25017001149,Marlborough City Ward 2 Precinct 2
+25017001150,Marlborough City Ward 3 Precinct 1
+25017001151,Marlborough City Ward 3 Precinct 2
+25017001152,Marlborough City Ward 4 Precinct 1
+25017001153,Marlborough City Ward 4 Precinct 2
+25017001154,Marlborough City Ward 5 Precinct 1
+25017001155,Marlborough City Ward 5 Precinct 2
+25017001156,Marlborough City Ward 6 Precinct 1
+25017001157,Marlborough City Ward 6 Precinct 2
+25017001158,Marlborough City Ward 7 Precinct 1
+25017001159,Marlborough City Ward 7 Precinct 2
+25017001173,Maynard Town Precinct 1
+25017001174,Maynard Town Precinct 2
+25017001175,Maynard Town Precinct 3
+25017001176,Maynard Town Precinct 4
+25017001181,Medford City Ward 1 Precinct 1
+25017001182,Medford City Ward 1 Precinct 2
+25017001183,Medford City Ward 2 Precinct 1
+25017001184,Medford City Ward 2 Precinct 2
+25017001185,Medford City Ward 3 Precinct 1
+25017001186,Medford City Ward 3 Precinct 2
+25017001187,Medford City Ward 4 Precinct 1
+25017001188,Medford City Ward 4 Precinct 2
+25017001189,Medford City Ward 5 Precinct 1
+25017001190,Medford City Ward 5 Precinct 2
+25017001191,Medford City Ward 6 Precinct 1
+25017001192,Medford City Ward 6 Precinct 2
+25017001193,Medford City Ward 7 Precinct 1
+25017001194,Medford City Ward 7 Precinct 2
+25017001195,Medford City Ward 8 Precinct 1
+25017001196,Medford City Ward 8 Precinct 2
+25017001201,Melrose City Ward 1 Precinct 1
+25017001202,Melrose City Ward 1 Precinct 2
+25017001203,Melrose City Ward 2 Precinct 1
+25017001204,Melrose City Ward 2 Precinct 2
+25017001205,Melrose City Ward 3 Precinct 1
+25017001206,Melrose City Ward 3 Precinct 2
+25017001207,Melrose City Ward 4 Precinct 1
+25017001208,Melrose City Ward 4 Precinct 2
+25017001209,Melrose City Ward 5 Precinct 1
+25017001210,Melrose City Ward 5 Precinct 2
+25017001211,Melrose City Ward 6 Precinct 1
+25017001212,Melrose City Ward 6 Precinct 2
+25017001213,Melrose City Ward 7 Precinct 1
+25017001214,Melrose City Ward 7 Precinct 2
+25017001280,Natick Town Precinct 1
+25017001281,Natick Town Precinct 10
+25017001282,Natick Town Precinct 2
+25017001283,Natick Town Precinct 3
+25017001284,Natick Town Precinct 4
+25017001285,Natick Town Precinct 5
+25017001286,Natick Town Precinct 6
+25017001287,Natick Town Precinct 7
+25017001288,Natick Town Precinct 8
+25017001289,Natick Town Precinct 9
+25017001348,Newton City Ward 1 Precinct 1
+25017001349,Newton City Ward 1 Precinct 2
+25017001350,Newton City Ward 1 Precinct 3
+25017001351,Newton City Ward 1 Precinct 4
+25017001352,Newton City Ward 2 Precinct 1
+25017001353,Newton City Ward 2 Precinct 2
+25017001354,Newton City Ward 2 Precinct 3
+25017001355,Newton City Ward 2 Precinct 4
+25017001356,Newton City Ward 3 Precinct 1
+25017001357,Newton City Ward 3 Precinct 2
+25017001358,Newton City Ward 3 Precinct 3
+25017001359,Newton City Ward 3 Precinct 4
+25017001360,Newton City Ward 4 Precinct 1
+25017001361,Newton City Ward 4 Precinct 2
+25017001362,Newton City Ward 4 Precinct 3
+25017001363,Newton City Ward 4 Precinct 4
+25017001364,Newton City Ward 5 Precinct 1
+25017001365,Newton City Ward 5 Precinct 2
+25017001366,Newton City Ward 5 Precinct 3
+25017001367,Newton City Ward 5 Precinct 4
+25017001368,Newton City Ward 6 Precinct 1
+25017001369,Newton City Ward 6 Precinct 2
+25017001370,Newton City Ward 6 Precinct 3
+25017001371,Newton City Ward 6 Precinct 4
+25017001372,Newton City Ward 7 Precinct 1
+25017001373,Newton City Ward 7 Precinct 2
+25017001374,Newton City Ward 7 Precinct 3
+25017001375,Newton City Ward 7 Precinct 4
+25017001376,Newton City Ward 8 Precinct 1
+25017001377,Newton City Ward 8 Precinct 2
+25017001378,Newton City Ward 8 Precinct 3
+25017001379,Newton City Ward 8 Precinct 4
+25017001406,North Reading Town Precinct 1
+25017001407,North Reading Town Precinct 2
+25017001408,North Reading Town Precinct 3
+25017001409,North Reading Town Precinct 4
+25017001489,Pepperell Town Precinct 1
+25017001490,Pepperell Town Precinct 2
+25017001491,Pepperell Town Precinct 3
+25017001577,Reading Town Precinct 1
+25017001578,Reading Town Precinct 2
+25017001579,Reading Town Precinct 3
+25017001580,Reading Town Precinct 4
+25017001581,Reading Town Precinct 5
+25017001582,Reading Town Precinct 6
+25017001583,Reading Town Precinct 7
+25017001584,Reading Town Precinct 8
+25017001677,Sherborn Town Precinct 1
+25017001678,Shirley Town Precinct 1
+25017001695,Somerville City Ward 1 Precinct 1
+25017001696,Somerville City Ward 1 Precinct 2
+25017001697,Somerville City Ward 1 Precinct 3
+25017001698,Somerville City Ward 2 Precinct 1
+25017001699,Somerville City Ward 2 Precinct 2
+25017001700,Somerville City Ward 2 Precinct 3
+25017001701,Somerville City Ward 3 Precinct 1
+25017001702,Somerville City Ward 3 Precinct 2
+25017001703,Somerville City Ward 3 Precinct 3
+25017001704,Somerville City Ward 4 Precinct 1
+25017001705,Somerville City Ward 4 Precinct 2
+25017001706,Somerville City Ward 4 Precinct 3
+25017001707,Somerville City Ward 5 Precinct 1
+25017001708,Somerville City Ward 5 Precinct 2
+25017001709,Somerville City Ward 5 Precinct 3
+25017001710,Somerville City Ward 6 Precinct 1
+25017001711,Somerville City Ward 6 Precinct 2
+25017001712,Somerville City Ward 6 Precinct 3
+25017001713,Somerville City Ward 7 Precinct 1
+25017001714,Somerville City Ward 7 Precinct 2
+25017001715,Somerville City Ward 7 Precinct 3
+25017001804,Stoneham Town Precinct 1
+25017001805,Stoneham Town Precinct 2
+25017001806,Stoneham Town Precinct 3
+25017001807,Stoneham Town Precinct 4
+25017001808,Stoneham Town Precinct 5
+25017001809,Stoneham Town Precinct 6
+25017001810,Stoneham Town Precinct 7
+25017001819,Stow Town Precinct 1
+25017001820,Stow Town Precinct 2
+25017001824,Sudbury Town Precinct 1
+25017001825,Sudbury Town Precinct 2
+25017001826,Sudbury Town Precinct 3
+25017001827,Sudbury Town Precinct 4
+25017001828,Sudbury Town Precinct 5
+25017001863,Tewksbury Town Precinct 1
+25017001864,Tewksbury Town Precinct 1A
+25017001865,Tewksbury Town Precinct 2
+25017001866,Tewksbury Town Precinct 2A
+25017001867,Tewksbury Town Precinct 3
+25017001868,Tewksbury Town Precinct 3A
+25017001869,Tewksbury Town Precinct 4
+25017001870,Tewksbury Town Precinct 4A
+25017001874,Townsend Town Precinct 1
+25017001875,Townsend Town Precinct 2
+25017001876,Townsend Town Precinct 3
+25017001878,Tyngsborough Town Precinct 1
+25017001879,Tyngsborough Town Precinct 2
+25017001880,Tyngsborough Town Precinct 3
+25017001881,Tyngsborough Town Precinct 4
+25017001889,Wakefield Town Precinct 1
+25017001890,Wakefield Town Precinct 2
+25017001891,Wakefield Town Precinct 3
+25017001892,Wakefield Town Precinct 4
+25017001893,Wakefield Town Precinct 5
+25017001894,Wakefield Town Precinct 6
+25017001895,Wakefield Town Precinct 7
+25017001905,Waltham City Ward 1 Precinct 1
+25017001906,Waltham City Ward 1 Precinct 2
+25017001907,Waltham City Ward 2 Precinct 1
+25017001908,Waltham City Ward 2 Precinct 2
+25017001909,Waltham City Ward 3 Precinct 1
+25017001910,Waltham City Ward 3 Precinct 2
+25017001911,Waltham City Ward 4 Precinct 1
+25017001912,Waltham City Ward 4 Precinct 2
+25017001913,Waltham City Ward 5 Precinct 1
+25017001914,Waltham City Ward 5 Precinct 2
+25017001915,Waltham City Ward 6 Precinct 1
+25017001916,Waltham City Ward 6 Precinct 2
+25017001917,Waltham City Ward 7 Precinct 1
+25017001918,Waltham City Ward 7 Precinct 2
+25017001919,Waltham City Ward 8 Precinct 1
+25017001920,Waltham City Ward 8 Precinct 2
+25017001921,Waltham City Ward 9 Precinct 1
+25017001922,Waltham City Ward 9 Precinct 2
+25017001935,Watertown Town Precinct 1
+25017001936,Watertown Town Precinct 10
+25017001937,Watertown Town Precinct 11
+25017001938,Watertown Town Precinct 12
+25017001939,Watertown Town Precinct 2
+25017001940,Watertown Town Precinct 3
+25017001941,Watertown Town Precinct 4
+25017001942,Watertown Town Precinct 5
+25017001943,Watertown Town Precinct 6
+25017001944,Watertown Town Precinct 7
+25017001945,Watertown Town Precinct 8
+25017001946,Watertown Town Precinct 9
+25017001947,Wayland Town Precinct 1
+25017001948,Wayland Town Precinct 2
+25017001949,Wayland Town Precinct 3
+25017001950,Wayland Town Precinct 4
+25017002000,Westford Town Precinct 1
+25017002001,Westford Town Precinct 2
+25017002002,Westford Town Precinct 3
+25017002003,Westford Town Precinct 4
+25017002004,Westford Town Precinct 5
+25017002005,Westford Town Precinct 6
+25017002009,Weston Town Precinct 1
+25017002010,Weston Town Precinct 2
+25017002011,Weston Town Precinct 3
+25017002012,Weston Town Precinct 4
+25017002053,Wilmington Town Precinct 1
+25017002054,Wilmington Town Precinct 2
+25017002055,Wilmington Town Precinct 3
+25017002056,Wilmington Town Precinct 4
+25017002057,Wilmington Town Precinct 5
+25017002058,Wilmington Town Precinct 6
+25017002062,Winchester Town Precinct 1
+25017002063,Winchester Town Precinct 2
+25017002064,Winchester Town Precinct 3
+25017002065,Winchester Town Precinct 4
+25017002066,Winchester Town Precinct 5
+25017002067,Winchester Town Precinct 6
+25017002068,Winchester Town Precinct 7
+25017002069,Winchester Town Precinct 8
+25017002077,Woburn City Ward 1 Precinct 1
+25017002078,Woburn City Ward 1 Precinct 2
+25017002079,Woburn City Ward 2 Precinct 1
+25017002080,Woburn City Ward 2 Precinct 2
+25017002081,Woburn City Ward 3 Precinct 1
+25017002082,Woburn City Ward 3 Precinct 2
+25017002083,Woburn City Ward 4 Precinct 1
+25017002084,Woburn City Ward 4 Precinct 2
+25017002085,Woburn City Ward 5 Precinct 1
+25017002086,Woburn City Ward 5 Precinct 2
+25017002087,Woburn City Ward 6 Precinct 1
+25017002088,Woburn City Ward 6 Precinct 2
+25017002089,Woburn City Ward 7 Precinct 1
+25017002090,Woburn City Ward 7 Precinct 2
+25019001279,Nantucket Precinct 1
+25019ZZZZZZ,Voting Districts Not Defined
+25021000104,Avon Town Precinct 1
+25021000131,Bellingham Town Precinct 1
+25021000132,Bellingham Town Precinct 2
+25021000133,Bellingham Town Precinct 3
+25021000134,Bellingham Town Precinct 4
+25021000135,Bellingham Town Precinct 5
+25021000442,Braintree Town Precinct 1A
+25021000443,Braintree Town Precinct 1B
+25021000444,Braintree Town Precinct 2A
+25021000445,Braintree Town Precinct 2B
+25021000446,Braintree Town Precinct 3A
+25021000447,Braintree Town Precinct 3B
+25021000448,Braintree Town Precinct 4A
+25021000449,Braintree Town Precinct 4B
+25021000450,Braintree Town Precinct 5A
+25021000451,Braintree Town Precinct 5B
+25021000452,Braintree Town Precinct 6A
+25021000453,Braintree Town Precinct 6B
+25021000494,Brookline Town Precinct 1
+25021000495,Brookline Town Precinct 10
+25021000496,Brookline Town Precinct 11
+25021000497,Brookline Town Precinct 12
+25021000498,Brookline Town Precinct 13
+25021000499,Brookline Town Precinct 14
+25021000500,Brookline Town Precinct 15
+25021000501,Brookline Town Precinct 16
+25021000502,Brookline Town Precinct 2
+25021000503,Brookline Town Precinct 3
+25021000504,Brookline Town Precinct 4
+25021000505,Brookline Town Precinct 5
+25021000506,Brookline Town Precinct 6
+25021000507,Brookline Town Precinct 7
+25021000508,Brookline Town Precinct 8
+25021000509,Brookline Town Precinct 9
+25021000551,Canton Town Precinct 1
+25021000552,Canton Town Precinct 2
+25021000553,Canton Town Precinct 3
+25021000554,Canton Town Precinct 4
+25021000555,Canton Town Precinct 5
+25021000556,Canton Town Precinct 6
+25021000619,Cohasset Town Precinct 1
+25021000620,Cohasset Town Precinct 2
+25021000648,Dedham Town Precinct 1
+25021000649,Dedham Town Precinct 2
+25021000650,Dedham Town Precinct 3
+25021000651,Dedham Town Precinct 4
+25021000652,Dedham Town Precinct 5
+25021000653,Dedham Town Precinct 6
+25021000654,Dedham Town Precinct 7
+25021000666,Dover Town Precinct 1
+25021000778,Foxborough Town Precinct 1
+25021000779,Foxborough Town Precinct 2
+25021000780,Foxborough Town Precinct 3
+25021000781,Foxborough Town Precinct 4
+25021000782,Foxborough Town Precinct 5
+25021000801,Franklin Town Precinct 1
+25021000802,Franklin Town Precinct 2
+25021000803,Franklin Town Precinct 3
+25021000804,Franklin Town Precinct 4
+25021000805,Franklin Town Precinct 5
+25021000806,Franklin Town Precinct 6
+25021000807,Franklin Town Precinct 7
+25021000808,Franklin Town Precinct 8
+25021000916,Holbrook Town Precinct 1
+25021000917,Holbrook Town Precinct 2
+25021000918,Holbrook Town Precinct 3
+25021000919,Holbrook Town Precinct 4
+25021001177,Medfield Town Precinct 1
+25021001178,Medfield Town Precinct 2
+25021001179,Medfield Town Precinct 3
+25021001180,Medfield Town Precinct 4
+25021001197,Medway Town Precinct 1
+25021001198,Medway Town Precinct 2
+25021001199,Medway Town Precinct 3
+25021001200,Medway Town Precinct 4
+25021001251,Millis Town Precinct 1
+25021001252,Millis Town Precinct 2
+25021001253,Millis Town Precinct 3
+25021001255,Milton Town Precinct 1
+25021001256,Milton Town Precinct 10
+25021001257,Milton Town Precinct 2
+25021001258,Milton Town Precinct 3
+25021001259,Milton Town Precinct 4
+25021001260,Milton Town Precinct 5
+25021001261,Milton Town Precinct 6
+25021001262,Milton Town Precinct 7
+25021001263,Milton Town Precinct 8
+25021001264,Milton Town Precinct 9
+25021001290,Needham Town Precinct A
+25021001291,Needham Town Precinct B
+25021001292,Needham Town Precinct C
+25021001293,Needham Town Precinct D
+25021001294,Needham Town Precinct E
+25021001295,Needham Town Precinct F
+25021001296,Needham Town Precinct G
+25021001297,Needham Town Precinct H
+25021001298,Needham Town Precinct I
+25021001299,Needham Town Precinct J
+25021001380,Norfolk Town Precinct 1
+25021001381,Norfolk Town Precinct 2
+25021001382,Norfolk Town Precinct 3
+25021001441,Norwood Town Precinct 1
+25021001442,Norwood Town Precinct 2
+25021001443,Norwood Town Precinct 3
+25021001444,Norwood Town Precinct 4
+25021001445,Norwood Town Precinct 5
+25021001446,Norwood Town Precinct 6
+25021001447,Norwood Town Precinct 7
+25021001448,Norwood Town Precinct 8
+25021001449,Norwood Town Precinct 9
+25021001510,Plainville Town Precinct 1
+25021001511,Plainville Town Precinct 2
+25021001512,Plainville Town Precinct 3
+25021001531,Quincy City Ward 1 Precinct 1
+25021001532,Quincy City Ward 1 Precinct 2
+25021001533,Quincy City Ward 1 Precinct 3
+25021001534,Quincy City Ward 1 Precinct 4
+25021001535,Quincy City Ward 1 Precinct 5
+25021001536,Quincy City Ward 2 Precinct 1
+25021001537,Quincy City Ward 2 Precinct 2
+25021001538,Quincy City Ward 2 Precinct 3
+25021001539,Quincy City Ward 2 Precinct 4
+25021001540,Quincy City Ward 2 Precinct 5
+25021001541,Quincy City Ward 3 Precinct 1
+25021001542,Quincy City Ward 3 Precinct 2
+25021001543,Quincy City Ward 3 Precinct 3
+25021001544,Quincy City Ward 3 Precinct 4
+25021001545,Quincy City Ward 3 Precinct 5
+25021001546,Quincy City Ward 4 Precinct 1
+25021001547,Quincy City Ward 4 Precinct 2
+25021001548,Quincy City Ward 4 Precinct 3
+25021001549,Quincy City Ward 4 Precinct 4
+25021001550,Quincy City Ward 4 Precinct 5
+25021001551,Quincy City Ward 5 Precinct 1
+25021001552,Quincy City Ward 5 Precinct 2
+25021001553,Quincy City Ward 5 Precinct 3
+25021001554,Quincy City Ward 5 Precinct 4
+25021001555,Quincy City Ward 5 Precinct 5
+25021001556,Quincy City Ward 6 Precinct 1
+25021001557,Quincy City Ward 6 Precinct 2
+25021001558,Quincy City Ward 6 Precinct 3
+25021001559,Quincy City Ward 6 Precinct 4
+25021001560,Quincy City Ward 6 Precinct 5
+25021001561,Randolph Town Precinct 1
+25021001562,Randolph Town Precinct 10
+25021001563,Randolph Town Precinct 11
+25021001564,Randolph Town Precinct 12
+25021001565,Randolph Town Precinct 2
+25021001566,Randolph Town Precinct 3
+25021001567,Randolph Town Precinct 4
+25021001568,Randolph Town Precinct 5
+25021001569,Randolph Town Precinct 6
+25021001570,Randolph Town Precinct 7
+25021001571,Randolph Town Precinct 8
+25021001572,Randolph Town Precinct 9
+25021001670,Sharon Town Precinct 1
+25021001671,Sharon Town Precinct 2
+25021001672,Sharon Town Precinct 3
+25021001673,Sharon Town Precinct 4
+25021001674,Sharon Town Precinct 5
+25021001811,Stoughton Town Precinct 1
+25021001812,Stoughton Town Precinct 2
+25021001813,Stoughton Town Precinct 3
+25021001814,Stoughton Town Precinct 4
+25021001815,Stoughton Town Precinct 5
+25021001816,Stoughton Town Precinct 6
+25021001817,Stoughton Town Precinct 7
+25021001818,Stoughton Town Precinct 8
+25021001897,Walpole Town Precinct 1
+25021001898,Walpole Town Precinct 2
+25021001899,Walpole Town Precinct 3
+25021001900,Walpole Town Precinct 4
+25021001901,Walpole Town Precinct 5
+25021001902,Walpole Town Precinct 6
+25021001903,Walpole Town Precinct 7
+25021001904,Walpole Town Precinct 8
+25021001956,Wellesley Town Precinct A
+25021001957,Wellesley Town Precinct B
+25021001958,Wellesley Town Precinct C
+25021001959,Wellesley Town Precinct D
+25021001960,Wellesley Town Precinct E
+25021001961,Wellesley Town Precinct F
+25021001962,Wellesley Town Precinct G
+25021001963,Wellesley Town Precinct H
+25021002018,Westwood Town Precinct 1
+25021002019,Westwood Town Precinct 3
+25021002020,Westwood Town Precinct 4
+25021002021,WestwoodTown Precinct 2
+25021002022,Weymouth Town Precinct 1
+25021002023,Weymouth Town Precinct 10
+25021002024,Weymouth Town Precinct 11
+25021002025,Weymouth Town Precinct 12
+25021002026,Weymouth Town Precinct 13
+25021002027,Weymouth Town Precinct 14
+25021002028,Weymouth Town Precinct 15
+25021002029,Weymouth Town Precinct 16
+25021002030,Weymouth Town Precinct 17
+25021002031,Weymouth Town Precinct 18
+25021002032,Weymouth Town Precinct 2
+25021002033,Weymouth Town Precinct 3
+25021002034,Weymouth Town Precinct 4
+25021002035,Weymouth Town Precinct 5
+25021002036,Weymouth Town Precinct 6
+25021002037,Weymouth Town Precinct 7
+25021002038,Weymouth Town Precinct 8
+25021002039,Weymouth Town Precinct 9
+25021002142,Wrentham Town Precinct 1
+25021002143,Wrentham Town Precinct 2
+25021002144,Wrentham Town Precinct 3
+25023000001,Abington Town Precinct 1
+25023000002,Abington Town Precinct 2
+25023000003,Abington Town Precinct 3
+25023000004,Abington Town Precinct 4
+25023000005,Abington Town Precinct 5
+25023000457,Bridgewater Town Precinct 1
+25023000458,Bridgewater Town Precinct 2
+25023000459,Bridgewater Town Precinct 3
+25023000460,Bridgewater Town Precinct 4
+25023000461,Bridgewater Town Precinct 5
+25023000462,Bridgewater Town Precinct 6
+25023000463,Bridgewater Town Precinct 7
+25023000465,Brockton City Ward 1 Precinct A
+25023000466,Brockton City Ward 1 Precinct B
+25023000467,Brockton City Ward 1 Precinct C
+25023000468,Brockton City Ward 1 Precinct D
+25023000469,Brockton City Ward 2 Precinct A
+25023000470,Brockton City Ward 2 Precinct B
+25023000471,Brockton City Ward 2 Precinct C
+25023000472,Brockton City Ward 2 Precinct D
+25023000473,Brockton City Ward 3 Precinct A
+25023000474,Brockton City Ward 3 Precinct B
+25023000475,Brockton City Ward 3 Precinct C
+25023000476,Brockton City Ward 3 Precinct D
+25023000477,Brockton City Ward 4 Precinct A
+25023000478,Brockton City Ward 4 Precinct B
+25023000479,Brockton City Ward 4 Precinct C
+25023000480,Brockton City Ward 4 Precinct D
+25023000481,Brockton City Ward 5 Precinct A
+25023000482,Brockton City Ward 5 Precinct B
+25023000483,Brockton City Ward 5 Precinct C
+25023000484,Brockton City Ward 5 Precinct D
+25023000485,Brockton City Ward 6 Precinct A
+25023000486,Brockton City Ward 6 Precinct B
+25023000487,Brockton City Ward 6 Precinct C
+25023000488,Brockton City Ward 6 Precinct D
+25023000489,Brockton City Ward 7 Precinct A
+25023000490,Brockton City Ward 7 Precinct B
+25023000491,Brockton City Ward 7 Precinct C
+25023000492,Brockton City Ward 7 Precinct D
+25023000558,Carver Town Precinct 1
+25023000559,Carver Town Precinct 2
+25023000560,Carver Town Precinct 3
+25023000680,Duxbury Town Precinct 1
+25023000681,Duxbury Town Precinct 2
+25023000682,Duxbury Town Precinct 3
+25023000683,Duxbury Town Precinct 4
+25023000684,Duxbury Town Precinct 5
+25023000685,Duxbury Town Precinct 6
+25023000686,East Bridgewater Town Precinct 1
+25023000687,East Bridgewater Town Precinct 2
+25023000688,East Bridgewater Town Precinct 3
+25023000689,East Bridgewater Town Precinct 4
+25023000865,Halifax Town Precinct 1
+25023000866,Halifax Town Precinct 2
+25023000872,Hanover Town Precinct 1
+25023000873,Hanover Town Precinct 2
+25023000874,Hanover Town Precinct 3
+25023000875,Hanover Town Precinct 4
+25023000876,Hanson Town Precinct 1
+25023000877,Hanson Town Precinct 2
+25023000878,Hanson Town Precinct 3
+25023000909,Hingham Town Precinct 1
+25023000910,Hingham Town Precinct 2
+25023000911,Hingham Town Precinct 3
+25023000912,Hingham Town Precinct 4
+25023000913,Hingham Town Precinct 5
+25023000914,Hingham Town Precinct 6
+25023000957,Hull Town Precinct 1
+25023000958,Hull Town Precinct 2
+25023000959,Hull Town Precinct 3
+25023000965,Kingston Town Precinct 1
+25023000966,Kingston Town Precinct 2
+25023000967,Kingston Town Precinct 3
+25023000968,Kingston Town Precinct 4
+25023000969,Lakeville Town Precinct 1
+25023000970,Lakeville Town Precinct 2
+25023000971,Lakeville Town Precinct 3
+25023001145,Marion Town Precinct 1
+25023001160,Marshfield Town Precinct 1
+25023001161,Marshfield Town Precinct 2
+25023001162,Marshfield Town Precinct 3
+25023001163,Marshfield Town Precinct 4
+25023001164,Marshfield Town Precinct 5
+25023001165,Marshfield Town Precinct 6
+25023001166,Marshfield Town Precinct 7
+25023001172,Mattapoisett Town Precinct 1
+25023001230,Middleborough Town Precinct 1
+25023001231,Middleborough Town Precinct 2
+25023001232,Middleborough Town Precinct 3
+25023001233,Middleborough Town Precinct 4
+25023001234,Middleborough Town Precinct 5
+25023001235,Middleborough Town Precinct 6
+25023001438,Norwell Town Precinct 1
+25023001439,Norwell Town Precinct 2
+25023001440,Norwell Town Precinct 3
+25023001484,Pembroke Town Precinct 1
+25023001485,Pembroke Town Precinct 2
+25023001486,Pembroke Town Precinct 3
+25023001487,Pembroke Town Precinct 4
+25023001488,Pembroke Town Precinct 5
+25023001513,Plymouth Town Precinct 1
+25023001514,Plymouth Town Precinct 10
+25023001515,Plymouth Town Precinct 11
+25023001516,Plymouth Town Precinct 12
+25023001517,Plymouth Town Precinct 13
+25023001518,Plymouth Town Precinct 14
+25023001519,Plymouth Town Precinct 15
+25023001520,Plymouth Town Precinct 2
+25023001521,Plymouth Town Precinct 3
+25023001522,Plymouth Town Precinct 4
+25023001523,Plymouth Town Precinct 5
+25023001524,Plymouth Town Precinct 6
+25023001525,Plymouth Town Precinct 7
+25023001526,Plymouth Town Precinct 8
+25023001527,Plymouth Town Precinct 9
+25023001528,Plympton Town Precinct 1
+25023001607,Rochester Town Precinct 1
+25023001608,Rockland Town Precinct 1
+25023001609,Rockland Town Precinct 2
+25023001610,Rockland Town Precinct 3
+25023001611,Rockland Town Precinct 4
+25023001612,Rockland Town Precinct 5
+25023001613,Rockland Town Precinct 6
+25023001660,Scituate Town Precinct 1
+25023001661,Scituate Town Precinct 2
+25023001662,Scituate Town Precinct 3
+25023001663,Scituate Town Precinct 4
+25023001664,Scituate Town Precinct 5
+25023001665,Scituate Town Precinct 6
+25023001926,Wareham Town Precinct 1
+25023001927,Wareham Town Precinct 2
+25023001928,Wareham Town Precinct 3
+25023001929,Wareham Town Precinct 4
+25023001930,Wareham Town Precinct 5
+25023001931,Wareham Town Precinct 6
+25023001969,West Bridgewater Town Precinct 1
+25023001970,West Bridgewater Town Precinct 2
+25023002041,Whitman Town Precinct 1
+25023002042,Whitman Town Precinct 2
+25023002043,Whitman Town Precinct 3
+25023002044,Whitman Town Precinct 4
+25023ZZZZZZ,Voting Districts Not Defined
+25025000101,0101
+25025000102,0102
+25025000103,0103
+25025000104,0104
+25025000105,0105
+25025000106,0106
+25025000107,0107
+25025000108,0108
+25025000109,0109
+25025000110,0110
+25025000111,0111
+25025000112,0112
+25025000113,0113
+25025000114,0114
+25025000115,0115
+25025000201,0201
+25025000202,0202
+25025000203,0203
+25025000204,0204
+25025000205,0205
+25025000206,0206
+25025000207,0207
+25025000301,0301
+25025000302,0302
+25025000303,0303
+25025000304,0304
+25025000305,0305
+25025000306,0306
+25025000307,0307
+25025000308,0308
+25025000401,0401
+25025000402,0402
+25025000403,0403
+25025000404,0404
+25025000405,0405
+25025000406,0406
+25025000407,0407
+25025000408,0408
+25025000409,0409
+25025000410,0410
+25025000501,0501
+25025000502,0502
+25025000503,0503
+25025000504,0504
+25025000505,0505
+25025000506,0506
+25025000507,0507
+25025000508,0508
+25025000509,0509
+25025000510,0510
+25025000511,0511
+25025000576,Chelsea City Ward 1 Precinct 1
+25025000577,Chelsea City Ward 1 Precinct 2
+25025000578,Chelsea City Ward 1 Precinct 3
+25025000579,Chelsea City Ward 1 Precinct 4
+25025000580,Chelsea City Ward 2 Precinct 1
+25025000581,Chelsea City Ward 2 Precinct 2
+25025000582,Chelsea City Ward 2 Precinct 3
+25025000583,Chelsea City Ward 2 Precinct 4
+25025000584,Chelsea City Ward 3 Precinct 1
+25025000585,Chelsea City Ward 3 Precinct 2
+25025000586,Chelsea City Ward 3 Precinct 3
+25025000587,Chelsea City Ward 3 Precinct 4
+25025000588,Chelsea City Ward 4 Precinct 1
+25025000589,Chelsea City Ward 4 Precinct 2
+25025000590,Chelsea City Ward 4 Precinct 3
+25025000591,Chelsea City Ward 4 Precinct 4
+25025000601,0601
+25025000602,0602
+25025000603,0603
+25025000604,0604
+25025000605,0605
+25025000606,0606
+25025000607,0607
+25025000608,0608
+25025000609,0609
+25025000701,0701
+25025000702,0702
+25025000703,0703
+25025000704,0704
+25025000705,0705
+25025000706,0706
+25025000707,0707
+25025000708,0708
+25025000709,0709
+25025000710,0710
+25025000801,0801
+25025000802,0802
+25025000803,0803
+25025000804,0804
+25025000805,0805
+25025000806,0806
+25025000807,0807
+25025000901,0901
+25025000902,0902
+25025000903,0903
+25025000904,0904
+25025000905,0905
+25025001001,1001
+25025001002,1002
+25025001003,1003
+25025001004,1004
+25025001005,1005
+25025001006,1006
+25025001007,1007
+25025001008,1008
+25025001009,1009
+25025001101,1101
+25025001102,1102
+25025001103,1103
+25025001104,1104
+25025001105,1105
+25025001106,1106
+25025001107,1107
+25025001108,1108
+25025001109,1109
+25025001110,1110
+25025001201,1201
+25025001202,1202
+25025001203,1203
+25025001204,1204
+25025001205,1205
+25025001206,1206
+25025001207,1207
+25025001208,1208
+25025001209,1209
+25025001301,1301
+25025001302,1302
+25025001303,1303
+25025001304,1304
+25025001305,1305
+25025001306,1306
+25025001307,1307
+25025001308,1308
+25025001309,1309
+25025001310,1310
+25025001401,1401
+25025001402,1402
+25025001403,1403
+25025001404,1404
+25025001405,1405
+25025001406,1406
+25025001407,1407
+25025001408,1408
+25025001409,1409
+25025001410,1410
+25025001411,1411
+25025001412,1412
+25025001413,1413
+25025001414,1414
+25025001501,1501
+25025001502,1502
+25025001503,1503
+25025001504,1504
+25025001505,1505
+25025001506,1506
+25025001507,1507
+25025001508,1508
+25025001509,1509
+25025001588,Revere City Ward 1 Precinct 1
+25025001589,Revere City Ward 1 Precinct 2
+25025001590,Revere City Ward 1 Precinct 3
+25025001591,Revere City Ward 2 Precinct 1
+25025001592,Revere City Ward 2 Precinct 2
+25025001593,Revere City Ward 2 Precinct 3
+25025001594,Revere City Ward 3 Precinct 1
+25025001595,Revere City Ward 3 Precinct 2
+25025001596,Revere City Ward 3 Precinct 3
+25025001597,Revere City Ward 4 Precinct 1
+25025001598,Revere City Ward 4 Precinct 2
+25025001599,Revere City Ward 4 Precinct 3
+25025001600,Revere City Ward 5 Precinct 1
+25025001601,1601
+25025001602,1602
+25025001603,1603
+25025001604,1604
+25025001605,1605
+25025001606,1606
+25025001607,1607
+25025001608,1608
+25025001609,1609
+25025001610,1610
+25025001611,1611
+25025001612,1612
+25025001701,1701
+25025001702,1702
+25025001703,1703
+25025001704,1704
+25025001705,1705
+25025001706,1706
+25025001707,1707
+25025001708,1708
+25025001709,1709
+25025001710,1710
+25025001711,1711
+25025001712,1712
+25025001713,1713
+25025001714,1714
+25025001801,1801
+25025001802,1802
+25025001803,1803
+25025001804,1804
+25025001805,1805
+25025001806,1806
+25025001807,1807
+25025001808,1808
+25025001809,1809
+25025001810,1810
+25025001811,1811
+25025001812,1812
+25025001813,1813
+25025001814,1814
+25025001815,1815
+25025001816,1816
+25025001817,1817
+25025001818,1818
+25025001819,1819
+25025001820,1820
+25025001821,1821
+25025001822,1822
+25025001901,1901
+25025001902,1902
+25025001903,1903
+25025001904,1904
+25025001905,1905
+25025001906,1906
+25025001907,1907
+25025001908,1908
+25025001909,1909
+25025001910,1910
+25025001911,1911
+25025001912,1912
+25025001913,1913
+25025002001,2001
+25025002002,2002
+25025002003,2003
+25025002004,2004
+25025002005,2005
+25025002006,2006
+25025002007,2007
+25025002008,2008
+25025002009,2009
+25025002010,2010
+25025002011,2011
+25025002012,2012
+25025002013,2013
+25025002014,2014
+25025002015,2015
+25025002016,2016
+25025002017,2017
+25025002018,2018
+25025002019,2019
+25025002020,2020
+25025002023,2023
+25025002071,Winthrop Town Precinct 1
+25025002072,Winthrop Town Precinct 2
+25025002073,Winthrop Town Precinct 3
+25025002074,Winthrop Town Precinct 4
+25025002075,Winthrop Town Precinct 5
+25025002076,Winthrop Town Precinct 6
+25025002101,2101
+25025002102,2102
+25025002103,2103
+25025002104,2104
+25025002105,2105
+25025002106,2106
+25025002107,2107
+25025002108,2108
+25025002109,2109
+25025002110,2110
+25025002111,2111
+25025002112,2112
+25025002113,2113
+25025002114,2114
+25025002115,2115
+25025002116,2116
+25025002201,2201
+25025002202,2202
+25025002203,2203
+25025002204,2204
+25025002205,2205
+25025002206,2206
+25025002207,2207
+25025002208,2208
+25025002209,2209
+25025002210,2210
+25025002211,2211
+25025002212,2212
+25025002213,2213
+2502500502A,0502A
+25025016010,Revere City Ward 5 Precinct 2
+25025016020,Revere City Ward 5 Precinct 3
+25025016030,Revere City Ward 6 Precinct 1
+25025016040,Revere City Ward 6 Precinct 2
+25025016050,Revere City Ward 6 Precinct 3
+25027000076,Ashburnham Town Precinct 1
+25027000084,Athol Town Precinct 1
+25027000085,Athol Town Precinct 2
+25027000086,Athol Town Precinct 3
+25027000099,Auburn Town Precinct 1
+25027000100,Auburn Town Precinct 2
+25027000101,Auburn Town Precinct 3
+25027000102,Auburn Town Precinct 4
+25027000103,Auburn Town Precinct 5
+25027000120,Barre Town Precinct 1
+25027000121,Barre Town Precinct 2
+25027000146,Berlin Town Precinct 1
+25027000171,Blackstone Town Precinct 1
+25027000172,Blackstone Town Precinct 2
+25027000173,Blackstone Town Precinct 3
+25027000175,Bolton Town Precinct 1
+25027000441,Boylston Town Precinct 1
+25027000493,Brookfield Town Precinct 1
+25027000562,Charlton Town Precinct 1
+25027000563,Charlton Town Precinct 2
+25027000564,Charlton Town Precinct 3
+25027000565,Charlton Town Precinct 4
+25027000615,Clinton Town Precinct 1
+25027000616,Clinton Town Precinct 2
+25027000617,Clinton Town Precinct 3
+25027000618,Clinton Town Precinct 4
+25027000663,Douglas Town Precinct 1
+25027000664,Douglas Town Precinct 2
+25027000665,Douglas Town Precinct 3
+25027000676,Dudley Town Precinct 1
+25027000677,Dudley Town Precinct 2
+25027000678,Dudley Town Precinct 3
+25027000690,East Brookfield Town Precinct 1
+25027000765,Fitchburg City Ward 1 Precinct A
+25027000766,Fitchburg City Ward 1 Precinct B
+25027000767,Fitchburg City Ward 2 Precinct A
+25027000768,Fitchburg City Ward 2 Precinct B
+25027000769,Fitchburg City Ward 3 Precinct A
+25027000770,Fitchburg City Ward 3 Precinct B
+25027000771,Fitchburg City Ward 4 Precinct A
+25027000772,Fitchburg City Ward 4 Precinct B
+25027000773,Fitchburg City Ward 5 Precinct A
+25027000774,Fitchburg City Ward 5 Precinct B
+25027000775,Fitchburg City Ward 6 Precinct A
+25027000776,Fitchburg City Ward 6 Precinct B
+25027000812,Gardner City Ward 1 Precinct A
+25027000813,Gardner City Ward 1 Precinct B
+25027000814,Gardner City Ward 2 Precinct A
+25027000815,Gardner City Ward 2 Precinct B
+25027000816,Gardner City Ward 3 Precinct A
+25027000817,Gardner City Ward 3 Precinct B
+25027000818,Gardner City Ward 4 Precinct A
+25027000819,Gardner City Ward 4 Precinct B
+25027000820,Gardner City Ward 5 Precinct A
+25027000821,Gardner City Ward 5 Precinct B
+25027000838,Grafton Town Precinct 1
+25027000839,Grafton Town Precinct 2
+25027000840,Grafton Town Precinct 3
+25027000841,Grafton Town Precinct 4
+25027000842,Grafton Town Precinct 5
+25027000879,Hardwick Town Precinct 1
+25027000880,Harvard Town Precinct 1
+25027000920,Holden Town Precinct 1
+25027000921,Holden Town Precinct 2
+25027000922,Holden Town Precinct 3
+25027000923,Holden Town Precinct 4
+25027000924,Holden Town Precinct 5
+25027000944,Hopedale Town Precinct 1
+25027000949,Hubbardston Town Precinct 1
+25027000972,Lancaster Town Precinct 1
+25027000973,Lancaster Town Precinct 2
+25027001000,Leicester Town Precinct 1
+25027001001,Leicester Town Precinct 2
+25027001002,Leicester Town Precinct 3
+25027001003,Leicester Town Precinct 4
+25027001005,Leominster City Ward 1 Precinct A
+25027001006,Leominster City Ward 1 Precinct B
+25027001007,Leominster City Ward 1 Precinct C
+25027001008,Leominster City Ward 2 Precinct A
+25027001009,Leominster City Ward 2 Precinct B
+25027001010,Leominster City Ward 2 Precinct C
+25027001011,Leominster City Ward 3 Precinct A
+25027001012,Leominster City Ward 3 Precinct B
+25027001013,Leominster City Ward 3 Precinct C
+25027001014,Leominster City Ward 4 Precinct A
+25027001015,Leominster City Ward 4 Precinct B
+25027001016,Leominster City Ward 4 Precinct C
+25027001017,Leominster City Ward 5 Precinct A
+25027001018,Leominster City Ward 5 Precinct B
+25027001019,Leominster City Ward 5 Precinct C
+25027001080,Lunenburg Town Precinct A
+25027001081,Lunenburg Town Precinct B
+25027001082,Lunenburg Town Precinct C
+25027001083,Lunenburg Town Precinct D
+25027001215,Mendon Town Precinct 1
+25027001239,Milford Town Precinct 1
+25027001240,Milford Town Precinct 2
+25027001241,Milford Town Precinct 3
+25027001242,Milford Town Precinct 4
+25027001243,Milford Town Precinct 5
+25027001244,Milford Town Precinct 6
+25027001245,Milford Town Precinct 7
+25027001246,Milford Town Precinct 8
+25027001247,Millbury Town Precinct 1
+25027001248,Millbury Town Precinct 2
+25027001249,Millbury Town Precinct 3
+25027001250,Millbury Town Precinct 4
+25027001254,Millville Town Precinct 1
+25027001337,New Braintree Town Precinct 1
+25027001405,North Brookfield Town Precinct 1
+25027001424,Northborough Town Precinct 1
+25027001425,Northborough Town Precinct 2
+25027001426,Northborough Town Precinct 3
+25027001427,Northborough Town Precinct 4
+25027001428,Northbridge Town Precinct 1
+25027001429,Northbridge Town Precinct 2
+25027001430,Northbridge Town Precinct 3
+25027001431,Northbridge Town Precinct 4
+25027001451,Oakham Town Precinct 1
+25027001456,Oxford Town Precinct 1
+25027001457,Oxford Town Precinct 2
+25027001458,Oxford Town Precinct 3
+25027001459,Oxford Town Precinct 4
+25027001464,Paxton Town Precinct 1
+25027001493,Petersham Town Precinct 1
+25027001494,Phillipston Town Precinct 1
+25027001529,Princeton Town Precinct 1
+25027001619,Royalston Town Precinct 1
+25027001620,Royalston Town Precinct 2
+25027001622,Rutland Town Precinct 1
+25027001623,Rutland Town Precinct 2
+25027001624,Rutland Town Precinct 3
+25027001679,Shrewsbury Town Precinct 1
+25027001680,Shrewsbury Town Precinct 10
+25027001681,Shrewsbury Town Precinct 2
+25027001682,Shrewsbury Town Precinct 3
+25027001683,Shrewsbury Town Precinct 4
+25027001684,Shrewsbury Town Precinct 5
+25027001685,Shrewsbury Town Precinct 6
+25027001686,Shrewsbury Town Precinct 7
+25027001687,Shrewsbury Town Precinct 8
+25027001688,Shrewsbury Town Precinct 9
+25027001722,Southborough Town Precinct 1
+25027001723,Southborough Town Precinct 2
+25027001724,Southborough Town Precinct 3
+25027001725,Southbridge Town Precinct 1
+25027001726,Southbridge Town Precinct 2
+25027001727,Southbridge Town Precinct 3
+25027001728,Southbridge Town Precinct 4
+25027001729,Southbridge Town Precinct 5
+25027001733,Spencer Town Precinct 1
+25027001734,Spencer Town Precinct 2
+25027001735,Spencer Town Precinct 3
+25027001736,Spencer Town Precinct 4
+25027001801,Sterling Town Precinct 1
+25027001802,Sterling Town Precinct 2
+25027001821,Sturbridge Town Precinct 1
+25027001822,Sturbridge Town Precinct 2
+25027001823,Sturbridge Town Precinct 3
+25027001830,Sutton Town Precinct 1
+25027001831,Sutton Town Precinct 2
+25027001832,Sutton Town Precinct 3
+25027001860,Templeton Town Precinct A
+25027001861,Templeton Town Precinct B
+25027001862,Templeton Town Precinct C
+25027001883,Upton Town Precinct 1
+25027001884,Upton Town Precinct 2
+25027001885,Uxbridge Town Precinct 1
+25027001886,Uxbridge Town Precinct 2
+25027001887,Uxbridge Town Precinct 3
+25027001888,Uxbridge Town Precinct 4
+25027001932,Warren Town Precinct A
+25027001951,Webster Town Precinct 1
+25027001952,Webster Town Precinct 2
+25027001953,Webster Town Precinct 3
+25027001954,Webster Town Precinct 4
+25027001955,Webster Town Precinct 5
+25027001967,West Boylston Town Precinct 1
+25027001968,West Boylston Town Precinct 2
+25027001971,West Brookfield Town Precinct 1
+25027001983,Westborough Town Precinct 1
+25027001984,Westborough Town Precinct 2
+25027001985,Westborough Town Precinct 3
+25027001986,Westborough Town Precinct 4
+25027001987,Westborough Town Precinct 5
+25027002007,Westminster Town Precinct 1
+25027002008,Westminster Town Precinct 2
+25027002059,Winchendon Town Precinct 1
+25027002060,Winchendon Town Precinct 2
+25027002061,Winchendon Town Precinct 3
+25027002091,Worcester City Ward 1 Precinct 1
+25027002092,Worcester City Ward 1 Precinct 2
+25027002093,Worcester City Ward 1 Precinct 3
+25027002094,Worcester City Ward 1 Precinct 4
+25027002095,Worcester City Ward 1 Precinct 5
+25027002096,Worcester City Ward 10 Precinct 1
+25027002097,Worcester City Ward 10 Precinct 2
+25027002098,Worcester City Ward 10 Precinct 3
+25027002099,Worcester City Ward 10 Precinct 4
+25027002100,Worcester City Ward 10 Precinct 5
+25027002101,Worcester City Ward 2 Precinct 1
+25027002102,Worcester City Ward 2 Precinct 2
+25027002103,Worcester City Ward 2 Precinct 3
+25027002104,Worcester City Ward 2 Precinct 4
+25027002105,Worcester City Ward 2 Precinct 5
+25027002106,Worcester City Ward 3 Precinct 1
+25027002107,Worcester City Ward 3 Precinct 2
+25027002108,Worcester City Ward 3 Precinct 3
+25027002109,Worcester City Ward 3 Precinct 4
+25027002110,Worcester City Ward 3 Precinct 5
+25027002111,Worcester City Ward 4 Precinct 1
+25027002112,Worcester City Ward 4 Precinct 2
+25027002113,Worcester City Ward 4 Precinct 3
+25027002114,Worcester City Ward 4 Precinct 4
+25027002115,Worcester City Ward 4 Precinct 5
+25027002116,Worcester City Ward 5 Precinct 1
+25027002117,Worcester City Ward 5 Precinct 2
+25027002118,Worcester City Ward 5 Precinct 3
+25027002119,Worcester City Ward 5 Precinct 4
+25027002120,Worcester City Ward 5 Precinct 5
+25027002121,Worcester City Ward 6 Precinct 1
+25027002122,Worcester City Ward 6 Precinct 2
+25027002123,Worcester City Ward 6 Precinct 3
+25027002124,Worcester City Ward 6 Precinct 4
+25027002125,Worcester City Ward 6 Precinct 5
+25027002126,Worcester City Ward 7 Precinct 1
+25027002127,Worcester City Ward 7 Precinct 2
+25027002128,Worcester City Ward 7 Precinct 3
+25027002129,Worcester City Ward 7 Precinct 4
+25027002130,Worcester City Ward 7 Precinct 5
+25027002131,Worcester City Ward 8 Precinct 1
+25027002132,Worcester City Ward 8 Precinct 2
+25027002133,Worcester City Ward 8 Precinct 3
+25027002134,Worcester City Ward 8 Precinct 4
+25027002135,Worcester City Ward 8 Precinct 5
+25027002136,Worcester City Ward 9 Precinct 1
+25027002137,Worcester City Ward 9 Precinct 2
+25027002138,Worcester City Ward 9 Precinct 3
+25027002139,Worcester City Ward 9 Precinct 4
+25027002140,Worcester City Ward 9 Precinct 5
