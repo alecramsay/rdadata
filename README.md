@@ -3,13 +3,18 @@ Redistricting analytics data
 
 ## Installation
 
+To get the data locally, clone the repository:
+
 ```bash
 $ git clone https://github.com/alecramsay/rdadata
 $ cd rdadata
-$ pip install -r requirements.txt
 ```
 
-Also, make sure the `rdadata` directory is on your `PYTHONPATH`.
+To use the helper code, install the package:
+
+```bash
+$ pip install rdadata
+```
 
 ## Data
 
