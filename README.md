@@ -39,7 +39,7 @@ The data comes from the following sources:
     where XX is the state abbreviation and N is the suffix.
     We take the latest version of the data, which is the one with the highest N.
 -   The election data comes from the 2020_election_XX-N.csv in the same repo.
--   The shapes are copies of tl_2020_FF_vtd20.zip from [the Census Bureau](https://www2.census.gov/geo/tiger/TIGER2020PL/LAYER), 
+-   The shapes are copies of tl_2020_FF_vtd20.zip from [the Census Bureau](https://www2.census.gov/geo/tiger/TIGER2020PL/LAYER/VTD/2020/), 
     where FF is the state FIPS code, e.g., 37 for North Carolina.
 
 Some things to be aware of:
