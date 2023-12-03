@@ -7,6 +7,7 @@ from typing import List, Dict, Tuple, Set, Any, NamedTuple
 
 from .graph import Graph
 from .union_find import StrUnionFind, IntUnionFind
+from .constants import geoid_field
 
 
 class LatLong(NamedTuple):
@@ -39,7 +40,7 @@ def mkPoints(
     for geoid, values in data.items():
         point = dict()
 
-        point["GEOID"] = geoid
+        point[geoid_field] = geoid
         point["POP"] = values["TOTAL_POP"]
         point["X"] = shapes[geoid]["center"][0]
         point["Y"] = shapes[geoid]["center"][1]
@@ -66,8 +67,22 @@ def index_geoids(
 ) -> Dict[str, int]:
     """Index GEOIDs by offset."""
 
-    offset_by_geoid: Dict[str, int] = {p["GEOID"]: i for i, p in enumerate(points)}
+    offset_by_geoid: Dict[str, int] = {p[geoid_field]: i for i, p in enumerate(points)}
     return offset_by_geoid
+
+
+def index_data(data: list[dict]) -> dict[str, dict[str, int]]:
+    """Index precinct data by GEOID"""
+
+    indexed: dict[str, dict[str, int]] = dict()
+    for row in data:
+        geoid: str = row[geoid_field]
+        indexed[geoid] = row
+
+    return indexed
+
+
+#
 
 
 def index_points(
@@ -115,7 +130,7 @@ def index_assignments(
 
     indexed_assignments: List[Assignment] = list()
     for p in assignments:
-        geoid: str = str(p["GEOID"])
+        geoid: str = str(p[geoid_field])
         district: int = int(p["DISTRICT"])  # NOTE - Assume 1-N districts for simplicity
 
         indexed: Assignment = Assignment(

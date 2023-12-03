@@ -14,6 +14,8 @@ $ scripts/make_adjacent_pairs.py -h
 
 """
 
+import os
+
 import argparse
 from argparse import ArgumentParser, Namespace
 

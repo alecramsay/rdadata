@@ -14,6 +14,8 @@ $ scripts/make_points_file.py -h
 
 """
 
+import os
+
 import argparse
 from argparse import ArgumentParser, Namespace
 

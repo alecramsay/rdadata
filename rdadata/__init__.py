@@ -17,13 +17,13 @@ from .readwrite import (
 from .timers import Timer, time_function
 from .approxequal import approx_equal, dict_approx_equal
 from .geoutils import GeoID, study_unit, unit_id
-from .helpers import *
 from .graph import Graph, is_connected, read_mods
 from population import populations, total_population, calc_population_deviation
 from energy import (
     mkPoints,
     mkAdjacencies,
     index_geoids,
+    index_data,
     index_points,
     index_assignments,
     LatLong,
