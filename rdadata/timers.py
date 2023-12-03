@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 """
 TIMER DECORATORS
 """
@@ -48,7 +46,5 @@ class Timer:
 
         return wrapper
 
-
-# DON'T LIMIT WHAT GETS EXPORTED.
 
 ### END ###

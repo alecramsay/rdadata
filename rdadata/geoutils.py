@@ -1,10 +1,7 @@
-#!/usr/bin/env python3
-
 """
-UTILITIES
+GEO UTILITIES
 """
 
-import time
 from functools import wraps
 
 

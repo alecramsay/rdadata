@@ -1,9 +1,5 @@
-#!/usr/bin/env python3
-
 """
 READ/WRITE ROUTINES
-
-NOTE - I cloned from my alecramsay/pyutils repo, so I don't have to package that. 
 """
 
 import os
@@ -11,7 +7,6 @@ import sys
 from csv import DictReader, DictWriter
 import pickle
 import json
-from collections import defaultdict
 from shapely.geometry import (
     shape,
     Polygon,
@@ -233,7 +228,5 @@ def smart_open(filename=None) -> Generator[TextIO | TextIO, None, None]:
         if fh is not sys.stdout:
             fh.close()
 
-
-# DON'T LIMIT WHAT GETS EXPORTED.
 
 ### END ###

@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 """
 ROUGH EQUALITY UTILITIES
 """
@@ -38,7 +36,5 @@ def dict_approx_equal(actual: dict, expected: dict, int_threshold: int = 0) -> b
 
     return True
 
-
-# DON'T LIMIT WHAT GETS EXPORTED.
 
 ### END ###

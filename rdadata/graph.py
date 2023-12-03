@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 """
 ADJACENCY/CONTIGUITY GRAPHS
 """
@@ -8,20 +6,19 @@ import os
 import sys
 import csv
 
-import geopandas
 from geopandas import GeoDataFrame
 
 from libpysal.weights import Rook, WSP
 from shapely.geometry import Polygon, MultiPolygon
 from typing import Any, Optional, Iterable
 
+from .readwrite import FileSpec, read_shapes
 from .constants import *
-from .readwrite import *
 
 
 class Graph:
     _data: dict
-    _adjacencies: set[tuple[str, str]]
+    _adjacencies: list[tuple[str, str]] = list()
 
     def __init__(self, input: str | dict | GeoDataFrame, id_field: str = "") -> None:
         if isinstance(input, dict):
@@ -189,24 +186,18 @@ class Graph:
         self._data[node1].append(node2)
         self._data[node2].append(node1)
 
-    def adjacencies(self) -> set[tuple[str, str]]:
-        """Return unique pairs of adjacencent nodes in the graph."""
+    def adjacencies(self) -> list[tuple[str, str]]:
+        """Return unique pairs of adjacent nodes in the graph."""
+
+        if self._adjacencies:
+            return self._adjacencies
 
         n: int = 0
-        self._adjacencies = set()
-
         for node, neighbors in self._data.items():
             for neighbor in neighbors:
-                n += 1
-
-                one: str = node if node < neighbor else neighbor
-                two: str = neighbor if neighbor > node else node
-                a: tuple[str, str] = (one, two)
-
-                if a in self._adjacencies:
-                    continue
-                else:
-                    self._adjacencies.add(a)
+                if node < neighbor:
+                    self._adjacencies.append((node, neighbor))
+                    n += 1
 
         if n != 2 * len(self._adjacencies):
             print(f"ERROR: Pairs of adjacencies are not consistent with the graph.")
