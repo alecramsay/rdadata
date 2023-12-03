@@ -18,8 +18,8 @@ from .timers import Timer, time_function
 from .approxequal import approx_equal, dict_approx_equal
 from .geoutils import GeoID, study_unit, unit_id
 from .graph import Graph, is_connected, read_mods
-from population import populations, total_population, calc_population_deviation
-from energy import (
+from .population import populations, total_population, calc_population_deviation
+from .energy import (
     mkPoints,
     mkAdjacencies,
     index_geoids,
@@ -31,6 +31,6 @@ from energy import (
     Assignment,
     calc_energy,
 )
-from misc import starting_seed
+from .misc import starting_seed
 
 name: str = "rdadata"
