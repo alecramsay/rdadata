@@ -192,15 +192,10 @@ class Graph:
         if self._adjacencies:
             return self._adjacencies
 
-        n: int = 0
         for node, neighbors in self._data.items():
             for neighbor in neighbors:
                 if node < neighbor:
                     self._adjacencies.append((node, neighbor))
-                    n += 1
-
-        if n != 2 * len(self._adjacencies):
-            print(f"ERROR: Pairs of adjacencies are not consistent with the graph.")
 
         return self._adjacencies
 
