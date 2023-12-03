@@ -15,6 +15,6 @@ $ python3 -m twine upload --repository pypi dist/*
 
 For a specific version, w/o deleting the others locally:
 
-$ python3 -m twine upload --repository pypi dist/rdapy-x.y.z*.*
+$ python3 -m twine upload --repository pypi dist/rdadata-x.y.z*.*
 
 where x.y.z is the version number.
