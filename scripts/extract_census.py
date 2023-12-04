@@ -48,12 +48,12 @@ def main() -> None:
     config_path: str = path_to_file([data_dir, xx]) + file_name(
         [xx, cycle, "config"], "_", "json"
     )
-    config: dict[str, Any] = read_json(config_path)
+    config: Dict[str, Any] = read_json(config_path)
 
     suffix: str = config["census_suffix"]
     input_geoid: str = config["geoid"]
     total_field: str = config["total"]
-    demo_fields: list[str] = config["demos"]
+    demo_fields: List[str] = config["demos"]
 
     if suffix != "":
         suffix = "-" + suffix
@@ -65,8 +65,8 @@ def main() -> None:
 
     ### READ THE CENSUS CSV & EXTRACT THE DATA ###
 
-    census: list[dict] = list()
-    fields: list[str] = list(census_fields)
+    census: List[Dict] = list()
+    fields: List[str] = list(census_fields)
     fields.remove(total_pop)
     fields.remove(minority_vap)
 
@@ -80,7 +80,7 @@ def main() -> None:
         )
 
         for row_in in reader:
-            row_out: dict = dict()
+            row_out: Dict = dict()
             row_out[geoid_field] = row_in[input_geoid]
             row_out[total_pop] = row_in[total_field]
             for i, field in enumerate(demo_fields):

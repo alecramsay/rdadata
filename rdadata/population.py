@@ -21,8 +21,8 @@ def total_population(pop_by_geoid: Dict[str, int]) -> int:
 
 
 def calc_population_deviation(
-    plan: list[dict[str, str | int]],
-    pop_by_geoid: dict[str, int],
+    plan: List[Dict[str, str | int]],
+    pop_by_geoid: Dict[str, int],
     total_pop: int,
     n_districts: int,
 ) -> float:

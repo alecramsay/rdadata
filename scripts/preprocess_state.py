@@ -38,7 +38,7 @@ def main() -> None:
 
     ### RUN THE SCRIPTS ###
 
-    commands: list[str] = [
+    commands: List[str] = [
         "scripts/extract_census.py -s {xx}",
         "scripts/extract_elections.py -s {xx}",
         "scripts/join_data.py -s {xx}",

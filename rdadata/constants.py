@@ -2,7 +2,7 @@
 CONSTANTS
 """
 
-from typing import Any
+from typing import Any, List, Dict
 
 ### DIRECTORIES ###
 
@@ -28,7 +28,7 @@ yy: str = "22"
 plan_type: str = "Congress"
 
 geoid_field: str = "GEOID"
-census_fields: list[str] = [
+census_fields: List[str] = [
     "TOTAL_POP",
     "TOTAL_VAP",
     "WHITE_VAP",
@@ -40,11 +40,11 @@ census_fields: list[str] = [
     "MINORITY_VAP",
 ]
 
-election_fields: list[str] = ["TOT_VOTES", "REP_VOTES", "DEM_VOTES", "OTH_VOTES"]
+election_fields: List[str] = ["TOT_VOTES", "REP_VOTES", "DEM_VOTES", "OTH_VOTES"]
 
 ### STATES ###
 
-STATES: list[str] = [
+STATES: List[str] = [
     "AL",
     "AK",
     "AZ",
@@ -97,7 +97,7 @@ STATES: list[str] = [
     "WY",
 ]
 
-STATE_NAMES: dict[str, str] = {
+STATE_NAMES: Dict[str, str] = {
     "AL": "Alabama",
     "AK": "Alaska",
     "AZ": "Arizona",
@@ -152,7 +152,7 @@ STATE_NAMES: dict[str, str] = {
     "PR": "Puerto Rico",
 }
 
-STATE_FIPS: dict[str, str] = {
+STATE_FIPS: Dict[str, str] = {
     "AL": "01",
     "AK": "02",
     "AZ": "04",
@@ -207,7 +207,7 @@ STATE_FIPS: dict[str, str] = {
     "PR": "72",
 }
 
-DISTRICTS_BY_STATE: dict[str, Any] = {
+DISTRICTS_BY_STATE: Dict[str, Any] = {
     "AL": {"congress": 7, "upper": 35, "lower": 105},
     "AK": {"congress": 1, "upper": 20, "lower": 40},
     "AZ": {"congress": 9, "upper": 30, "lower": None},
@@ -260,7 +260,7 @@ DISTRICTS_BY_STATE: dict[str, Any] = {
     "WY": {"congress": 1, "upper": 31, "lower": 62},
 }
 
-COUNTIES_BY_STATE: dict[str, int] = {
+COUNTIES_BY_STATE: Dict[str, int] = {
     "AL": 67,
     "AK": 30,
     "AZ": 15,
@@ -313,7 +313,7 @@ COUNTIES_BY_STATE: dict[str, int] = {
     "WY": 23,
 }
 
-STUDY_STATES: list[str] = [
+STUDY_STATES: List[str] = [
     "AL",
     "AZ",
     "AR",
@@ -360,7 +360,7 @@ STUDY_STATES: list[str] = [
     "WV",
 ]  # 42 states with 2 or congressional districts (except HI and ME -- see above)
 
-ENSEMBLE_STATES: list[str] = [
+ENSEMBLE_STATES: List[str] = [
     "NJ",
     "NC",
     "SC",

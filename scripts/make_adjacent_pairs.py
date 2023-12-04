@@ -36,7 +36,7 @@ def main() -> None:
     graph_path: str = path_to_file([data_dir, xx]) + file_name(
         [xx, cycle, "graph"], "_", "json"
     )
-    graph_data: dict = read_json(graph_path)
+    graph_data: Dict = read_json(graph_path)
 
     ### CONVERT IT TO PAIRS OF ADJACENT PRECINCTS ###
 

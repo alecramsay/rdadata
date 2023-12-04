@@ -53,11 +53,11 @@ def main() -> None:
     shapes_path: str = path_to_file([data_dir, xx]) + file_name(
         [xx, cycle, "shapes_simplified"], "_", "json"
     )
-    shapes: dict = read_json(shapes_path)
+    shapes: Dict = read_json(shapes_path)
 
     ### JOIN THEM BY GEOID & SUBSET THE FIELDS ###
 
-    points: list[dict] = list()
+    points: List[Dict] = list()
 
     for row in data:
         point = dict()

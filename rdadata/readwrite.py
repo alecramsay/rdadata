@@ -20,7 +20,7 @@ from shapely.geometry import (
 )
 import fiona
 import contextlib
-from typing import Any, Optional, Generator, TextIO
+from typing import Any, List, Dict, Tuple, Optional, Generator, TextIO
 
 
 ### FILE NAMES & PATHS ###
@@ -40,7 +40,7 @@ class FileSpec:
         self.extension: str = file_extension
 
 
-def file_name(parts: list[str], delim: str = "_", ext: Optional[str] = None) -> str:
+def file_name(parts: List[str], delim: str = "_", ext: Optional[str] = None) -> str:
     """Construct a file name with parts separated by the delimeter and ending with the extension."""
 
     name: str = delim.join(parts) + "." + ext if ext else delim.join(parts)
@@ -48,7 +48,7 @@ def file_name(parts: list[str], delim: str = "_", ext: Optional[str] = None) -> 
     return name
 
 
-def path_to_file(parts: list[str], naked: bool = False) -> str:
+def path_to_file(parts: List[str], naked: bool = False) -> str:
     """Return the directory path to a file (but not the file)."""
 
     rel_path: str = "/".join(parts)
@@ -62,7 +62,7 @@ def path_to_file(parts: list[str], naked: bool = False) -> str:
 ### CSV ###
 
 
-def read_csv(rel_path: str, types: Optional[list] = None) -> list[dict]:
+def read_csv(rel_path: str, types: Optional[list] = None) -> List[Dict]:
     """Read a CSV with DictReader. Return a list of dicts.
 
     Patterned after: https://stackoverflow.com/questions/8748398/python-csv-dictreader-type
@@ -76,8 +76,8 @@ def read_csv(rel_path: str, types: Optional[list] = None) -> list[dict]:
             reader: DictReader[str] = DictReader(
                 file, fieldnames=None, restkey=None, restval=None, dialect="excel"
             )
-            fieldnames: list[str] = list(reader.fieldnames) if reader.fieldnames else []
-            field_types: list[Any] = types if types else [str] * len(fieldnames)
+            fieldnames: List[str] = list(reader.fieldnames) if reader.fieldnames else []
+            field_types: List[Any] = types if types else [str] * len(fieldnames)
             for t in field_types:
                 assert t in [str, int, float]
 
@@ -90,7 +90,7 @@ def read_csv(rel_path: str, types: Optional[list] = None) -> list[dict]:
                     iconverted: list = [x(y) for (x, y) in zip(field_types, ivalues)]
 
                     # Pass the field names and the converted values to the dict constructor
-                    row_out: dict = dict(zip(fieldnames, iconverted))
+                    row_out: Dict = dict(zip(fieldnames, iconverted))
 
                     rows.append(row_out)
 
@@ -112,7 +112,7 @@ def write_csv(rel_path, rows, cols, *, precision="{:.6f}", header=True) -> None:
                 writer.writeheader()
 
             for row in rows:
-                mod: dict = dict()
+                mod: Dict = dict()
                 for k, v in row.items():
                     if isinstance(v, float):
                         mod[k] = precision.format(v)
@@ -127,7 +127,7 @@ def write_csv(rel_path, rows, cols, *, precision="{:.6f}", header=True) -> None:
 ### JSON ###
 
 
-def read_json(rel_path) -> dict[str, Any]:
+def read_json(rel_path) -> Dict[str, Any]:
     """Load a JSON file into a dictionary."""
 
     try:
@@ -155,12 +155,12 @@ def write_json(rel_path, data) -> None:
 ### LOAD A SHAPEFILE ###
 
 
-def read_shapes(shp_file: str, id: str) -> tuple[dict, Optional[dict[str, Any]]]:
+def read_shapes(shp_file: str, id: str) -> Tuple[dict, Optional[Dict[str, Any]]]:
     """Load a shapefile into a dictionary of shapes keyed by the value of the specified field."""
 
     shp_path: str = os.path.expanduser(shp_file)
-    shapes_by_id: dict = dict()
-    meta: Optional[dict[str, Any]] = None
+    shapes_by_id: Dict = dict()
+    meta: Optional[Dict[str, Any]] = None
 
     with fiona.Env():
         with fiona.open(shp_path) as source:

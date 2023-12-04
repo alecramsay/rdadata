@@ -49,7 +49,7 @@ def main() -> None:
     unit = study_unit(xx)
     unit_label: str = "vtd20" if unit == "vtd" else unit
 
-    fips_map: dict[str, str] = STATE_FIPS
+    fips_map: Dict[str, str] = STATE_FIPS
     fips: str = fips_map[xx]
 
     id: str = unit_id(unit)

@@ -55,7 +55,7 @@ def main() -> None:
 
     ### JOIN THE CENSUS & ELECTION DATA BY GEOID ###
 
-    data: dict[str, dict[str, int]] = dict()
+    data: Dict[str, Dict[str, int]] = dict()
 
     for row in census:
         geoid: str = row[geoid_field]
@@ -67,9 +67,9 @@ def main() -> None:
 
     ### WRITE THE DATA BACK OUT AS A CSV ###
 
-    joined: list[dict] = list()
+    joined: List[Dict] = list()
     for geoid in data:
-        row: dict = {"GEOID": geoid}
+        row: Dict = {"GEOID": geoid}
         row.update(data[geoid])
         joined.append(row)
 

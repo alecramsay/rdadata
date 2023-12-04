@@ -1,10 +1,14 @@
+"""
+REQUIRE ARGS - DEBUG & EXPLICIT MODES
+"""
+
 import sys
 import argparse
-from typing import Any, Optional
+from typing import Any, Dict, Optional
 
 
 def require_args(
-    args: argparse.Namespace, debug_mode: bool, debug_defaults: dict[str, Any]
+    args: argparse.Namespace, debug_mode: bool, debug_defaults: Dict[str, Any]
 ) -> argparse.Namespace:
     """This extends parser.parse_args() to enable two modes of operation:
     - debug: default values are used for the args in debug_defaults, regardless of user input or add_argument defaults
@@ -75,7 +79,7 @@ def parse_args():
     args: argparse.Namespace = parser.parse_args()
 
     # Specify default values for args in debug mode
-    debug_defaults: dict[str, Any] = {
+    debug_defaults: Dict[str, Any] = {
         "requiredstr": "Default str",
         "requiredint": 14,
         "optionalint": 10,

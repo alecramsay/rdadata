@@ -50,8 +50,8 @@ def mkPoints(
     return points
 
 
-def mkAdjacencies(graph: Graph) -> list[tuple[str, str]]:
-    adjacencies: list[tuple[str, str]] = list()
+def mkAdjacencies(graph: Graph) -> List[Tuple[str, str]]:
+    adjacencies: List[Tuple[str, str]] = list()
     for one, two in graph.adjacencies():
         if one != "OUT_OF_STATE" and two != "OUT_OF_STATE":
             adjacencies.append((one, two))
@@ -71,10 +71,10 @@ def index_geoids(
     return offset_by_geoid
 
 
-def index_data(data: list[dict]) -> dict[str, dict[str, int]]:
+def index_data(data: List[Dict]) -> Dict[str, Dict[str, int]]:
     """Index precinct data by GEOID"""
 
-    indexed: dict[str, dict[str, int]] = dict()
+    indexed: Dict[str, Dict[str, int]] = dict()
     for row in data:
         geoid: str = row[geoid_field]
         indexed[geoid] = row
@@ -124,7 +124,7 @@ def index_pairs(
 def index_assignments(
     assignments: List[Dict[str, str | int]],
     offset_by_geoid: Dict[str, int],
-    pop_by_geoid: dict[str, int],
+    pop_by_geoid: Dict[str, int],
 ) -> List[Assignment]:
     """Index assignments by GEOID offset."""
 
@@ -186,7 +186,7 @@ def squared_distance(a: LatLong, b: LatLong) -> float:
     return (a.lat - b.lat) * (a.lat - b.lat) + (a.long - b.long) * (a.long - b.long)
 
 
-def get_centroids(assigns: List[Assignment], points: List[Point]) -> list[LatLong]:
+def get_centroids(assigns: List[Assignment], points: List[Point]) -> List[LatLong]:
     bysite: defaultdict[int, List[Assignment]] = defaultdict(list)
     for a in assigns:
         bysite[a.site].append(a)

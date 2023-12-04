@@ -17,7 +17,7 @@ $ scripts/extract_shape_data.py -h
 import argparse
 from argparse import ArgumentParser, Namespace
 
-from typing import Any, Optional
+from typing import Any, List, Dict, Tuple, Optional
 from shapely.geometry import Polygon, MultiPolygon, Point
 
 from rdadata import (
@@ -34,7 +34,7 @@ from rdadata import (
 )
 
 
-def find_center(shp) -> tuple[float, float]:
+def find_center(shp) -> Tuple[float, float]:
     """Get a centroid-like point guaranteed to be w/in the feature"""
 
     x: float = shp.centroid.x
@@ -65,7 +65,7 @@ def main() -> None:
     # THRESHOLD: float = 0.00026 # too high
     # THRESHOLD: float = 0.00025  # too low
 
-    fips_map: dict[str, str] = STATE_FIPS
+    fips_map: Dict[str, str] = STATE_FIPS
     fips: str = fips_map[xx]
 
     ### LOAD THE GRAPH ###
@@ -74,7 +74,7 @@ def main() -> None:
         [xx, cycle, "graph"], "_", "json"
     )
 
-    graph: dict[str, list[str]] = read_json(graph_path)
+    graph: Dict[str, List[str]] = read_json(graph_path)
 
     ### LOAD THE SHAPES ###
 
@@ -88,12 +88,12 @@ def main() -> None:
         geoid_field = "id"
 
     vtd_shps: dict
-    other: Optional[dict[str, Any]]
+    other: Optional[Dict[str, Any]]
     vtd_shps, other = read_shapes(vtd_path, geoid_field)
 
     ### ABSTRACT THE SHAPES ###
 
-    vtd_abstracts: dict[str, dict[str, Any]] = dict()
+    vtd_abstracts: Dict[str, Dict[str, Any]] = dict()
 
     for item in vtd_shps.items():
         geoid: str = item[0]
@@ -102,12 +102,12 @@ def main() -> None:
         if simplify:
             shp = shp.simplify(THRESHOLD, preserve_topology=True)
 
-        center: tuple[float, float] = find_center(shp)
+        center: Tuple[float, float] = find_center(shp)
 
         area: float = shp.area
 
-        arcs: dict[str, float] = dict()  # The shared border lengths by neighbor
-        neighbors: list[str] = graph[geoid]
+        arcs: Dict[str, float] = dict()  # The shared border lengths by neighbor
+        neighbors: List[str] = graph[geoid]
         perimeter: float = shp.length
         total_shared_border: float = 0.0
 
@@ -129,7 +129,7 @@ def main() -> None:
             arcs[OUT_OF_STATE] = remaining
 
         ch = shp.convex_hull
-        pts: list[tuple[float, float]] = list(ch.exterior.coords)
+        pts: List[Tuple[float, float]] = list(ch.exterior.coords)
 
         vtd_abstracts[geoid] = {
             "center": center,

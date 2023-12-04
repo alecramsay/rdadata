@@ -32,7 +32,7 @@ def main() -> None:
 
     args: Namespace = parse_args()
 
-    fips_map: dict[str, str] = STATE_FIPS
+    fips_map: Dict[str, str] = STATE_FIPS
 
     xx: str = args.state
     fips: str = fips_map[xx]
@@ -60,7 +60,7 @@ def main() -> None:
             line = f.readline()
             if line == "":
                 break
-            fields: list[str] = line.split("|")
+            fields: List[str] = line.split("|")
             geoid: str = "".join([fields[0], fields[1], fields[2]])
             name: str = fields[3]
             print(f"{geoid},{name}")
