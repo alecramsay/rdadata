@@ -31,6 +31,7 @@ from .energy import (
     Assignment,
     calc_energy,
 )
+from .requireargs import require_args
 from .misc import starting_seed
 
 name: str = "rdadata"
