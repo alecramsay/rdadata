@@ -2,7 +2,7 @@
 
 This shared code is in the `rdadata` package:
 
-- **constants.py**- recurring constants, e.g., state FIPS codes
+- **constants.py** - many recurring constants, e.g., state FIPS codes
 - **readwrite.py** - utilities to read and write files - FileSpec, file_name, path_to_file, read_csv, write_csv, read_json,write_json, read_shapes, write_pickle, read_pickle, smart_open
 - **approxequal.py** - utilities for determining approximate equality - approx_equal, dict_approx_equal
 - **geoutils.py** - utilities for dealing with geoids - GeoID, study_unit, unit_id
