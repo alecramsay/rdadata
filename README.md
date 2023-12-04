@@ -30,10 +30,10 @@ In the future, we may extract data for other states.
 
 # Code
 
-Some application helpers are described here:
+Some shared code and scripts are described here:
 
+- [Shared Code](./docs/code.md): Common code used in multiple applications.
 - [Scripts](./docs/scripts.md): Scripts to re-format the data for specific applications.
-- [Functions](./docs/functions.md): Functions to re-format the data for specific applications.
 
 ## Sources
 
