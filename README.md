@@ -1,5 +1,5 @@
 # rdadata
-Redistricting analytics data
+Redistricting analytics data &amp; shared code
 
 ## Installation
 
@@ -10,7 +10,7 @@ $ git clone https://github.com/alecramsay/rdadata
 $ cd rdadata
 ```
 
-To use the helper code, install the package:
+To use the shared code, install the package:
 
 ```bash
 $ pip install rdadata
