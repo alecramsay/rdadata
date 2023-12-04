@@ -28,7 +28,7 @@ These pages describe each dataset:
 At present, data for [fifteen states](./docs/states.md) have been extracted.
 In the future, we may extract data for other states.
 
-# Code
+## Code
 
 Some shared code and scripts are described here:
 
