@@ -25,6 +25,11 @@ These pages describe each dataset:
 - [Shapes](./docs/shapes.md): Shape properties by precinct.
 - [Graph](./docs/graph.md): Precinct adjacency graph.
 
+At present, data for [fifteen states](./docs/states.md) have been extracted.
+In the future, we may extract data for other states.
+
+# Code
+
 Some application helpers are described here:
 
 - [Scripts](./docs/scripts.md): Scripts to re-format the data for specific applications.
