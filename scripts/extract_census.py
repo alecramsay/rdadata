@@ -98,7 +98,7 @@ def main() -> None:
 
     ### WRITE THE NORMALIZED CENSUS DATA TO A CSV ###
 
-    output_path: str = path_to_file([wip_dir]) + file_name(
+    output_path: str = path_to_file([temp_dir]) + file_name(
         [xx, cycle, "census"], "_", "csv"
     )
     write_csv(output_path, census, [geoid_field] + census_fields)

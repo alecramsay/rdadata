@@ -18,8 +18,7 @@ data_dir: str = "data"
 temp_dir: str = "temp"
 testdata_dir: str = "testdata"
 intermediate_dir: str = "intermediate"
-maps_dir: str = "maps"
-wip_dir: str = "wip"
+output_dir: str = "output"
 
 ### PROJECT CONSTANTS ###
 

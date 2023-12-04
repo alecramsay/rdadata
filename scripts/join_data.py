@@ -52,14 +52,14 @@ def main() -> None:
 
     ### READ THE CENSUS DATA ###
 
-    census_path: str = path_to_file([wip_dir]) + file_name(
+    census_path: str = path_to_file([temp_dir]) + file_name(
         [xx, cycle, "census"], "_", "csv"
     )
     census: list = read_csv(census_path, [str] + [int] * 9)
 
     ### READ THE ELECTION DATA ###
 
-    election_path: str = path_to_file([wip_dir]) + file_name(
+    election_path: str = path_to_file([temp_dir]) + file_name(
         [xx, cycle, "election"], "_", "csv"
     )
     election: list = read_csv(election_path, [str] + [int] * 4)
