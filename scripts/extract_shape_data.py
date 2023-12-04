@@ -18,9 +18,21 @@ $ scripts/extract_shape_data.py -h
 import argparse
 from argparse import ArgumentParser, Namespace
 
-from shapely.geometry import Polygon, MultiPolygon
+from typing import Any, Optional
+from shapely.geometry import Polygon, MultiPolygon, Point
 
-from rdadata import *
+from rdadata import (
+    path_to_file,
+    file_name,
+    read_json,
+    write_json,
+    read_shapes,
+    STATE_FIPS,
+    data_dir,
+    shapes_dir,
+    cycle,
+    OUT_OF_STATE,
+)
 
 
 def find_center(shp) -> tuple[float, float]:
@@ -35,34 +47,6 @@ def find_center(shp) -> tuple[float, float]:
         y: float = pt.y
 
     return x, y
-
-
-def parse_args() -> Namespace:
-    parser: ArgumentParser = argparse.ArgumentParser(
-        description="Copy the shapes for a state."
-    )
-
-    parser.add_argument(
-        "-s",
-        "--state",
-        default="NC",
-        help="The two-character state code (e.g., NC)",
-        type=str,
-    )
-    parser.add_argument(
-        "-u",
-        "--unsimplified",
-        dest="unsimplified",
-        action="store_true",
-        help="Simplify mode",
-    )
-
-    parser.add_argument(
-        "-v", "--verbose", dest="verbose", action="store_true", help="Verbose mode"
-    )
-
-    args: Namespace = parser.parse_args()
-    return args
 
 
 def main() -> None:
@@ -164,6 +148,34 @@ def main() -> None:
     )
     output_path: str = path_to_file([data_dir, xx]) + shapes_name
     write_json(output_path, vtd_abstracts)
+
+
+def parse_args() -> Namespace:
+    parser: ArgumentParser = argparse.ArgumentParser(
+        description="Copy the shapes for a state."
+    )
+
+    parser.add_argument(
+        "-s",
+        "--state",
+        default="NC",
+        help="The two-character state code (e.g., NC)",
+        type=str,
+    )
+    parser.add_argument(
+        "-u",
+        "--unsimplified",
+        dest="unsimplified",
+        action="store_true",
+        help="Simplify mode",
+    )
+
+    parser.add_argument(
+        "-v", "--verbose", dest="verbose", action="store_true", help="Verbose mode"
+    )
+
+    args: Namespace = parser.parse_args()
+    return args
 
 
 if __name__ == "__main__":

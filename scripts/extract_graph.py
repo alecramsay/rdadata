@@ -18,32 +18,21 @@ $ scripts/extract_graph.py -h
 import argparse
 from argparse import ArgumentParser, Namespace
 
-from rdadata import *
-
-
-def parse_args() -> Namespace:
-    parser: ArgumentParser = argparse.ArgumentParser(
-        description="Extract an adjacency graph from a shapefile."
-    )
-
-    parser.add_argument(
-        "-s",
-        "--state",
-        default="NC",
-        help="The two-character state code (e.g., NC)",
-        type=str,
-    )
-    parser.add_argument(
-        "-a", "--adds", dest="adds", action="store_true", help="Additional adjacencies"
-    )
-
-    parser.add_argument(
-        "-v", "--verbose", dest="verbose", action="store_true", help="Verbose mode"
-    )
-
-    args: Namespace = parser.parse_args()
-
-    return args
+from rdadata import (
+    path_to_file,
+    file_name,
+    read_json,
+    write_json,
+    data_dir,
+    temp_dir,
+    study_unit,
+    unit_id,
+    STATE_FIPS,
+    shapes_dir,
+    cycle,
+    read_mods,
+    Graph,
+)
 
 
 def main() -> None:
@@ -99,6 +88,31 @@ def main() -> None:
         [xx, cycle, unit, "graph"], "_", "json"
     )
     write_json(graph_path, graph.data())
+
+
+def parse_args() -> Namespace:
+    parser: ArgumentParser = argparse.ArgumentParser(
+        description="Extract an adjacency graph from a shapefile."
+    )
+
+    parser.add_argument(
+        "-s",
+        "--state",
+        default="NC",
+        help="The two-character state code (e.g., NC)",
+        type=str,
+    )
+    parser.add_argument(
+        "-a", "--adds", dest="adds", action="store_true", help="Additional adjacencies"
+    )
+
+    parser.add_argument(
+        "-v", "--verbose", dest="verbose", action="store_true", help="Verbose mode"
+    )
+
+    args: Namespace = parser.parse_args()
+
+    return args
 
 
 if __name__ == "__main__":

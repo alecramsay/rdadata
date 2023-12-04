@@ -10,7 +10,7 @@ $ scripts/run_batch.py
 """
 
 import os
-from rdadata import *
+from rdadata import ENSEMBLE_STATES
 
 for xx in ENSEMBLE_STATES:
     if xx == "NC":

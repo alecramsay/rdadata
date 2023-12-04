@@ -17,28 +17,18 @@ $ scripts/join_data.py -h
 import argparse
 from argparse import ArgumentParser, Namespace
 
-from rdadata import *
-
-
-def parse_args() -> Namespace:
-    parser: ArgumentParser = argparse.ArgumentParser(
-        description="Join the census & election data for a state and index it by GEOID."
-    )
-
-    parser.add_argument(
-        "-s",
-        "--state",
-        default="NC",
-        help="The two-character state code (e.g., NC)",
-        type=str,
-    )
-
-    parser.add_argument(
-        "-v", "--verbose", dest="verbose", action="store_true", help="Verbose mode"
-    )
-
-    args: Namespace = parser.parse_args()
-    return args
+from rdadata import (
+    path_to_file,
+    file_name,
+    read_csv,
+    write_csv,
+    data_dir,
+    temp_dir,
+    cycle,
+    census_fields,
+    geoid_field,
+    election_fields,
+)
 
 
 def main() -> None:
@@ -90,6 +80,27 @@ def main() -> None:
         [xx, cycle, "data"], "_", "csv"
     )
     write_csv(output_path, joined, joined[0].keys())
+
+
+def parse_args() -> Namespace:
+    parser: ArgumentParser = argparse.ArgumentParser(
+        description="Join the census & election data for a state and index it by GEOID."
+    )
+
+    parser.add_argument(
+        "-s",
+        "--state",
+        default="NC",
+        help="The two-character state code (e.g., NC)",
+        type=str,
+    )
+
+    parser.add_argument(
+        "-v", "--verbose", dest="verbose", action="store_true", help="Verbose mode"
+    )
+
+    args: Namespace = parser.parse_args()
+    return args
 
 
 if __name__ == "__main__":

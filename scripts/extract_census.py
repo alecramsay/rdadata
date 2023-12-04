@@ -17,27 +17,22 @@ $ scripts/extract_census.py -h
 import argparse
 from argparse import ArgumentParser, Namespace
 
-from rdadata import *
+from csv import DictReader
+from typing import Any
 
-
-def parse_args() -> Namespace:
-    parser: ArgumentParser = argparse.ArgumentParser(
-        description="Extract census data from a vtd_data CSV file."
-    )
-
-    parser.add_argument(
-        "-s",
-        "--state",
-        default="NC",
-        help="The two-character state code (e.g., NC)",
-        type=str,
-    )
-    parser.add_argument(
-        "-v", "--verbose", dest="verbose", action="store_true", help="Verbose mode"
-    )
-
-    args: Namespace = parser.parse_args()
-    return args
+from rdadata import (
+    path_to_file,
+    file_name,
+    read_json,
+    write_csv,
+    FileSpec,
+    data_dir,
+    census_dir,
+    temp_dir,
+    cycle,
+    census_fields,
+    geoid_field,
+)
 
 
 def main() -> None:
@@ -102,6 +97,26 @@ def main() -> None:
         [xx, cycle, "census"], "_", "csv"
     )
     write_csv(output_path, census, [geoid_field] + census_fields)
+
+
+def parse_args() -> Namespace:
+    parser: ArgumentParser = argparse.ArgumentParser(
+        description="Extract census data from a vtd_data CSV file."
+    )
+
+    parser.add_argument(
+        "-s",
+        "--state",
+        default="NC",
+        help="The two-character state code (e.g., NC)",
+        type=str,
+    )
+    parser.add_argument(
+        "-v", "--verbose", dest="verbose", action="store_true", help="Verbose mode"
+    )
+
+    args: Namespace = parser.parse_args()
+    return args
 
 
 if __name__ == "__main__":

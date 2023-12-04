@@ -20,31 +20,7 @@ NOTE - Before running this script for a state, you have to create a config file 
 import argparse
 from argparse import ArgumentParser, Namespace
 
-from rdadata import *
-
-
-def parse_args() -> Namespace:
-    parser: ArgumentParser = argparse.ArgumentParser(
-        description="Preprocess the data & shapes for a state."
-    )
-
-    parser.add_argument(
-        "-s",
-        "--state",
-        default="NC",
-        help="The two-character state code (e.g., NC)",
-        type=str,
-    )
-    parser.add_argument(
-        "-a", "--adds", dest="adds", action="store_true", help="Additional adjacencies"
-    )
-
-    parser.add_argument(
-        "-v", "--verbose", dest="verbose", action="store_true", help="Verbose mode"
-    )
-
-    args: Namespace = parser.parse_args()
-    return args
+import os
 
 
 def main() -> None:
@@ -76,6 +52,30 @@ def main() -> None:
         command = command.format(xx=xx, adds_flag=adds_flag)
         print(f"{command}")
         os.system(command)
+
+
+def parse_args() -> Namespace:
+    parser: ArgumentParser = argparse.ArgumentParser(
+        description="Preprocess the data & shapes for a state."
+    )
+
+    parser.add_argument(
+        "-s",
+        "--state",
+        default="NC",
+        help="The two-character state code (e.g., NC)",
+        type=str,
+    )
+    parser.add_argument(
+        "-a", "--adds", dest="adds", action="store_true", help="Additional adjacencies"
+    )
+
+    parser.add_argument(
+        "-v", "--verbose", dest="verbose", action="store_true", help="Verbose mode"
+    )
+
+    args: Namespace = parser.parse_args()
+    return args
 
 
 if __name__ == "__main__":
