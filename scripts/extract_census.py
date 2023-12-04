@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-#
 
 """
-Extract census data & normalize it.
+EXTRACT CENSUS DATA & NORMALIZE IT.
 
 For example:
 

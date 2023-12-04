@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#
 
 """
 MAKE A POINTS FILE FOR INPUT TO THE ROOT/BASELINE CODE
@@ -19,35 +18,17 @@ import os
 import argparse
 from argparse import ArgumentParser, Namespace
 
-from rdadata import *
-
-
-def parse_args() -> Namespace:
-    parser: ArgumentParser = argparse.ArgumentParser(
-        description="Make a points file for input to the root/baseline code."
-    )
-
-    parser.add_argument(
-        "-s",
-        "--state",
-        default="NC",
-        help="The two-character state code (e.g., NC)",
-        type=str,
-    )
-    parser.add_argument(
-        "-o",
-        "--output",
-        default="~/Downloads/",
-        help="Path to output directory",
-        type=str,
-    )
-
-    parser.add_argument(
-        "-v", "--verbose", dest="verbose", action="store_true", help="Verbose mode"
-    )
-
-    args: Namespace = parser.parse_args()
-    return args
+from rdadata import (
+    path_to_file,
+    file_name,
+    read_csv,
+    read_json,
+    write_csv,
+    FileSpec,
+    data_dir,
+    cycle,
+    geoid_field,
+)
 
 
 def main() -> None:
@@ -56,7 +37,7 @@ def main() -> None:
     args: Namespace = parse_args()
 
     xx: str = args.state
-    output_dir: str = os.path.expanduser(args.output)
+    dest_dir: str = os.path.expanduser(args.output)
 
     verbose: bool = args.verbose
 
@@ -91,8 +72,36 @@ def main() -> None:
 
     ### WRITE THE COMBINED DATA AS A CSV ###
 
-    output_path: str = output_dir + file_name([xx, cycle, "points"], "_", "csv")
+    output_path: str = dest_dir + file_name([xx, cycle, "points"], "_", "csv")
     write_csv(output_path, points, ["GEOID", "POP", "X", "Y"], precision="{:.14f}")
+
+
+def parse_args() -> Namespace:
+    parser: ArgumentParser = argparse.ArgumentParser(
+        description="Make a points file for input to the root/baseline code."
+    )
+
+    parser.add_argument(
+        "-s",
+        "--state",
+        default="NC",
+        help="The two-character state code (e.g., NC)",
+        type=str,
+    )
+    parser.add_argument(
+        "-o",
+        "--output",
+        default="~/Downloads/",
+        help="Path to output directory",
+        type=str,
+    )
+
+    parser.add_argument(
+        "-v", "--verbose", dest="verbose", action="store_true", help="Verbose mode"
+    )
+
+    args: Namespace = parser.parse_args()
+    return args
 
 
 if __name__ == "__main__":

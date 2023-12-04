@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#
 
 """
 JOIN THE CENSUS & ELECTION DATA FOR A STATE

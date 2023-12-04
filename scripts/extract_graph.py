@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#
 
 """
 EXTRACT A CONTIGUITY GRAPH FOR A STATE & GEOGRAPHIC UNIT.

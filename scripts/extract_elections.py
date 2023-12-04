@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-#
 
 """
-Extract election data & normalize it.
+EXTRACT ELECTION DATA & NORMALIZE IT.
 
 For example:
 

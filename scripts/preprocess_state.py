@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#
 
 """
 PREPROCESS THE DATA & SHAPES FOR A STATE

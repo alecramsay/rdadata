@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#
 
 """
 EXTRACT FRIENDLY NAMES BY PRECINCT GEOID
