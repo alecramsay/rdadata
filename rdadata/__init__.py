@@ -25,6 +25,7 @@ from .energy import (
     index_geoids,
     index_data,
     index_points,
+    index_pairs,
     index_assignments,
     LatLong,
     Point,
