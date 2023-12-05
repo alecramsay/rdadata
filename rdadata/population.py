@@ -3,7 +3,7 @@ POPULATION-related helper functions
 """
 
 from collections import defaultdict
-from typing import Dict
+from typing import List, Dict
 
 
 def populations(data: Dict[str, Dict[str, int]]) -> Dict[str, int]:

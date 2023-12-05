@@ -4,7 +4,7 @@ REQUIRE ARGS - DEBUG & EXPLICIT MODES
 
 import sys
 import argparse
-from typing import Any, Dict, Optional
+from typing import Any, List, Dict, Optional
 
 
 def require_args(
