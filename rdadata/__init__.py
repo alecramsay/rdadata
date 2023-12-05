@@ -1,4 +1,4 @@
-# rdafn/__init__.py
+# rdadata/__init__.py
 
 from .constants import *
 from .readwrite import (
