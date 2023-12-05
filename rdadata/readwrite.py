@@ -71,7 +71,7 @@ def read_csv(rel_path: str, types: Optional[list] = None) -> List[Dict]:
     abs_path: str = FileSpec(rel_path).abs_path
 
     try:
-        rows: list = []
+        rows: List = []
         with open(abs_path, "r", encoding="utf-8-sig") as file:
             reader: DictReader[str] = DictReader(
                 file, fieldnames=None, restkey=None, restval=None, dialect="excel"
@@ -87,7 +87,7 @@ def read_csv(rel_path: str, types: Optional[list] = None) -> List[Dict]:
                     ivalues: map[str | Any | None] = map(row_in.get, fieldnames)
 
                     # Apply type conversions
-                    iconverted: list = [x(y) for (x, y) in zip(field_types, ivalues)]
+                    iconverted: List = [x(y) for (x, y) in zip(field_types, ivalues)]
 
                     # Pass the field names and the converted values to the dict constructor
                     row_out: Dict = dict(zip(fieldnames, iconverted))

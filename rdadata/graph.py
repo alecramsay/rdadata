@@ -111,7 +111,7 @@ class Graph:
 
         return list(self._data.keys())
 
-    def neighbors(self, node: str | int, *, excluding: list = []) -> List[str | int]:
+    def neighbors(self, node: str | int, *, excluding: List = []) -> List[str | int]:
         """Return the neighbors of a node."""
 
         if node not in self._data:
@@ -242,7 +242,7 @@ def read_mods(mods_csv) -> List:
     +, 440099902000, 440099901000
     """
 
-    mods: list = list()
+    mods: List = list()
 
     try:
         # Get the full path to the .csv

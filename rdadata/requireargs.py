@@ -19,7 +19,7 @@ def require_args(
         for k, v in debug_defaults.items():
             setattr(args, k, v)
     else:  # explicit mode
-        missing_args: list = list()
+        missing_args: List = list()
         for k, v in debug_defaults.items():
             if getattr(args, k) is None:
                 missing_args.append(k)

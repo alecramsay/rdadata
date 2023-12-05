@@ -16,6 +16,8 @@ $ scripts/join_data.py -h
 import argparse
 from argparse import ArgumentParser, Namespace
 
+from typing import Dict, List
+
 from rdadata import (
     path_to_file,
     file_name,
@@ -44,14 +46,14 @@ def main() -> None:
     census_path: str = path_to_file([temp_dir]) + file_name(
         [xx, cycle, "census"], "_", "csv"
     )
-    census: list = read_csv(census_path, [str] + [int] * 9)
+    census: List[Dict[str, str | int]] = read_csv(census_path, [str] + [int] * 9)
 
     ### READ THE ELECTION DATA ###
 
     election_path: str = path_to_file([temp_dir]) + file_name(
         [xx, cycle, "election"], "_", "csv"
     )
-    election: list = read_csv(election_path, [str] + [int] * 4)
+    election: List[Dict[str, str | int]] = read_csv(election_path, [str] + [int] * 4)
 
     ### JOIN THE CENSUS & ELECTION DATA BY GEOID ###
 

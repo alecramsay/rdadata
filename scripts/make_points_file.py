@@ -18,6 +18,8 @@ import os
 import argparse
 from argparse import ArgumentParser, Namespace
 
+from typing import Dict, List
+
 from rdadata import (
     path_to_file,
     file_name,
@@ -46,7 +48,7 @@ def main() -> None:
     data_path: str = path_to_file([data_dir, xx]) + file_name(
         [xx, cycle, "data"], "_", "csv"
     )
-    data: list = read_csv(data_path, [str] + [int] * 13)
+    data: List[Dict[str, str | int]] = read_csv(data_path, [str] + [int] * 13)
 
     ### READ THE SHAPES DATA ###
 
@@ -61,7 +63,7 @@ def main() -> None:
 
     for row in data:
         point = dict()
-        geoid: str = row[geoid_field]
+        geoid: str = str(row[geoid_field])
 
         point["GEOID"] = geoid
         point["POP"] = row["TOTAL_POP"]

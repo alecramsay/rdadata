@@ -71,12 +71,12 @@ def index_geoids(
     return offset_by_geoid
 
 
-def index_data(data: List[Dict]) -> Dict[str, Dict[str, int]]:
+def index_data(data: List[Dict[str, str | int]]) -> Dict[str, Dict[str, str | int]]:
     """Index precinct data by GEOID"""
 
-    indexed: Dict[str, Dict[str, int]] = dict()
+    indexed: Dict[str, Dict[str, str | int]] = dict()
     for row in data:
-        geoid: str = row[geoid_field]
+        geoid: str = str(row[geoid_field])
         indexed[geoid] = row
 
     return indexed

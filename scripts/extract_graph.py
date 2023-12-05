@@ -68,7 +68,7 @@ def main() -> None:
         adds_path: str = path_to_file([data_dir, xx]) + file_name(
             [xx, cycle, unit, "contiguity_mods"], "_", "csv"
         )
-        mods: list = read_mods(adds_path)
+        mods: List = read_mods(adds_path)
         # NOTE - Assume all mods are additions. Nothing else is supported yet.
 
         for mod in mods:
