@@ -1,6 +1,9 @@
 # rdadata
 Redistricting analytics data &amp; shared code
 
+Note: This repository has been archived.
+The data and code have been moved to the [rdatools/rdabase](https://github.com/rdatools/rdabase).
+
 ## Installation
 
 To get the data locally, clone the repository:
